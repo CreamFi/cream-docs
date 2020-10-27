@@ -3,7 +3,7 @@
 | Category | Tokens |
 | :--- | :--- |
 | Stables + Majors | USDT, USDC, BUSD, yCRV, yyCRV, ETH, renBTC, FTT, yETH |
-| Governance + Seeds | COMP, BAL, YFI, LINK, CREAM, LEND, CRV, MTA, SRM, UNI, SUSHI, wNXM, SWAG |
+| Governance + Seeds | COMP, BAL, YFI, LINK, CREAM, LEND, CRV, MTA, SRM, UNI, SUSHI, wNXM, SWAG, CEL |
 
 ### Stable + Major
 

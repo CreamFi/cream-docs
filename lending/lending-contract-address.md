@@ -26,6 +26,7 @@
 | crUNI | [0xe89a6D0509faF730BD707bf868d9A2A744a363C7](https://etherscan.io/address/0xe89a6D0509faF730BD707bf868d9A2A744a363C7) |
 | crWNXM | [0xeFF039C3c1D668f408d09dD7B63008622a77532C](https://etherscan.io/address/0xeff039c3c1d668f408d09dd7b63008622a77532c) |
 | crSWAG | [0x22B243B96495C547598D9042B6f94B01C22B2e9E](https://etherscan.io/address/0x22B243B96495C547598D9042B6f94B01C22B2e9E) |
+| crCEL | [0x8b3FF1ed4F36C2c2be675AFb13CC3AA5d73685a5](https://etherscan.io/address/0x8b3ff1ed4f36c2c2be675afb13cc3aa5d73685a5) |
 
 ### Protocol Address
 
