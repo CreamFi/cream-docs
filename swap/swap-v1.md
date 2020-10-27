@@ -1,0 +1,45 @@
+---
+description: Balancer Core Concept
+---
+
+# Swap v1
+
+### BFactory
+
+[0xf8062Eedf80D8D2527cE89435f670cb996aB4e54](https://etherscan.io/address/0xf8062Eedf80D8D2527cE89435f670cb996aB4e54)
+
+### BPool
+
+| Pair | Address |
+| :--- | :--- |
+| CREAM/USDC | [0x4Fd2d9d6eF05E13Bf0B167509151A4EC3D4d4b93](https://etherscan.io/address/0x4Fd2d9d6eF05E13Bf0B167509151A4EC3D4d4b93) |
+| CREAM/WETH | [0xa49b3c7C260ce8A7C665e20Af8aA6E099A86cf8A](https://etherscan.io/address/0xa49b3c7c260ce8a7c665e20af8aa6e099a86cf8a) |
+| crCREAM/crYFI | [0xA65405e0dD378C65308deAE51dA9e3BcEBb81261](https://etherscan.io/address/0xA65405e0dD378C65308deAE51dA9e3BcEBb81261) |
+| crYETH/crYYCRV | [0xB3284F2F22563F27cEF2912637b6A00F162317c4](https://etherscan.io/address/0xB3284F2F22563F27cEF2912637b6A00F162317c4) |
+| YETH/WETH | [0x6a3B875854f5518E85Ef97620c5e7de75bbc3fA0](https://etherscan.io/address/0x6a3B875854f5518E85Ef97620c5e7de75bbc3fA0) |
+| yyCRV/USDC | [0x661b94d96ADb18646e791A06576F7905a8d1BEF6](https://etherscan.io/address/0x661b94d96ADb18646e791A06576F7905a8d1BEF6) |
+| YFI/USDC | [0x7350c6D00D63AB5988250aea347f277c19BEA785](https://etherscan.io/address/0x7350c6D00D63AB5988250aea347f277c19BEA785) |
+| 80UNI/20WETH | [0x02566303a0e860ec66d3b79168459978b1b00c8e](https://etherscan.io/address/0x02566303a0e860ec66d3b79168459978b1b00c8e) |
+| 50CREAM/50UNI | [0x408e75C26e6182476940ece5b0Ba6491b4F13359](https://etherscan.io/address/0x408e75C26e6182476940ece5b0Ba6491b4F13359) |
+| 80FARM/20WETH | [0x655AD905dEc61E4Fb7d4840a1F450685801511b2](https://etherscan.io/address/0x655AD905dEc61E4Fb7d4840a1F450685801511b2) |
+| 95cyUSD/5CREAM | [0xaAF841fd6409c136FA4b960e22A92B45B26c9b41](https://etherscan.io/address/0xaAF841fd6409c136FA4b960e22A92B45B26c9b41) |
+
+### Subgraph
+
+{% embed url="https://thegraph.com/explorer/subgraph/creamfinancedev/cream-swap-beta" %}
+
+### Staking Rewards Pool
+
+| LPToken | Address |
+| :--- | :--- |
+| CREAM/USDC | [0x1676fc274B65966ED0c6438a26d34c6C92A5981C](https://etherscan.io/address/0x1676fc274B65966ED0c6438a26d34c6C92A5981C) |
+| CREAM/WETH | [0x43a8ecE49718E22D21077000768afF91849BCEfF](https://etherscan.io/address/0x43a8ecE49718E22D21077000768afF91849BCEfF) |
+| crCREAM/crYFI | [0xCC5f8cA88cAbA27f15746aeb481F0C446991F863](https://etherscan.io/address/0xCC5f8cA88cAbA27f15746aeb481F0C446991F863) |
+| crYETH/crYYCRV | [0xD032BfeDC68CE5067E3E0b766Dbcf653ceEA541a](https://etherscan.io/address/0xD032BfeDC68CE5067E3E0b766Dbcf653ceEA541a) |
+| YETH/WETH | [0xCF679b2E16498a866Bd4CBda60d42f208084c6E1](https://etherscan.io/address/0xCF679b2E16498a866Bd4CBda60d42f208084c6E1) |
+| yyCRV/USDC | [0xB8c3a282De181889EF20488e73e7A149a8C1bFe1](https://etherscan.io/address/0xB8c3a282De181889EF20488e73e7A149a8C1bFe1) |
+| YFI/USDC | [0x2ab765c2b4a4e197fbae769f86870f2310a04d61](https://etherscan.io/address/0x2ab765c2b4a4e197fbae769f86870f2310a04d61) |
+| UNI/WETH | [0xe539416a21F6D7eF7e143f1435484d333c274480](https://etherscan.io/address/0xe539416a21F6D7eF7e143f1435484d333c274480) |
+| UNI/CREAM | [0x1E5fe7bAd3672D0d0cc041B7154331EE461C3349](https://etherscan.io/address/0x1e5fe7bad3672d0d0cc041b7154331ee461c3349) |
+| cyUSD/CREAM | [0xAE76E0D0C4767E94Eb2898f42A96696Ae0061cEA](https://etherscan.io/address/0xAE76E0D0C4767E94Eb2898f42A96696Ae0061cEA) |
+
