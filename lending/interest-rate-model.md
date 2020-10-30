@@ -7,11 +7,11 @@
 
 ### Stable + Major
 
-![](https://i.imgur.com/IyOXwfj.png)
+![](https://i.imgur.com/5aoSePr.png)
 
 ### Governance + Seed
 
-![](https://i.imgur.com/EgaTtP5.png)
+![](https://i.imgur.com/Fg4vOj7.png)
 
 ### Protocol address
 
