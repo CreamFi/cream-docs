@@ -9,4 +9,5 @@
 * [Lending Contract Address](lending-contract-address.md)
 * [Collateral Factor & Reserve Factor](collateral-factor-and-reserve-factor.md)
 * [Interest Rate Model](interest-rate-model.md)
+* [Price Oracle](price-oracle.md)
 
