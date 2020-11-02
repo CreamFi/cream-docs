@@ -4,13 +4,13 @@
 * [Contract Address](smart-contract-address/README.md)
   * [Long-term CREAM Staking Address](smart-contract-address/long-term-cream-staking-address.md)
   * [Inactive Staking pools Address](smart-contract-address/inactive-staking-pools-address.md)
-* [Price Oracle](price-oracle.md)
 
 ## Lending
 
 * [Lending Contract Address](lending/lending-contract-address.md)
 * [Collateral Factor & Reserve Factor](lending/collateral-factor-and-reserve-factor-1.md)
 * [Interest Rate Model](lending/interest-rate-model.md)
+* [Price Oracle](lending/price-oracle.md)
 
 ## Swap
 

@@ -34,4 +34,5 @@
 | :--- | :--- |
 | Comptroller | [0x3d5BC3c8d13dcB8bF317092d84783c2697AE9258](https://etherscan.io/address/0x3d5BC3c8d13dcB8bF317092d84783c2697AE9258) |
 | PriceOracle | [0x4B7dbA23beA9d1a2d652373bcD1B78b0E9e0188a](https://etherscan.io/address/0x4B7dbA23beA9d1a2d652373bcD1B78b0E9e0188a) |
+| Lens | [0x69F2b8D8846e3dcd94C09e4f3CBB8d2ba8D9423f](https://etherscan.io/address/0x69F2b8D8846e3dcd94C09e4f3CBB8d2ba8D9423f) |
 

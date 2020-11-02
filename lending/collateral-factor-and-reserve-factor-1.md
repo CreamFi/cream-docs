@@ -2,7 +2,7 @@
 
 
 
-| Contract | Collateral factor | Reserve factor |
+| Token | Collateral factor | Reserve factor |
 | :--- | :--- | :--- |
 | ETH | 75% | 10% |
 | USDT | 70% | 20% |
