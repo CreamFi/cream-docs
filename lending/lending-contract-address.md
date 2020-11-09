@@ -28,6 +28,7 @@
 | crSWAG | [0x22B243B96495C547598D9042B6f94B01C22B2e9E](https://etherscan.io/address/0x22B243B96495C547598D9042B6f94B01C22B2e9E) |
 | crCEL | [0x8b3FF1ed4F36C2c2be675AFb13CC3AA5d73685a5](https://etherscan.io/address/0x8b3ff1ed4f36c2c2be675afb13cc3aa5d73685a5) |
 | crDPI | [0x2A537Fa9FFaea8C1A41D3C2B68a9cb791529366D](https://etherscan.io/address/0x2A537Fa9FFaea8C1A41D3C2B68a9cb791529366D) |
+| crBBTC | [0x7ea9C63E216D5565c3940A2B3d150e59C2907Db3](https://etherscan.io/address/0x7ea9c63e216d5565c3940a2b3d150e59c2907db3) |
 
 ### Protocol Address
 
