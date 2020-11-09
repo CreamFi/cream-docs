@@ -21,7 +21,7 @@
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance & Seeds |
-| Tokens | COMP, BAL, YFI, LINK, CREAM, LEND, CRV, MTA, SRM, UNI, SUSHI, wNXM, SWAG, CEL |
+| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, UNI, SUSHI, wNXM, SWAG, CEL |
 | Base | 2% |
 | Multiplier | 35% |
 | JumpMultiplier | 750% |
