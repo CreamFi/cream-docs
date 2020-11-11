@@ -25,6 +25,8 @@
 | crUNI | [0x3B0Be453a4008EBc2eDd457e7Bd355f1C5469d68](https://bscscan.com/address/0x3b0be453a4008ebc2edd457e7bd355f1c5469d68) |
 | crATOM | [0x0E9d900C884964dC4B26db96Ba113825B1a09Baa](https://bscscan.com/address/0x0e9d900c884964dc4b26db96ba113825b1a09baa) |
 | crUSDC | [0xD83C88DB3A6cA4a32FFf1603b0f7DDce01F5f727](https://bscscan.com/address/0xd83c88db3a6ca4a32fff1603b0f7ddce01f5f727) |
+| crALPHA | [0x264Bc4Ea2F45cF6331AD6C3aC8d7257Cf487FcbC](https://bscscan.com/address/0x264bc4ea2f45cf6331ad6c3ac8d7257cf487fcbc) |
+| crTWT | [0x2d3bfaDF9BC94E3Ab796029A030e863F1898aA06](https://bscscan.com/address/0x2d3bfaDF9BC94E3Ab796029A030e863F1898aA06) |
 
 ### Protocol address
 
