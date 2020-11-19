@@ -22,6 +22,12 @@
 
 * [creamY v1](creamy/creamy-v1.md)
 
+## Ethereum 2.0 <a id="eth2"></a>
+
+* [What Is Ethereum 2.0](eth2/what-is-ethereum-2.0.md)
+* [Why Stake in Ethereum 2.0](eth2/why-stake-in-ethereum-2.0.md)
+* [Ethereum 2.0 Contract Address](eth2/ethereum-2.0-contract-address.md)
+
 ---
 
 * [Give Feedback](https://forum.cream.finance/c/site-feedback)
