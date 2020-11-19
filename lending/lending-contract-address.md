@@ -32,6 +32,8 @@
 | crAAVE | [0x3225E3C669B39C7c8B3e204a8614bB218c5e31BC](https://etherscan.io/address/0x3225E3C669B39C7c8B3e204a8614bB218c5e31BC) |
 | crBOND | [0xf55BbE0255f7f4E70f63837Ff72A577fbDDbE924](https://etherscan.io/address/0xf55BbE0255f7f4E70f63837Ff72A577fbDDbE924) |
 | crKP3R | [0x903560b1CcE601794C584F58898dA8a8b789Fc5d](https://etherscan.io/address/0x903560b1CcE601794C584F58898dA8a8b789Fc5d) |
+| crHBTC | [0x054B7ed3F45714d3091e82aAd64A1588dC4096Ed](https://etherscan.io/address/0x054b7ed3f45714d3091e82aad64a1588dc4096ed) |
+| crHFIL | [0xd5103AfcD0B3fA865997Ef2984C66742c51b2a8b](https://etherscan.io/address/0xd5103afcd0b3fa865997ef2984c66742c51b2a8b) |
 
 ### Protocol Address
 
