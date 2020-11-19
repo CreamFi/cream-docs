@@ -1,6 +1,6 @@
 # Reward Pool Contract Address
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Inactive Pool
 {% endhint %}
 

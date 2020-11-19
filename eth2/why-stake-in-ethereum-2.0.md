@@ -1,4 +1,4 @@
-# Why Stake in Ethereum 2.0
+# Why Stake for CRETH2
 
 Eventually, people will migrate from ETH to ETH2, but here we offer more benefits for staking ETH in C.R.E.A.M. Finance during the migration process.
 
@@ -12,7 +12,7 @@ In short:
 
 ### **How to Get Reward from ETH2 Migration**
 
-That's the best part. You don't have to do anything to get reward except staking!
+That's the best part. To get reward, you don't have to do anything except staking!
 
 > ## [Go to stake now!](https://app.cream.finance/eth2/)
 

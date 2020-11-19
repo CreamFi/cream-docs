@@ -30,4 +30,6 @@ description: Balancer Core Concept
 | SWAG/USDC | [0xB6bcb077b9fBafcF47E7662C9a7c6D46d5c0c8f1](https://etherscan.io/address/0xB6bcb077b9fBafcF47E7662C9a7c6D46d5c0c8f1) |
 | SWAG/CREAM | [0x6da2226C90a0b2bD799a16b5521270BC2231D242](https://etherscan.io/address/0x6da2226C90a0b2bD799a16b5521270BC2231D242) |
 | SWAG/CREAM   80%/20% | [0x8fcb0cA2e16cAb45F8f0C6304d2a022B6dcDA3f3](https://etherscan.io/address/0x8fcb0ca2e16cab45f8f0c6304d2a022b6dcda3f3) |
+| CRETH2 | [0x9D2850c3112b5fb851c4aAE23c1E97C1736898cb](https://etherscan.io/address/0x9d2850c3112b5fb851c4aae23c1e97c1736898cb) |
+| CRETH2/WETH | [0x2689008DCda0c2b744B344B9e5a3D5A042c227Da](https://etherscan.io/address/0x2689008DCda0c2b744B344B9e5a3D5A042c227Da) |
 
