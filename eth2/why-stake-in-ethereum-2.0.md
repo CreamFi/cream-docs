@@ -16,7 +16,7 @@ That's the best part. To get reward, you don't have to do anything except stakin
 
 > ## [Go to stake now!](https://app.cream.finance/eth2/)
 
-Just like miners benefit from their contribution to Ethereum, Validators also benefit from their contribution to ETH2 migration. Once you stake ETH and get CRETH2 back, you become one of the Validators of ETH2 migration. Validators get rewarded for proposing and attesting to blocks. The rewards are tied to the overall amount of ETH staked in the network. More details and reward formula can be found in the [Launchpad](https://launchpad.ethereum.org/).
+Just like Miners benefit from their contribution to Ethereum, Validators also benefit from their contribution to Ethereum 2.0. Once you stake ETH and get CRETH2 back, you become one of the Validators of ETH2 migration. Validators get rewarded for proposing and attesting to blocks. The rewards are tied to the overall amount of ETH staked in the network. More details and reward formula can be found in the [Launchpad](https://launchpad.ethereum.org/).
 
 And we do all the Validator works for you :\)
 
@@ -26,7 +26,7 @@ Finally, when ETH2 is ready, you can unwrap CRETH2 to ETH2 with a better exchang
 
 Once staking in ETH2, you will **NOT** be able to withdraw your deposits until Ethereum Foundation finishes Ethereum 2.0 migration, which is [estimated to deliver in 2021](https://ethereum.org/en/eth2).
 
-However, your ETH is pretty safe, for the only place these ETH could be sent to is ETH2 Validator. No one can move those ETH away from the staking contract, including the team. Check out [the contract](https://etherscan.io/address/0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd#code) to verify.
+However, your ETH is pretty safe, for the only place these ETH could be sent to is the ETH2 deposit contract. No one can move those ETH away from the CRETH2 contract, including the team. Check out [the contract](https://etherscan.io/address/0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd#code) to verify.
 
 Also, this is a custodial service, and it will incur 8% fee while you unwrap your CRETH2. You should do your own research on the whole ETH2 migration plan, understand what is custodial / non-custodial service, and use at your own risk.
 
