@@ -28,5 +28,5 @@ Once staking in ETH2, you will **NOT** be able to withdraw your deposits until E
 
 However, your ETH is pretty safe, for the only place these ETH could be sent to is the ETH2 deposit contract. No one can move those ETH away from the CRETH2 contract, including the team. Check out [the contract](https://etherscan.io/address/0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd#code) to verify.
 
-Also, this is a custodial service, and it will incur 8% fee while you unwrap your CRETH2. You should do your own research on the whole ETH2 migration plan, understand what is custodial / non-custodial service, and use at your own risk.
+Also, this is a custodial service, and it will incur 8% fee on your Validator reward while you unwrap your CRETH2. You should do your own research on the whole ETH2 migration plan, understand what is custodial / non-custodial service, and use at your own risk.
 
