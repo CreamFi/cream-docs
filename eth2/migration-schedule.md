@@ -38,7 +38,7 @@ This is estimated to deliver in 2022.
 
 For the safety of the protocol, the migration process will be done conservatively.
 
-It means that we will not deposit a large batch to [ETH2 deposit contract](https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa) but only a small amount of total ETH before phase 0 starts. Once we verify that the whole mechanism is stable and robust after phase 0 kicks off, we'll continuously deposit to ETH2 contract.
+We will not deposit a large batch to [ETH2 deposit contract](https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa) but only a small portion of total ETH before phase 0 starts. Once we verify that the whole mechanism is stable and robust after phase 0 kicks off, we will continuously deposit to ETH2 contract.
 
 However, full plan is hard to reveal at the moment, for other than stable and safety there are still factors affecting our implementation like reward model and APR. The effect of these factors are dynamically changing and we will find the way to balance and optimize them all.
 
