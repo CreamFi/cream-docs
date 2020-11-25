@@ -34,6 +34,7 @@
 | crKP3R | [0x903560b1CcE601794C584F58898dA8a8b789Fc5d](https://etherscan.io/address/0x903560b1CcE601794C584F58898dA8a8b789Fc5d) |
 | crHBTC | [0x054B7ed3F45714d3091e82aAd64A1588dC4096Ed](https://etherscan.io/address/0x054b7ed3f45714d3091e82aad64a1588dc4096ed) |
 | crHFIL | [0xd5103AfcD0B3fA865997Ef2984C66742c51b2a8b](https://etherscan.io/address/0xd5103afcd0b3fa865997ef2984c66742c51b2a8b) |
+| crCRETH2 | [0xfd609a03B393F1A1cFcAcEdaBf068CAD09a924E2](https://etherscan.io/address/0xfd609a03b393f1a1cfcacedabf068cad09a924e2) |
 
 ### Protocol Address
 
