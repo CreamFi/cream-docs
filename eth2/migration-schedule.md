@@ -38,7 +38,20 @@ This is estimated to deliver in 2022.
 
 For the safety of the protocol, the migration process will be done conservatively.
 
-We will not deposit a large batch to [ETH2 deposit contract](https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa) but only a small portion of total ETH before phase 0 starts. Once we verify that the whole mechanism is stable and robust after phase 0 kicks off, we will continuously deposit to ETH2 contract.
+We will not deposit a large batch to [ETH2 deposit contract](https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa). Once we verify that the whole mechanism is stable and robust after phase 0 kicks off, we will continuously deposit to ETH2 contract.
 
 However, full plan is hard to reveal at the moment, for other than stable and safety there are still factors affecting our implementation like reward model and APR. The effect of these factors are dynamically changing and we will find the way to balance and optimize them all.
+
+### Transactions
+
+| Number | ETH  | Transaction Address |
+| :--- | :--- | :--- |
+| 0 | 32 | [0xee65019cfd98cd7c70d1fafb7ddf16692d8d5d4b9a6d308c55d4109d3671cf32](https://etherscan.io/tx/0xee65019cfd98cd7c70d1fafb7ddf16692d8d5d4b9a6d308c55d4109d3671cf32) |
+| 1 ~ 19 | 608 | [0xf8516ee875af706f4fb59627e33d1258780521502d96888226c5b5af219ac1bc](https://etherscan.io/tx/0xf8516ee875af706f4fb59627e33d1258780521502d96888226c5b5af219ac1bc) |
+| 20 ~ 119 | 3,200 | [0xed3859672bc9a40ae6588ad85e4e426c0bcc8b90a46fe929a041c32a894b46e1](https://etherscan.io/tx/0xed3859672bc9a40ae6588ad85e4e426c0bcc8b90a46fe929a041c32a894b46e1) |
+| 120 ~ 149 | 960 | [0x60c51dd40578a71981da88674894e5330c5bcf0fc825d2e0692030414e375dc6](https://etherscan.io/tx/0x60c51dd40578a71981da88674894e5330c5bcf0fc825d2e0692030414e375dc6) |
+| 150 ~ 249 | 3,200 | [0x0d4f41b1a23a383dd2aeb9ce66f00467196a3f5ac3c09b90d674f4ca2e964d7d](https://etherscan.io/tx/0x0d4f41b1a23a383dd2aeb9ce66f00467196a3f5ac3c09b90d674f4ca2e964d7d) |
+| 250 ~ 349 | 3,200 | [0x712d549398bc116dd618e3ad0da26599e8bba3632a029a8443cc338d297a69b9](https://etherscan.io/tx/0x712d549398bc116dd618e3ad0da26599e8bba3632a029a8443cc338d297a69b9) |
+| 350 ~ 449 | 3,200 | [0xd0f7f9889efa7fb6aca7f3c5c8c5bbc2fbbdbd4154c096755f21470e6c7ce3ee](https://etherscan.io/tx/0xd0f7f9889efa7fb6aca7f3c5c8c5bbc2fbbdbd4154c096755f21470e6c7ce3ee) |
+| 450 ~ 499 | 1,600 | [0xddfd735cb8f0ed15fc360b6e02ff5483639490c4657f2422fb2eaae1f73ab088](https://etherscan.io/tx/0xddfd735cb8f0ed15fc360b6e02ff5483639490c4657f2422fb2eaae1f73ab088) |
 
