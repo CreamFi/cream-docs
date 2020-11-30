@@ -1,7 +1,7 @@
 # Price Oracle
 
 {% hint style="info" %}
-Currently we use our own Price Oracle on BSC
+Currently we use Band Protocol and our own Price Oracle on BSC
 {% endhint %}
 
 | Contract | Address |
