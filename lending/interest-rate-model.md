@@ -7,7 +7,7 @@
 | Parameter | Value |
 | :--- | :--- |
 | Category | Major & Stable |
-| Tokens | USDT, USDC, BUSD, yCRV, yUSD, ETH, renBTC, FTT, yETH, BBTC, HBTC |
+| Tokens | USDT, USDC, BUSD, yCRV, yUSD, ETH, renBTC, FTT, yETH, BBTC, HBTC, HUSD |
 | Base | 2% |
 | Multiplier | 25% |
 | JumpMultiplier | 500% |

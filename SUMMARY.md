@@ -11,7 +11,6 @@
 * [Collateral Factor & Reserve Factor](lending/collateral-factor-and-reserve-factor-1.md)
 * [Interest Rate Model](lending/interest-rate-model.md)
 * [Price Oracle](lending/price-oracle.md)
-* [Subgraph](lending/subgraph.md)
 
 ## CRETH2 <a id="eth2"></a>
 
