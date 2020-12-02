@@ -54,5 +54,5 @@ However, full plan is hard to reveal at the moment, for other than stable and sa
 | 250 ~ 349 | 3,200 | [0x712d549398bc116dd618e3ad0da26599e8bba3632a029a8443cc338d297a69b9](https://etherscan.io/tx/0x712d549398bc116dd618e3ad0da26599e8bba3632a029a8443cc338d297a69b9) |
 | 350 ~ 449 | 3,200 | [0xd0f7f9889efa7fb6aca7f3c5c8c5bbc2fbbdbd4154c096755f21470e6c7ce3ee](https://etherscan.io/tx/0xd0f7f9889efa7fb6aca7f3c5c8c5bbc2fbbdbd4154c096755f21470e6c7ce3ee) |
 | 450 ~ 499 | 1,600 | [0xddfd735cb8f0ed15fc360b6e02ff5483639490c4657f2422fb2eaae1f73ab088](https://etherscan.io/tx/0xddfd735cb8f0ed15fc360b6e02ff5483639490c4657f2422fb2eaae1f73ab088) |
-| 500 ~ 529 | 960  | [https://etherscan.io/tx/0x39d906b37c5be86199637f8d324834ac69fe82921dc6d20e62f306334413db81](https://etherscan.io/tx/0x39d906b37c5be86199637f8d324834ac69fe82921dc6d20e62f306334413db81) |
+| 500 ~ 529 | 960  | [0x39d906b37c5be86199637f8d324834ac69fe82921dc6d20e62f306334413db81](https://etherscan.io/tx/0x39d906b37c5be86199637f8d324834ac69fe82921dc6d20e62f306334413db81) |
 
