@@ -40,6 +40,7 @@
 | crHFIL | [0xd5103AfcD0B3fA865997Ef2984C66742c51b2a8b](https://etherscan.io/address/0xd5103afcd0b3fa865997ef2984c66742c51b2a8b) |
 | crCRETH2 | [0xfd609a03B393F1A1cFcAcEdaBf068CAD09a924E2](https://etherscan.io/address/0xfd609a03b393f1a1cfcacedabf068cad09a924e2) |
 | crHUSD | [0xD692ac3245bb82319A31068D6B8412796eE85d2c](https://etherscan.io/address/0xD692ac3245bb82319A31068D6B8412796eE85d2c) |
+| crDAI | [0x92B767185fB3B04F881e3aC8e5B0662a027A1D9f](https://etherscan.io/address/0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f) |
 
 ### Protocol Address
 
