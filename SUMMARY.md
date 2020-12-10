@@ -12,6 +12,10 @@
 * [Interest Rate Model](lending/interest-rate-model.md)
 * [Price Oracle](lending/price-oracle.md)
 
+## Lending v2
+
+* [Lending v2](lending-v2/lending-v2.md)
+
 ## CRETH2 <a id="eth2"></a>
 
 * [What Is Ethereum 2.0](eth2/what-is-ethereum-2.0.md)
