@@ -10,7 +10,7 @@ Currently we have Chainlink, yVault and curve.fi as third-party price oracle
 
 ### Chainlink
 
-ETH / LINK / COMP / YFI / BUSD / USDT / USDC / UNI / BBTC / AAVE / DAI
+ETH / LINK / COMP / BAL / YFI / BUSD / USDT / USDC / UNI / wNXM / BBTC / AAVE / DAI
 
 ### yVault
 
