@@ -43,6 +43,6 @@
 
 | Contract | Address |
 | :--- | :--- |
-| Comptroller Implementation | [0x3b36adDc9D193F3b49810E1a2412F3edb0A208B2](https://bscscan.com/address/0x3b36adDc9D193F3b49810E1a2412F3edb0A208B2) |
+| Comptroller Implementation | [0x49a08f9f445af5734cf15a1deab3b1c6a7988fb4](https://bscscan.com/address/0x49a08f9f445af5734cf15a1deab3b1c6a7988fb4) |
 | PriceOracleV1 | [0x541876d6e61a200efD99711c5fDa1F7A50D14847](https://bscscan.com/address/0x541876d6e61a200efD99711c5fDa1F7A50D14847) |
 
