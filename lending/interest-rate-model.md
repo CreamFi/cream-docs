@@ -21,7 +21,7 @@
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance & Seeds |
-| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, UNI, SUSHI, wNXM, SWAG, CEL, DPI, BOND, KP3R, HFIL, CRETH2 |
+| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, UNI, SUSHI, wNXM, SWAG, CEL, DPI, BOND, KP3R, HFIL, CRETH2, HEGIC |
 | Base | 2% |
 | Multiplier | 35% |
 | JumpMultiplier | 750% |
