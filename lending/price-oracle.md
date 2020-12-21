@@ -10,7 +10,13 @@ Currently we have Chainlink, yVault and curve.fi as third-party price oracle
 
 ### Chainlink
 
-ETH / LINK / COMP / BAL / YFI / BUSD / USDT / USDC / UNI / wNXM / BBTC / AAVE / DAI
+ETH / LINK / COMP / BAL / YFI / BUSD / USDT / USDC / UNI / wNXM / AAVE / DAI
+
+For the following BTC-pegged token, we use BTC price instead:
+
+* renBTC
+* BBTC
+* HBTC
 
 ### yVault
 
@@ -22,7 +28,7 @@ yCRV
 
 ### C.R.E.A.M. Finance
 
-The other tokens, including BSC supported token
+For the other tokens, we use our own price oracle to get price.
 
 | Contract | Address |
 | :--- | :--- |
