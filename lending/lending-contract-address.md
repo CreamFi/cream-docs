@@ -42,6 +42,7 @@
 | crHUSD | [0xD692ac3245bb82319A31068D6B8412796eE85d2c](https://etherscan.io/address/0xD692ac3245bb82319A31068D6B8412796eE85d2c) |
 | crDAI | [0x92B767185fB3B04F881e3aC8e5B0662a027A1D9f](https://etherscan.io/address/0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f) |
 | crHEGIC | [0x10a3da2BB0Fae4D591476fd97D6636fd172923a8](https://etherscan.io/address/0x10a3da2bb0fae4d591476fd97d6636fd172923a8) |
+| crESD | [0x3C6C553A95910F9FC81c98784736bd628636D296](https://etherscan.io/address/0x3c6c553a95910f9fc81c98784736bd628636d296) |
 
 ### Protocol Address
 
