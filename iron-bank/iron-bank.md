@@ -24,17 +24,17 @@
 
 | Contract | Collateral | Reserve |
 | :--- | :--- | :--- |
-| WETH | 85% | 0% |
-| DAI | 90% | 0% |
-| Y3CRV | 90% | 0% |
-| LINK | 0% | 0% |
-| YFI | 0% | 0% |
-| SNX | 0% | 0% |
-| WBTC | 0% | 0% |
+| WETH | 85% | 5% |
+| DAI | 90% | 5% |
+| Y3CRV | 90% | 5% |
+| LINK | 0% | 5% |
+| YFI | 0% | 5% |
+| SNX | 0% | 5% |
+| WBTC | 0% | 5% |
 
 ### Interest Rate Model
 
-![](../.gitbook/assets/jie-tu-20201210-15.06.02%20%283%29.png)
+![](../.gitbook/assets/jie-tu-20210118-20.31.24.png)
 
 | Parameter | Value |
 | :--- | :--- |
@@ -53,6 +53,6 @@
 | Base | 0% |
 | Multiplier | 10% |
 | JumpMultiplier | 140% |
-| Kink | 70% |
+| Kink | 80% |
 | Contract Address | [0xd34137FC9F6754bcDFCe907d06F4D10E897B3eB5](https://etherscan.io/address/0xd34137FC9F6754bcDFCe907d06F4D10E897B3eB5) |
 
