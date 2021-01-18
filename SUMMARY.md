@@ -12,9 +12,9 @@
 * [Interest Rate Model](lending/interest-rate-model.md)
 * [Price Oracle](lending/price-oracle.md)
 
-## Lending v2
+## Iron Bank
 
-* [Lending v2](lending-v2/lending-v2.md)
+* [Iron Bank](iron-bank/lending-v2.md)
 
 ## CRETH2 <a id="eth2"></a>
 
