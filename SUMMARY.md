@@ -18,7 +18,7 @@
 
 ## CRETH2 <a id="eth2"></a>
 
-* [What Is Ethereum 2.0](eth2/what-is-ethereum-2.0.md)
+* [What is Ethereum 2.0](eth2/what-is-ethereum-2.0.md)
 * [Why Stake for CRETH2](eth2/why-stake-in-ethereum-2.0.md)
 * [Migration Schedule](eth2/migration-schedule.md)
 * [CRETH2 Contract Address](eth2/ethereum-2.0-contract-address.md)

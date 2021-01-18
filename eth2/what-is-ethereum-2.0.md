@@ -1,4 +1,4 @@
-# What Is Ethereum 2.0
+# What is Ethereum 2.0
 
 Ethereum 2.0 \(hereinafter referred to as ETH2\) is the upcoming major upgrade to Ethereum Mainnet. It refers to a set of interconnected upgrades that will make Ethereum more scalable, more secure, and more sustainable. These upgrades are being built by multiple teams from across the Ethereum ecosystem.
 
