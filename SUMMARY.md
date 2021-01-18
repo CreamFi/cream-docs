@@ -14,7 +14,7 @@
 
 ## Iron Bank
 
-* [Iron Bank](iron-bank/lending-v2.md)
+* [Iron Bank](iron-bank/iron-bank.md)
 
 ## CRETH2 <a id="eth2"></a>
 
