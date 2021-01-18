@@ -11,6 +11,11 @@
 | cyYFI | [0xFa3472f7319477c9bFEcdD66E4B948569E7621b9](https://etherscan.io/address/0xfa3472f7319477c9bfecdd66e4b948569e7621b9) |
 | cySNX | [0x12A9cC33A980DAa74E00cc2d1A0E74C57A93d12C](https://etherscan.io/address/0x12a9cc33a980daa74e00cc2d1a0e74c57a93d12c) |
 | cyWBTC | [0x8Fc8BFD80d6A9F17Fb98A373023d72531792B431](https://etherscan.io/address/0x8fc8bfd80d6a9f17fb98a373023d72531792b431) |
+| cyUSDT | [0x48759F220ED983dB51fA7A8C0D2AAb8f3ce4166a](https://etherscan.io/address/0x48759f220ed983db51fa7a8c0d2aab8f3ce4166a) |
+| cyUSDC | [0x76Eb2FE28b36B3ee97F3Adae0C69606eeDB2A37c](https://etherscan.io/address/0x76eb2fe28b36b3ee97f3adae0c69606eedb2a37c) |
+| cySUSD | [0x4e3a36A633f63aee0aB57b5054EC78867CB3C0b8](https://etherscan.io/address/0x4e3a36a633f63aee0ab57b5054ec78867cb3c0b8) |
+| cyEURS | [0xA8caeA564811af0e92b1E044f3eDd18Fa9a73E4F](https://etherscan.io/address/0xa8caea564811af0e92b1e044f3edd18fa9a73e4f) |
+| cySEUR | [0xCA55F9C4E77f7B8524178583b0f7c798De17fD54](https://etherscan.io/address/0xca55f9c4e77f7b8524178583b0f7c798de17fd54) |
 
 ### Protocol Address
 
@@ -34,22 +39,26 @@
 
 ### Interest Rate Model
 
-![](../.gitbook/assets/jie-tu-20210118-20.31.24.png)
+#### Major & Stable
+
+![](../.gitbook/assets/jie-tu-20210118-21.25.16.png)
 
 | Parameter | Value |
 | :--- | :--- |
-| Tokens | WETH, DAI, Y3CRV |
+| Tokens | WETH, DAI, Y3CRV, USDT, USDC, sUSD, mUSD, DUSD, WBTC, EURS, sEUR |
 | Base | 0% |
 | Multiplier | 5% |
 | JumpMultiplier | 109% |
 | Kink | 80% |
 | Contract Address | ​[0xb84AD7455adAB0C56146E560F9069a9148CEbaac](https://etherscan.io/address/0xb84AD7455adAB0C56146E560F9069a9148CEbaac) |
 
-![](../.gitbook/assets/jie-tu-20210118-19.51.52.png)
+#### Governance & Seeds
+
+![](../.gitbook/assets/jie-tu-20210118-21.25.16%20%281%29.png)
 
 | Parameter | Value |
 | :--- | :--- |
-| Tokens | LINK, YFI, SNX, WBTC |
+| Tokens | LINK, YFI, SNX |
 | Base | 0% |
 | Multiplier | 10% |
 | JumpMultiplier | 140% |
