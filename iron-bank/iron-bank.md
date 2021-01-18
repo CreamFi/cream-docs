@@ -29,9 +29,9 @@
 
 ### Interest Rate Model
 
-#### Major & Stable
+#### Stable & Major
 
-![](../.gitbook/assets/jie-tu-20210118-21.25.16.png)
+![](../.gitbook/assets/jie-tu-20210118-22.01.18.png)
 
 | Parameter | Value |
 | :--- | :--- |
