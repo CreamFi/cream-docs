@@ -25,6 +25,7 @@
 | :--- | :--- |
 | Comptroller | [0xAB1c342C7bf5Ec5F02ADEA1c2270670bCa144CbB](https://etherscan.io/address/0xab1c342c7bf5ec5f02adea1c2270670bca144cbb) |
 | Price Oracle | [0x6B96c414ce762578c3E7930da9114CffC88704Cb](https://etherscan.io/address/0x6b96c414ce762578c3e7930da9114cffc88704cb) |
+| ~~Price Oracle \(deprecated\)~~ | ~~~~[~~0xE4C1E5d96360847De7DFF72D2bD1c4B3d4284E97~~](https://etherscan.io/address/0xe4c1e5d96360847de7dff72d2bd1c4b3d4284e97)~~~~ |
 
 ## Interest Rate Model
 
