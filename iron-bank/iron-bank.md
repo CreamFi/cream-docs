@@ -26,31 +26,44 @@
 | Comptroller | [0xAB1c342C7bf5Ec5F02ADEA1c2270670bCa144CbB](https://etherscan.io/address/0xab1c342c7bf5ec5f02adea1c2270670bca144cbb) |
 | Price Oracle | [0x6B96c414ce762578c3E7930da9114CffC88704Cb](https://etherscan.io/address/0x6b96c414ce762578c3e7930da9114cffc88704cb) |
 
-### Interest Rate Model
+## Interest Rate Model
 
-#### Stable & Major
+### Major
 
-![](../.gitbook/assets/jie-tu-20210118-22.01.18.png)
+![](../.gitbook/assets/jie-tu-20210120-10.55.01%20%281%29.png)
 
 | Parameter | Value |
 | :--- | :--- |
-| Tokens | WETH, DAI, Y3CRV, USDT, USDC, sUSD, mUSD, DUSD, WBTC, EURS, sEUR |
+| Tokens | WETH, WBTC |
+| Base | 2% |
+| Multiplier | 20% |
+| JumpMultiplier | 60% |
+| Kink | 70% |
+| Contract Address | [0xb84AD7455adAB0C56146E560F9069a9148CEbaac](https://etherscan.io/address/0xb84AD7455adAB0C56146E560F9069a9148CEbaac) |
+
+### Stable
+
+![](../.gitbook/assets/jie-tu-20210120-10.56.05.png)
+
+| Parameter | Value |
+| :--- | :--- |
+| Tokens | y3Crv, DAI, USDT, USDC, sUSD, mUSD, DUSD, EURS, sEUR |
 | Base | 0% |
 | Multiplier | 5% |
-| JumpMultiplier | 109% |
-| Kink | 80% |
-| Contract Address | ​[0xb84AD7455adAB0C56146E560F9069a9148CEbaac](https://etherscan.io/address/0xb84AD7455adAB0C56146E560F9069a9148CEbaac) |
+| JumpMultiplier | 200% |
+| Kink | 85% |
+| Contract Address | [0x990f82875664bc6Eb0E1e8e825ec0f91757e8047](https://etherscan.io/address/0x990f82875664bc6eb0e1e8e825ec0f91757e8047) |
 
-#### Governance & Seeds
+### Governance
 
-![](../.gitbook/assets/jie-tu-20210118-21.25.16%20%281%29.png)
+![](../.gitbook/assets/jie-tu-20210120-11.00.57.png)
 
 | Parameter | Value |
 | :--- | :--- |
 | Tokens | LINK, YFI, SNX |
 | Base | 0% |
 | Multiplier | 10% |
-| JumpMultiplier | 140% |
-| Kink | 80% |
-| Contract Address | [0xd34137FC9F6754bcDFCe907d06F4D10E897B3eB5](https://etherscan.io/address/0xd34137FC9F6754bcDFCe907d06F4D10E897B3eB5) |
+| JumpMultiplier | 450% |
+| Kink | 45% |
+| Contract Address | [0xaaeDaFC0a2550c8D25A881904b85d91931bA6992](https://etherscan.io/address/0xaaedafc0a2550c8d25a881904b85d91931ba6992) |
 
