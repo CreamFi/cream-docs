@@ -7,7 +7,7 @@
 | Parameter | Value |
 | :--- | :--- |
 | Category | Major & Stable |
-| Tokens | USDT, USDC, BUSD, yCRV, yUSD, ETH, renBTC, FTT, yETH, BBTC, HBTC, HUSD, DAI |
+| Tokens | USDT, USDC, BUSD, yCRV, yUSD, ETH, renBTC, FTT, yETH, BBTC, HBTC, HUSD, DAI, tBTC |
 | Base | 2% |
 | Multiplier | 25% |
 | JumpMultiplier | 500% |
@@ -21,7 +21,7 @@
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance & Seeds |
-| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, UNI, SUSHI, wNXM, SWAG, CEL, DPI, BOND, KP3R, HFIL, CRETH2, HEGIC, ESD, COVER |
+| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, UNI, SUSHI, wNXM, SWAG, CEL, DPI, BOND, KP3R, HFIL, CRETH2, HEGIC, ESD, COVER, 1INCH, OMG |
 | Base | 2% |
 | Multiplier | 35% |
 | JumpMultiplier | 750% |
