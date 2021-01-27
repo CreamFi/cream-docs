@@ -33,5 +33,6 @@ For the other tokens, we use our own price oracle to get the price.
 | Contract | Address |
 | :--- | :--- |
 | PriceOracleProxy | [0x9a5135157a74b753d11197a821e7f199f5b2fed0](https://etherscan.io/address/0x9a5135157a74b753d11197a821e7f199f5b2fed0) |
+| ~~PriceOracleProxy \(deprecated\)~~ | [0x4B7dbA23beA9d1a2d652373bcD1B78b0E9e0188a](https://etherscan.io/address/0x4B7dbA23beA9d1a2d652373bcD1B78b0E9e0188a) |
 | v1PriceOracle | [0x4250A6D3BD57455d7C6821eECb6206F507576cD2](https://etherscan.io/address/0x4250A6D3BD57455d7C6821eECb6206F507576cD2) |
 
