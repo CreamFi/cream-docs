@@ -18,6 +18,7 @@
 | cyDUSD | [0x297d4Da727fbC629252845E96538FC46167e453A](https://etherscan.io/address/0x297d4da727fbc629252845e96538fc46167e453a) | 0% | 5% |
 | cyEURS | [0xA8caeA564811af0e92b1E044f3eDd18Fa9a73E4F](https://etherscan.io/address/0xa8caea564811af0e92b1e044f3edd18fa9a73e4f) | 0% | 5% |
 | cySEUR | [0xCA55F9C4E77f7B8524178583b0f7c798De17fD54](https://etherscan.io/address/0xca55f9c4e77f7b8524178583b0f7c798de17fd54) | 0% | 5% |
+| cyDPI | [0x7736Ffb07104c0C400Bb0CC9A7C228452A732992](https://etherscan.io/address/0x7736ffb07104c0c400bb0cc9a7c228452a732992) | 0% | 5% |
 
 ### Protocol Address
 
@@ -61,7 +62,7 @@
 
 | Parameter | Value |
 | :--- | :--- |
-| Tokens | LINK, YFI, SNX |
+| Tokens | LINK, YFI, SNX, DPI |
 | Base | 0% |
 | Multiplier | 10% |
 | JumpMultiplier | 450% |
