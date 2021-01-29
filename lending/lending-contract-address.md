@@ -47,6 +47,10 @@
 | cr1INCH | [0x85759961b116f1D36fD697855c57A6ae40793D9B](https://etherscan.io/address/0x85759961b116f1d36fd697855c57a6ae40793d9b) |
 | crTBTC | [0xF047d4bE569FB770dB143A6A90Ef203FC1295922](https://etherscan.io/address/0xf047d4be569fb770db143a6a90ef203fc1295922) |
 | crOMG | [0x7Aaa323D7e398be4128c7042d197a2545f0f1fea](https://etherscan.io/address/0x7aaa323d7e398be4128c7042d197a2545f0f1fea) |
+| crUNI-V2-WBTC-ETH | [0x011a014d5e8Eb4771E575bB1000318D509230Afa](https://etherscan.io/address/0x011a014d5e8eb4771e575bb1000318d509230afa) |
+| crUNI-V2-ETH-USDT | [0xE6C3120F38F56deb38B69b65cC7dcAF916373963](https://etherscan.io/address/0xe6c3120f38f56deb38b69b65cc7dcaf916373963) |
+| crUNI-V2-USDC-ETH | [0x4Fe11BC316B6d7A345493127fBE298b95AdaAd85](https://etherscan.io/address/0x4fe11bc316b6d7a345493127fbe298b95adaad85) |
+| crUNI-V2-DAI-ETH | [0xcD22C4110c12AC41aCEfA0091c432ef44efaAFA0](https://etherscan.io/address/0xcd22c4110c12ac41acefa0091c432ef44efaafa0) |
 
 ### Protocol Address
 

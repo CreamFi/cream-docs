@@ -28,7 +28,7 @@ yCRV
 
 ### C.R.E.A.M. Finance
 
-For the other tokens, we use our own price oracle to get the price.
+For the other tokens, including LP tokens, we use our own price oracle to get the price.
 
 | Contract | Address |
 | :--- | :--- |
