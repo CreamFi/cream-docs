@@ -43,8 +43,8 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | DAI | 75% | 5% |
 | HEGIC | 0% | 40% |
 | ESD | 60% | 40% |
-| COVER | 0% | 40% |
-| 1INCH | 0% | 40% |
+| COVER | 45% | 40% |
+| 1INCH | 45% | 40% |
 | tBTC | 0% | 40% |
 | OMG | 45% | 40% |
 | UNI-V2-WBTC-ETH | 0% | 40% |
