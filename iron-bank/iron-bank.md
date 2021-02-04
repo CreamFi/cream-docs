@@ -19,6 +19,8 @@
 | cyEURS | [0xA8caeA564811af0e92b1E044f3eDd18Fa9a73E4F](https://etherscan.io/address/0xa8caea564811af0e92b1e044f3edd18fa9a73e4f) | 0% | 5% |
 | cySEUR | [0xCA55F9C4E77f7B8524178583b0f7c798De17fD54](https://etherscan.io/address/0xca55f9c4e77f7b8524178583b0f7c798de17fd54) | 90% | 5% |
 | cyDPI | [0x7736Ffb07104c0C400Bb0CC9A7C228452A732992](https://etherscan.io/address/0x7736ffb07104c0c400bb0cc9a7c228452a732992) | 0% | 5% |
+| cyBUSD | [0x09bDCCe2593f0BEF0991188c25Fb744897B6572d](https://etherscan.io/address/0x09bdcce2593f0bef0991188c25fb744897b6572d) | 0% | 5% |
+| cyGUSD | [0xa0E5A19E091BBe241E655997E50da82DA676b083](https://etherscan.io/address/0xa0e5a19e091bbe241e655997e50da82da676b083) | 0% | 5% |
 
 ### Protocol Address
 
@@ -49,7 +51,7 @@
 
 | Parameter | Value |
 | :--- | :--- |
-| Tokens | y3Crv, DAI, USDT, USDC, sUSD, mUSD, DUSD, EURS, sEUR |
+| Tokens | y3Crv, DAI, USDT, USDC, sUSD, mUSD, DUSD, EURS, sEUR, BUSD, GUSD |
 | Base | 0% |
 | Multiplier | 5% |
 | JumpMultiplier | 200% |
