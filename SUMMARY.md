@@ -1,9 +1,7 @@
 # Table of contents
 
 * [C.R.E.A.M. Finance](README.md)
-* [Contract Address](smart-contract-address/README.md)
-  * [Long-term CREAM Staking Address](smart-contract-address/long-term-cream-staking-address.md)
-  * [Inactive Staking pools Address](smart-contract-address/inactive-staking-pools-address.md)
+* [Contract Address](smart-contract-address.md)
 
 ## Lending
 
@@ -23,15 +21,16 @@
 * [Migration Schedule](eth2/migration-schedule.md)
 * [CRETH2 Contract Address](eth2/ethereum-2.0-contract-address.md)
 
-## Swap
+## Legacy
 
-* [Swap v2](swap/swap-v2.md)
-* [Swap v1](swap/swap-v1.md)
-* [Reward Pool Contract Address](swap/reward-pool-contract-address.md)
+* [Swap](legacy/swap/README.md)
+  * [Swap v1](legacy/swap/swap-v1.md)
+  * [Swap v2](legacy/swap/swap-v2.md)
+* [Reward Pool Contract Address](legacy/reward-pool-contract-address.md)
+* [Inactive Staking pools Address](legacy/inactive-staking-pools-address.md)
+* [creamY](legacy/creamy-v1.md)
 
 ## creamY
-
-* [creamY v1](creamy/creamy-v1.md)
 
 ---
 
