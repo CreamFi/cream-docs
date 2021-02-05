@@ -2,28 +2,28 @@
 
 ### Yearn Token \(cyToken\)
 
-| Contract | Address | Collateral Factor | Reserve Factor |
-| :--- | :--- | :--- | :--- |
-| cyWETH | [0x41c84c0e2EE0b740Cf0d31F63f3B6F627DC6b393](https://etherscan.io/address/0x41c84c0e2ee0b740cf0d31f63f3b6f627dc6b393) | 85% | 5% |
-| cyDAI | [0x8e595470Ed749b85C6F7669de83EAe304C2ec68F](https://etherscan.io/address/0x8e595470ed749b85c6f7669de83eae304c2ec68f) | 90% | 5% |
-| cyY3CRV | [0x7589C9E17BCFcE1Ccaa1f921196FDa177F0207Fc](https://etherscan.io/address/0x7589c9e17bcfce1ccaa1f921196fda177f0207fc) | 90% | 5% |
-| cyLINK | [0xE7BFf2Da8A2f619c2586FB83938Fa56CE803aA16](https://etherscan.io/address/0xe7bff2da8a2f619c2586fb83938fa56ce803aa16) | 0% | 5% |
-| cyYFI | [0xFa3472f7319477c9bFEcdD66E4B948569E7621b9](https://etherscan.io/address/0xfa3472f7319477c9bfecdd66e4b948569e7621b9) | 0% | 5% |
-| cySNX | [0x12A9cC33A980DAa74E00cc2d1A0E74C57A93d12C](https://etherscan.io/address/0x12a9cc33a980daa74e00cc2d1a0e74c57a93d12c) | 0% | 5% |
-| cyWBTC | [0x8Fc8BFD80d6A9F17Fb98A373023d72531792B431](https://etherscan.io/address/0x8fc8bfd80d6a9f17fb98a373023d72531792b431) | 80% | 5% |
-| cyUSDT | [0x48759F220ED983dB51fA7A8C0D2AAb8f3ce4166a](https://etherscan.io/address/0x48759f220ed983db51fa7a8c0d2aab8f3ce4166a) | 90% | 5% |
-| cyUSDC | [0x76Eb2FE28b36B3ee97F3Adae0C69606eeDB2A37c](https://etherscan.io/address/0x76eb2fe28b36b3ee97f3adae0c69606eedb2a37c) | 90% | 5% |
-| cySUSD | [0x4e3a36A633f63aee0aB57b5054EC78867CB3C0b8](https://etherscan.io/address/0x4e3a36a633f63aee0ab57b5054ec78867cb3c0b8) | 90% | 5% |
-| cyMUSD | [0xBE86e8918DFc7d3Cb10d295fc220F941A1470C5c](https://etherscan.io/address/0xbe86e8918dfc7d3cb10d295fc220f941a1470c5c) | 90% | 5% |
-| cyDUSD | [0x297d4Da727fbC629252845E96538FC46167e453A](https://etherscan.io/address/0x297d4da727fbc629252845e96538fc46167e453a) | 90% | 5% |
-| cyEURS | [0xA8caeA564811af0e92b1E044f3eDd18Fa9a73E4F](https://etherscan.io/address/0xa8caea564811af0e92b1e044f3edd18fa9a73e4f) | 0% | 5% |
-| cySEUR | [0xCA55F9C4E77f7B8524178583b0f7c798De17fD54](https://etherscan.io/address/0xca55f9c4e77f7b8524178583b0f7c798de17fd54) | 90% | 5% |
-| cyDPI | [0x7736Ffb07104c0C400Bb0CC9A7C228452A732992](https://etherscan.io/address/0x7736ffb07104c0c400bb0cc9a7c228452a732992) | 0% | 5% |
-| cyBUSD | [0x09bDCCe2593f0BEF0991188c25Fb744897B6572d](https://etherscan.io/address/0x09bdcce2593f0bef0991188c25fb744897b6572d) | 0% | 5% |
-| cyGUSD | [0xa0E5A19E091BBe241E655997E50da82DA676b083](https://etherscan.io/address/0xa0e5a19e091bbe241e655997e50da82da676b083) | 0% | 5% |
-| cyCDAI | [0x4F12c9DABB5319A252463E6028CA833f1164d045](https://etherscan.io/address/0x4f12c9dabb5319a252463e6028ca833f1164d045) | 0% | 5% |
-| cyCUSDT | [0xBB4B067cc612494914A902217CB6078aB4728E36](https://etherscan.io/address/0xbb4b067cc612494914a902217cb6078ab4728e36) | 0% | 5% |
-| cyCUSDC | [0x950027632FbD6aDAdFe82644BfB64647642B6C09](https://etherscan.io/address/0x950027632fbd6adadfe82644bfb64647642b6c09) | 0% | 5% |
+| Contract | Address |
+| :--- | :--- |
+| cyWETH | [0x41c84c0e2EE0b740Cf0d31F63f3B6F627DC6b393](https://etherscan.io/address/0x41c84c0e2ee0b740cf0d31f63f3b6f627dc6b393) |
+| cyDAI | [0x8e595470Ed749b85C6F7669de83EAe304C2ec68F](https://etherscan.io/address/0x8e595470ed749b85c6f7669de83eae304c2ec68f) |
+| cyY3CRV | [0x7589C9E17BCFcE1Ccaa1f921196FDa177F0207Fc](https://etherscan.io/address/0x7589c9e17bcfce1ccaa1f921196fda177f0207fc) |
+| cyLINK | [0xE7BFf2Da8A2f619c2586FB83938Fa56CE803aA16](https://etherscan.io/address/0xe7bff2da8a2f619c2586fb83938fa56ce803aa16) |
+| cyYFI | [0xFa3472f7319477c9bFEcdD66E4B948569E7621b9](https://etherscan.io/address/0xfa3472f7319477c9bfecdd66e4b948569e7621b9) |
+| cySNX | [0x12A9cC33A980DAa74E00cc2d1A0E74C57A93d12C](https://etherscan.io/address/0x12a9cc33a980daa74e00cc2d1a0e74c57a93d12c) |
+| cyWBTC | [0x8Fc8BFD80d6A9F17Fb98A373023d72531792B431](https://etherscan.io/address/0x8fc8bfd80d6a9f17fb98a373023d72531792b431) |
+| cyUSDT | [0x48759F220ED983dB51fA7A8C0D2AAb8f3ce4166a](https://etherscan.io/address/0x48759f220ed983db51fa7a8c0d2aab8f3ce4166a) |
+| cyUSDC | [0x76Eb2FE28b36B3ee97F3Adae0C69606eeDB2A37c](https://etherscan.io/address/0x76eb2fe28b36b3ee97f3adae0c69606eedb2a37c) |
+| cySUSD | [0x4e3a36A633f63aee0aB57b5054EC78867CB3C0b8](https://etherscan.io/address/0x4e3a36a633f63aee0ab57b5054ec78867cb3c0b8) |
+| cyMUSD | [0xBE86e8918DFc7d3Cb10d295fc220F941A1470C5c](https://etherscan.io/address/0xbe86e8918dfc7d3cb10d295fc220f941a1470c5c) |
+| cyDUSD | [0x297d4Da727fbC629252845E96538FC46167e453A](https://etherscan.io/address/0x297d4da727fbc629252845e96538fc46167e453a) |
+| cyEURS | [0xA8caeA564811af0e92b1E044f3eDd18Fa9a73E4F](https://etherscan.io/address/0xa8caea564811af0e92b1e044f3edd18fa9a73e4f) |
+| cySEUR | [0xCA55F9C4E77f7B8524178583b0f7c798De17fD54](https://etherscan.io/address/0xca55f9c4e77f7b8524178583b0f7c798de17fd54) |
+| cyDPI | [0x7736Ffb07104c0C400Bb0CC9A7C228452A732992](https://etherscan.io/address/0x7736ffb07104c0c400bb0cc9a7c228452a732992) |
+| cyBUSD | [0x09bDCCe2593f0BEF0991188c25Fb744897B6572d](https://etherscan.io/address/0x09bdcce2593f0bef0991188c25fb744897b6572d) |
+| cyGUSD | [0xa0E5A19E091BBe241E655997E50da82DA676b083](https://etherscan.io/address/0xa0e5a19e091bbe241e655997e50da82da676b083) |
+| cyCDAI | [0x4F12c9DABB5319A252463E6028CA833f1164d045](https://etherscan.io/address/0x4f12c9dabb5319a252463e6028ca833f1164d045) |
+| cyCUSDT | [0xBB4B067cc612494914A902217CB6078aB4728E36](https://etherscan.io/address/0xbb4b067cc612494914a902217cb6078ab4728e36) |
+| cyCUSDC | [0x950027632FbD6aDAdFe82644BfB64647642B6C09](https://etherscan.io/address/0x950027632fbd6adadfe82644bfb64647642b6c09) |
 
 ### Protocol Address
 
