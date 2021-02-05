@@ -51,6 +51,13 @@
 | crUNI-V2-ETH-USDT | [0xE6C3120F38F56deb38B69b65cC7dcAF916373963](https://etherscan.io/address/0xe6c3120f38f56deb38b69b65cc7dcaf916373963) |
 | crUNI-V2-USDC-ETH | [0x4Fe11BC316B6d7A345493127fBE298b95AdaAd85](https://etherscan.io/address/0x4fe11bc316b6d7a345493127fbe298b95adaad85) |
 | crUNI-V2-DAI-ETH | [0xcD22C4110c12AC41aCEfA0091c432ef44efaAFA0](https://etherscan.io/address/0xcd22c4110c12ac41acefa0091c432ef44efaafa0) |
+| crXSUSHI | [0x228619CCa194Fbe3Ebeb2f835eC1eA5080DaFbb2](https://etherscan.io/address/0x228619cca194fbe3ebeb2f835ec1ea5080dafbb2) |
+| crSLP-WBTC-ETH | [0x73f6cBA38922960b7092175c0aDD22Ab8d0e81fC](https://etherscan.io/address/0x73f6cba38922960b7092175c0add22ab8d0e81fc) |
+| crSLP-DAI-ETH | [0x38f27c03d6609a86FF7716ad03038881320BE4Ad](https://etherscan.io/address/0x38f27c03d6609a86ff7716ad03038881320be4ad) |
+| crSLP-USDC-ETH | [0x5EcaD8A75216CEa7DFF978525B2D523a251eEA92](https://etherscan.io/address/0x5ecad8a75216cea7dff978525b2d523a251eea92) |
+| crSLP-ETH-USDT | [0x5C291bc83d15f71fB37805878161718eA4b6AEe9](https://etherscan.io/address/0x5c291bc83d15f71fb37805878161718ea4b6aee9) |
+| crSLP-SUSHI-ETH | [0x6BA0C66C48641e220CF78177C144323b3838D375](https://etherscan.io/address/0x6ba0c66c48641e220cf78177c144323b3838d375) |
+| crSLP-YFI-ETH | [0xd532944df6DFd5Dd629E8772F03D4fC861873abF](https://etherscan.io/address/0xd532944df6dfd5dd629e8772f03d4fc861873abf) |
 
 ### Protocol Address
 
