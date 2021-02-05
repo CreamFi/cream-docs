@@ -12,7 +12,9 @@
 
 ## Iron Bank
 
-* [Iron Bank](iron-bank/iron-bank.md)
+* [Iron Bank Contract Address](iron-bank/iron-bank.md)
+* [Collateral & Reserve Factor](iron-bank/collateral-and-reserve-factor.md)
+* [Interest Rate Model](iron-bank/interest-rate-model.md)
 
 ## CRETH2 <a id="eth2"></a>
 

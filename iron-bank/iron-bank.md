@@ -1,4 +1,4 @@
-# Iron Bank
+# Iron Bank Contract Address
 
 ### Yearn Token \(cyToken\)
 
@@ -21,6 +21,9 @@
 | cyDPI | [0x7736Ffb07104c0C400Bb0CC9A7C228452A732992](https://etherscan.io/address/0x7736ffb07104c0c400bb0cc9a7c228452a732992) | 0% | 5% |
 | cyBUSD | [0x09bDCCe2593f0BEF0991188c25Fb744897B6572d](https://etherscan.io/address/0x09bdcce2593f0bef0991188c25fb744897b6572d) | 0% | 5% |
 | cyGUSD | [0xa0E5A19E091BBe241E655997E50da82DA676b083](https://etherscan.io/address/0xa0e5a19e091bbe241e655997e50da82da676b083) | 0% | 5% |
+| cyCDAI | [0x4F12c9DABB5319A252463E6028CA833f1164d045](https://etherscan.io/address/0x4f12c9dabb5319a252463e6028ca833f1164d045) | 0% | 5% |
+| cyCUSDT | [0xBB4B067cc612494914A902217CB6078aB4728E36](https://etherscan.io/address/0xbb4b067cc612494914a902217cb6078ab4728e36) | 0% | 5% |
+| cyCUSDC | [0x950027632FbD6aDAdFe82644BfB64647642B6C09](https://etherscan.io/address/0x950027632fbd6adadfe82644bfb64647642b6c09) | 0% | 5% |
 
 ### Protocol Address
 
@@ -29,45 +32,4 @@
 | Comptroller | [0xAB1c342C7bf5Ec5F02ADEA1c2270670bCa144CbB](https://etherscan.io/address/0xab1c342c7bf5ec5f02adea1c2270670bca144cbb) |
 | Price Oracle | [0x6B96c414ce762578c3E7930da9114CffC88704Cb](https://etherscan.io/address/0x6b96c414ce762578c3e7930da9114cffc88704cb) |
 | ~~Price Oracle \(deprecated\)~~ | ~~~~[~~0xE4C1E5d96360847De7DFF72D2bD1c4B3d4284E97~~](https://etherscan.io/address/0xe4c1e5d96360847de7dff72d2bd1c4b3d4284e97)~~~~ |
-
-## Interest Rate Model
-
-### Major
-
-![](../.gitbook/assets/jie-tu-20210120-10.55.01%20%281%29.png)
-
-| Parameter | Value |
-| :--- | :--- |
-| Tokens | WETH, WBTC |
-| Base | 2% |
-| Multiplier | 20% |
-| JumpMultiplier | 60% |
-| Kink | 70% |
-| Contract Address | [0xb84AD7455adAB0C56146E560F9069a9148CEbaac](https://etherscan.io/address/0xb84AD7455adAB0C56146E560F9069a9148CEbaac) |
-
-### Stable
-
-![](../.gitbook/assets/jie-tu-20210120-10.56.05.png)
-
-| Parameter | Value |
-| :--- | :--- |
-| Tokens | y3Crv, DAI, USDT, USDC, sUSD, mUSD, DUSD, EURS, sEUR, BUSD, GUSD |
-| Base | 0% |
-| Multiplier | 5% |
-| JumpMultiplier | 200% |
-| Kink | 85% |
-| Contract Address | [0x990f82875664bc6Eb0E1e8e825ec0f91757e8047](https://etherscan.io/address/0x990f82875664bc6eb0e1e8e825ec0f91757e8047) |
-
-### Governance
-
-![](../.gitbook/assets/jie-tu-20210120-11.00.57.png)
-
-| Parameter | Value |
-| :--- | :--- |
-| Tokens | LINK, YFI, SNX, DPI |
-| Base | 0% |
-| Multiplier | 10% |
-| JumpMultiplier | 450% |
-| Kink | 45% |
-| Contract Address | [0xaaeDaFC0a2550c8D25A881904b85d91931bA6992](https://etherscan.io/address/0xaaedafc0a2550c8d25a881904b85d91931ba6992) |
 
