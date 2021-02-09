@@ -61,6 +61,13 @@
 | crWBTC | [0x197070723CE0D3810a0E47F06E935c30a480D4Fc](https://etherscan.io/address/0x197070723CE0D3810a0E47F06E935c30a480D4Fc) |
 | crSNX | [0xC25EAE724f189Ba9030B2556a1533E7c8A732E14](https://etherscan.io/address/0xC25EAE724f189Ba9030B2556a1533E7c8A732E14) |
 | crSUSD | [0x25555933a8246Ab67cbf907CE3d1949884E82B55](https://etherscan.io/address/0x25555933a8246Ab67cbf907CE3d1949884E82B55) |
+| crPICKLE | [0xc68251421edda00a10815e273fa4b1191fac651b](https://etherscan.io/address/0xc68251421edda00a10815e273fa4b1191fac651b) |
+| crAKRO | [0x65883978aDA0e707c3b2BE2A6825b1C4BDF76A90](https://etherscan.io/address/0x65883978ada0e707c3b2be2a6825b1c4bdf76a90) |
+| crBBADGER | [0x8B950f43fCAc4931D408F1fcdA55C6CB6cbF3096](https://etherscan.io/address/0x8b950f43fcac4931d408f1fcda55c6cb6cbf3096) |
+| crOGN | [0x59089279987DD76fC65Bf94Cb40E186b96e03cB3](https://etherscan.io/address/0x59089279987dd76fc65bf94cb40e186b96e03cb3) |
+| crAMP | [0x2Db6c82CE72C8d7D770ba1b5F5Ed0b6E075066d6](https://etherscan.io/address/0x2db6c82ce72c8d7d770ba1b5f5ed0b6e075066d6) |
+| crFRAX | [0xb092b4601850E23903A42EaCBc9D8A0EeC26A4d5](https://etherscan.io/address/0xb092b4601850e23903a42eacbc9d8a0eec26a4d5) |
+| crBAC | [0x460ea730d204c822cE709f00A8E5959921715aDC](https://etherscan.io/address/0x460ea730d204c822ce709f00a8e5959921715adc) |
 
 ### Protocol Address
 

@@ -20,7 +20,7 @@
       <td style="text-align:left">Tokens</td>
       <td style="text-align:left">
         <p>USDT, USDC, BUSD, yCRV, yUSD, ETH, renBTC, FTT, yETH, BBTC, HBTC, HUSD,
-          DAI, tBTC, WBTC, sUSD</p>
+          DAI, tBTC, WBTC, sUSD, FRAX, BAC</p>
         <p>
           <br />UNI-V2-WBTC-ETH, UNI-V2-ETH-USDT, crUNI-V2-USDC-ETH, crUNI-V2-DAI-ETH</p>
         <p>crSLP-WBTC-ETH, crSLP-DAI-ETH, crSLP-USDC-ETH, crSLP-ETH-USDT</p>
@@ -71,7 +71,7 @@
       <td style="text-align:left">
         <p>COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, UNI, SUSHI, wNXM, SWAG,
           CEL, DPI, BOND, KP3R, HFIL, CRETH2, HEGIC, ESD, COVER, 1INCH, OMG, xSUSHI,
-          SNX</p>
+          SNX, PICKLE, AKRO, bBADGER, OGN, AMP</p>
         <p></p>
         <p>crSLP-SUSHI-ETH, crSLP-YFI-ETH</p>
       </td>
