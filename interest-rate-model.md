@@ -21,7 +21,7 @@
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance & Seeds |
-| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT |
+| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS |
 | Base | 2% |
 | Multiplier | 35% |
 | JumpMultiplier | 750% |

@@ -27,6 +27,8 @@
 | crUSDC | [0xD83C88DB3A6cA4a32FFf1603b0f7DDce01F5f727](https://bscscan.com/address/0xd83c88db3a6ca4a32fff1603b0f7ddce01f5f727) |
 | crALPHA | [0x264Bc4Ea2F45cF6331AD6C3aC8d7257Cf487FcbC](https://bscscan.com/address/0x264bc4ea2f45cf6331ad6c3ac8d7257cf487fcbc) |
 | crTWT | [0x2d3bfaDF9BC94E3Ab796029A030e863F1898aA06](https://bscscan.com/address/0x2d3bfaDF9BC94E3Ab796029A030e863F1898aA06) |
+| crCAKE | [0xbf9b95b78bc42f6cf53ff2a0ce19d607cfe1ff82](https://bscscan.com/address/0xbf9b95b78bc42f6cf53ff2a0ce19d607cfe1ff82) |
+| crXVS | [0x4ebdef163ff08ac1d56a89bafefd6c01cc28a48f](https://bscscan.com/address/0x4ebdef163ff08ac1d56a89bafefd6c01cc28a48f) |
 
 ### Protocol address
 
