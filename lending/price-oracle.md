@@ -5,12 +5,12 @@ description: How C.R.E.A.M. Finance get token price
 # Price Oracle
 
 {% hint style="info" %}
-Currently we have Chainlink, yVault and curve.fi as third-party price oracle
+We have Chainlink as our main price oracle
 {% endhint %}
 
 ### Chainlink
 
-ETH / BTC / USDT / USDC / YFI / COMP / BAL / LINK / CRV / BUSD / UNI / wNXM / AAVE / DAI / 1INCH / CEL / COVER / FTT / HEGIC / KP3R / MTA / OMG / SRM / SNX / sUSD / SUSHI / CREAM
+ETH / BTC / USDT / USDC / YFI / COMP / BAL / LINK / CRV / BUSD / UNI / wNXM / AAVE / DAI / 1INCH / CEL / COVER / FTT / HEGIC / KP3R / MTA / OMG / SRM / SNX / sUSD / SUSHI / CREAM / DPI
 
 For the following BTC-pegged token, we use BTC price instead:
 
