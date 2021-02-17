@@ -16,6 +16,7 @@
 * [Collateral & Reserve Factor](iron-bank/collateral-and-reserve-factor.md)
 * [Interest Rate Model](iron-bank/interest-rate-model.md)
 * [Price Oracle](iron-bank/price-oracle.md)
+* [FAQ](iron-bank/faq.md)
 
 ## CRETH2 <a id="eth2"></a>
 
