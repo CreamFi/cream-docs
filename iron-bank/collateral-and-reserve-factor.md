@@ -17,7 +17,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | WBTC | 80% | 5% |
 | USDT | 90% | 5% |
 | USDC | 90% | 5% |
-| sUSD | 90% | 5% |
+| sUSD | 0% | 5% |
 | mUSD | 90% | 5% |
 | DUSD | 90% | 5% |
 | EURS | 0% | 5% |

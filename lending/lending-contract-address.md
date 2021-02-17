@@ -74,5 +74,6 @@
 | Contract | Address |
 | :--- | :--- |
 | Comptroller | [0x3d5BC3c8d13dcB8bF317092d84783c2697AE9258](https://etherscan.io/address/0x3d5BC3c8d13dcB8bF317092d84783c2697AE9258) |
-| Lens | [0x69F2b8D8846e3dcd94C09e4f3CBB8d2ba8D9423f](https://etherscan.io/address/0x69F2b8D8846e3dcd94C09e4f3CBB8d2ba8D9423f) |
+| Lens | [0xd400e22dcA840CC7E342DF1d9945684bBd587659](https://etherscan.io/address/0xd400e22dcA840CC7E342DF1d9945684bBd587659) |
+| ~~Lens \(deprecated\)~~ | [0x69F2b8D8846e3dcd94C09e4f3CBB8d2ba8D9423f](https://etherscan.io/address/0x69F2b8D8846e3dcd94C09e4f3CBB8d2ba8D9423f) |
 
