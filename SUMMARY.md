@@ -34,8 +34,6 @@
 * [Inactive Staking pools Address](legacy/inactive-staking-pools-address.md)
 * [creamY](legacy/creamy-v1.md)
 
-## creamY
-
 ---
 
 * [Give Feedback](https://forum.cream.finance/c/site-feedback)
