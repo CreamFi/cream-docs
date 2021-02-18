@@ -71,7 +71,7 @@
       <td style="text-align:left">
         <p>COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, UNI, SUSHI, wNXM, SWAG,
           CEL, DPI, BOND, KP3R, HFIL, CRETH2, HEGIC, ESD, COVER, 1INCH, OMG, xSUSHI,
-          SNX, PICKLE, AKRO, bBADGER, OGN, AMP</p>
+          SNX, PICKLE, AKRO, bBADGER, OGN, AMP, ALPHA</p>
         <p></p>
         <p>crSLP-SUSHI-ETH, crSLP-YFI-ETH</p>
       </td>

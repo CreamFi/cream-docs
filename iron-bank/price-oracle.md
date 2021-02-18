@@ -14,6 +14,11 @@ For the following BTC-pegged token, we use BTC price instead:
 
 * WBTC
 
+For the following EUR stablecoins, we use euro price instead:
+
+* EURS
+* sEUR
+
 ### Contract
 
 For the following token, we fetch price from contracts directly:
