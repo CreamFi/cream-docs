@@ -1,7 +1,7 @@
 # Price Oracle
 
 {% hint style="info" %}
-Currently we use Band Protocol and our own Price Oracle on BSC, except for CAKE and XVS with our own price oracle.
+Currently we use Band Protocol and our main Price Oracle on BSC
 {% endhint %}
 
 | Contract | Address |
