@@ -29,6 +29,11 @@
 | crTWT | [0x2d3bfaDF9BC94E3Ab796029A030e863F1898aA06](https://bscscan.com/address/0x2d3bfaDF9BC94E3Ab796029A030e863F1898aA06) |
 | crCAKE | [0xbf9b95b78bc42f6cf53ff2a0ce19d607cfe1ff82](https://bscscan.com/address/0xbf9b95b78bc42f6cf53ff2a0ce19d607cfe1ff82) |
 | crXVS | [0x4ebdef163ff08ac1d56a89bafefd6c01cc28a48f](https://bscscan.com/address/0x4ebdef163ff08ac1d56a89bafefd6c01cc28a48f) |
+| crBAT | [0x4cB7F1f4aD7a6b53802589Af3B90612C1674Fec4](https://bscscan.com/address/0x4cb7f1f4ad7a6b53802589af3b90612c1674fec4) |
+| crVAI | [0x84902bd5ccef97648Bf69C5096729A9367043bEb](https://bscscan.com/address/0x84902bd5ccef97648bf69c5096729a9367043beb) |
+| crAUTO | [0xF77DF34F4Bf632Fb5CA928592a73a29A42BCf0B1](https://bscscan.com/address/0xf77df34f4bf632fb5ca928592a73a29a42bcf0b1) |
+| crRENBTC | [0x7F746A80506a4cafA39938f7C08Ad59cFa6dE418](https://bscscan.com/address/0x7f746a80506a4cafa39938f7c08ad59cfa6de418) |
+| crRENZEC | [0xbE7E1d74AcAE787355169bC61A8729b2040fCe6b](https://bscscan.com/address/0xbe7e1d74acae787355169bc61a8729b2040fce6b) |
 
 ### Protocol address
 

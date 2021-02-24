@@ -7,7 +7,7 @@
 | Parameter | Value |
 | :--- | :--- |
 | Category | Stable & Major |
-| Tokens | BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC |
+| Tokens | BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC, renBTC |
 | Base | 2% |
 | Multiplier | 25% |
 | JumpMultiplier | 500% |
@@ -21,7 +21,7 @@
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance & Seeds |
-| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS |
+| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renZEC |
 | Base | 2% |
 | Multiplier | 35% |
 | JumpMultiplier | 750% |

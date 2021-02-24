@@ -1,7 +1,7 @@
 # Price Oracle
 
 {% hint style="info" %}
-Currently we use Band Protocol and our main Price Oracle on BSC
+Currently we use Band Protocol and our main Price Oracle on BSC, except VAI and AUTO
 {% endhint %}
 
 | Contract | Address |
