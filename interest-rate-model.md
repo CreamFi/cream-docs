@@ -1,5 +1,17 @@
 # Interest Rate Model
 
+## APY Funcion
+
+Borrow APY
+
+= Base + min\(Multiplier \* __UtilizationRate, Multiplier \* Kink\) + max\(JumpMultiplier \* UtilizationRate - Kink, 0\)
+
+
+
+Supply APY
+
+= annualized\[de–annualized\(Borrow APY\) - Reserve Factor\]
+
 ## Stable + Major
 
 ![](https://i.imgur.com/5aoSePr.png)
