@@ -2,13 +2,15 @@
 
 ### APY Function
 
-$$
-SupplyAPY=annualized[de–annualized(BorrowAPY)−ReserveFactor]
-$$
+Borrow APY
 
-$$
-Borrow APY = Base + min(Multiplier * UtilizationRate, Multiplier * Kink) + max(JumpMultiplier * UtilizationRate - Kink, 0)
-$$
+= Base + min\(Multiplier \* __UtilizationRate, Multiplier \* Kink\) + max\(JumpMultiplier \* UtilizationRate - Kink, 0\)
+
+
+
+Supply APY
+
+= annualized\[de–annualized\(Borrow APY\) - Reserve Factor\]
 
 ### Major
 
