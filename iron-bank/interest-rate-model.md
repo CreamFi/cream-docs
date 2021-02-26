@@ -1,5 +1,15 @@
 # Interest Rate Model
 
+### APY Function
+
+$$
+SupplyAPY=annualized[de–annualized(BorrowAPY)−ReserveFactor]
+$$
+
+$$
+Borrow APY = Base + min(Multiplier * UtilizationRate, Multiplier * Kink) + max(JumpMultiplier * UtilizationRate - Kink, 0)
+$$
+
 ### Major
 
 ![](../.gitbook/assets/jie-tu-20210120-10.55.01%20%281%29.png)
