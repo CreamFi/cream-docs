@@ -32,7 +32,7 @@ Supply APY
       <td style="text-align:left">Tokens</td>
       <td style="text-align:left">
         <p>USDT, USDC, BUSD, yCRV, yUSD, ETH, renBTC, FTT, yETH, BBTC, HBTC, HUSD,
-          DAI, tBTC, WBTC, sUSD, FRAX, BAC</p>
+          DAI, tBTC, WBTC, sUSD, FRAX, BAC, UST</p>
         <p>
           <br />UNI-V2-WBTC-ETH, UNI-V2-ETH-USDT, UNI-V2-DAI-ETH, UNI-V2-USDC-ETH</p>
       </td>

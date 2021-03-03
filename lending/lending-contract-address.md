@@ -69,6 +69,7 @@
 | crFRAX | [0xb092b4601850E23903A42EaCBc9D8A0EeC26A4d5](https://etherscan.io/address/0xb092b4601850e23903a42eacbc9d8a0eec26a4d5) |
 | crBAC | [0x460ea730d204c822cE709f00A8E5959921715aDC](https://etherscan.io/address/0x460ea730d204c822ce709f00a8e5959921715adc) |
 | crALPHA | [0x1d0986Fb43985c88Ffa9aD959CC24e6a087C7e35](https://etherscan.io/address/0x1d0986fb43985c88ffa9ad959cc24e6a087c7e35) |
+| crUST | [0x51F48b638F82e8765F7a26373A2Cb4CcB10C07af](https://etherscan.io/address/0x51f48b638f82e8765f7a26373a2cb4ccb10c07af) |
 
 ### Protocol Address
 
