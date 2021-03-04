@@ -5,7 +5,7 @@ description: Ethereum Mainnet documentation
 # C.R.E.A.M. Finance
 
 {% hint style="info" %}
-You can switch between Ethereum Mainnet and Binance Smart Chain in top-left corner
+You can switch between Ethereum Mainnet, Binance Smart Chain and Fantom Opera in top-left corner
 {% endhint %}
 
 ## Overview
