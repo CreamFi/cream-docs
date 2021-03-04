@@ -4,10 +4,12 @@
 
 ## Lending
 
+* [Lending Contract Address](lending/lending-contract-address.md)
+* [Collateral Factor & Reserve Factor](lending/collateral-factor-and-reserve-factor.md)
+* [Interest Rate Model](lending/interest-rate-model.md)
+* [Price Oracle](lending/price-oracle.md)
+
 ---
 
-* [Lending Contract Address](lending-contract-address.md)
-* [Collateral Factor & Reserve Factor](collateral-factor-and-reserve-factor.md)
-* [Interest Rate Model](interest-rate-model.md)
-* [Price Oracle](price-oracle.md)
+* [Give Feedback](https://forum.cream.finance/c/site-feedback/2)
 
