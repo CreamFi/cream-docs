@@ -51,7 +51,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | UNI-V2-ETH-USDT | 70% | 40% |
 | UNI-V2-USDC-ETH | 75% | 40% |
 | UNI-V2-DAI-ETH | 75% | 40% |
-| xSUSHI | 0% | 40% |
+| xSUSHI | 60% | 40% |
 | SLP-WBTC-ETH | 75% | 40% |
 | SLP-DAI-ETH | 75% | 40% |
 | SLP-USDC-ETH | 75% | 40% |
