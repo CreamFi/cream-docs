@@ -22,11 +22,19 @@ For the following BTC-pegged tokens, we use BTC price instead:
 * HBTC
 * tBTC
 
+### LP Tokens
+
+For SushiSwap LP tokens / Uniswap LP tokens, we use [Fair LP Pricing](https://blog.alphafinance.io/fair-lp-token-pricing/) introduced by [Alpha Finance](https://alphafinance.io/).
+
+Price for underlying asset is retrieved from Chainlink price feed.
+
+See [source code](https://github.com/CreamFi/compound-protocol/blob/master/contracts/PriceOracleProxy.sol#L288) for the implementation.
+
 ### Contract
 
 For the following tokens, we fetch price from contracts directly:
 
-yUSD / yETH / yCRV / xSushi / SushiSwap LP tokens / Uniswap LP tokens / bBadger
+yUSD / yETH / yCRV / xSushi / bBadger
 
 ### C.R.E.A.M. Finance
 
