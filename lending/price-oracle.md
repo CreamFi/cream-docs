@@ -26,7 +26,7 @@ For the following BTC-pegged tokens, we use BTC price instead:
 
 For the following tokens, we fetch price from contracts directly:
 
-yUSD / yETH / yCRV / xSushi / bBadger
+yUSD / yETH / yCRV / xSushi / SushiSwap LP tokens / Uniswap LP tokens / bBadger
 
 ### C.R.E.A.M. Finance
 
