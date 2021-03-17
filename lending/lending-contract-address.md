@@ -34,6 +34,9 @@
 | crAUTO | [0xF77DF34F4Bf632Fb5CA928592a73a29A42BCf0B1](https://bscscan.com/address/0xf77df34f4bf632fb5ca928592a73a29a42bcf0b1) |
 | crRENBTC | [0x7F746A80506a4cafA39938f7C08Ad59cFa6dE418](https://bscscan.com/address/0x7f746a80506a4cafa39938f7c08ad59cfa6de418) |
 | crRENZEC | [0xbE7E1d74AcAE787355169bC61A8729b2040fCe6b](https://bscscan.com/address/0xbe7e1d74acae787355169bc61a8729b2040fce6b) |
+| crBETH | [0xDCf60E349a5AAeeEcdd2fb6772931FBF3486eD1C](https://bscscan.com/address/0xdcf60e349a5aaeeecdd2fb6772931fbf3486ed1c) |
+| crIOTX | [0xc17C8C5b8bB9456c624f8534FdE6cBda2451488C](https://bscscan.com/address/0xc17c8c5b8bb9456c624f8534fde6cbda2451488c) |
+| crSXP | [0xa8D75A0D17D2f4F2f4673975Ab8470269D019c96](https://bscscan.com/address/0xa8d75a0d17d2f4f2f4673975ab8470269d019c96) |
 
 ### Protocol address
 

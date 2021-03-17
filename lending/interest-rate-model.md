@@ -19,7 +19,7 @@ Supply APY
 | Parameter | Value |
 | :--- | :--- |
 | Category | Stable & Major |
-| Tokens | BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC, renBTC |
+| Tokens | BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC, renBTC, BETH |
 | Base | 2% |
 | Multiplier | 25% |
 | JumpMultiplier | 500% |
@@ -33,7 +33,7 @@ Supply APY
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance & Seeds |
-| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renZEC |
+| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renZEC, IOTX, SXP |
 | Base | 2% |
 | Multiplier | 35% |
 | JumpMultiplier | 750% |
