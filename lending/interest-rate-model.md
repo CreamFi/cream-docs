@@ -33,7 +33,7 @@ Supply APY
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance & Seeds |
-| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renZEC, IOTX, SXP |
+| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renZEC, IOTX, SXP, SUSHI |
 | Base | 2% |
 | Multiplier | 35% |
 | JumpMultiplier | 750% |

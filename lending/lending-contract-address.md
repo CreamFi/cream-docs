@@ -37,6 +37,7 @@
 | crBETH | [0xDCf60E349a5AAeeEcdd2fb6772931FBF3486eD1C](https://bscscan.com/address/0xdcf60e349a5aaeeecdd2fb6772931fbf3486ed1c) |
 | crIOTX | [0xc17C8C5b8bB9456c624f8534FdE6cBda2451488C](https://bscscan.com/address/0xc17c8c5b8bb9456c624f8534fde6cbda2451488c) |
 | crSXP | [0xa8D75A0D17D2f4F2f4673975Ab8470269D019c96](https://bscscan.com/address/0xa8d75a0d17d2f4f2f4673975ab8470269d019c96) |
+| crSUSHI | [0x9B53e7D5e3F6Cc8694840eD6C9f7fee79e7Bcee5](https://bscscan.com/address/0x9b53e7d5e3f6cc8694840ed6c9f7fee79e7bcee5) |
 
 ### Protocol address
 
