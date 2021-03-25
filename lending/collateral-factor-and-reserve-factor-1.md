@@ -71,6 +71,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | ALPHA | 60% | 40% |
 | UST | 0% | 20% |
 | FTM | 0% | 40% |
+| RAI | 0% | 40% |
 
 
 
