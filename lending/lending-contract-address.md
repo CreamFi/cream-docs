@@ -50,7 +50,7 @@
 | Cream | [0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888](https://bscscan.com/address/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888) |
 | Comptroller | [0x589de0f0ccf905477646599bb3e5c622c84cc0ba](https://bscscan.com/address/0x589de0f0ccf905477646599bb3e5c622c84cc0ba) |
 | PriceOracle | [0xa82958C9f2Ff63f6D2DC7d8Ee22AE69fD0819477](https://bscscan.com/address/0xa82958C9f2Ff63f6D2DC7d8Ee22AE69fD0819477) |
-| Lens | [0xb0859594C87B3f09fD4bEC1531808bBA730c72F2](https://bscscan.com/address/0xb0859594c87b3f09fd4bec1531808bba730c72f2) |
+| Lens | [0x1A014Ffe0cd187A298a7E79BA5ab05538686ea4a](https://bscscan.com/address/0x1A014Ffe0cd187A298a7E79BA5ab05538686ea4a#code) |
 
 ### Other address
 
