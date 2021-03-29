@@ -36,4 +36,8 @@
 | IOTX | 0% | 40% |
 | SXP | 0% | 40% |
 | SUSHI | 65% | 40% |
+| CAKE-LP-CAKE-BNB | 50% | 40% |
+| CAKE-LP-BNB-BUSD | 75% | 40% |
+| CAKE-LP-BTCB-BNB | 75% | 40% |
+| CAKE-LP-ETH-BNB | 75% | 40% |
 

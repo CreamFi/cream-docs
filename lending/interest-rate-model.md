@@ -30,13 +30,51 @@ Supply APY
 
 ![](https://i.imgur.com/Fg4vOj7.png)
 
-| Parameter | Value |
-| :--- | :--- |
-| Category | Governance & Seeds |
-| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renZEC, IOTX, SXP, SUSHI |
-| Base | 2% |
-| Multiplier | 35% |
-| JumpMultiplier | 750% |
-| Kink | 80% |
-| Contract Address | [0x66d801f9bf3F3225251318565352d49E348aEB6d](https://bscscan.com/address/0x66d801f9bf3F3225251318565352d49E348aEB6d) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Parameter</th>
+      <th style="text-align:left">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Category</td>
+      <td style="text-align:left">Governance &amp; Seeds</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Tokens</td>
+      <td style="text-align:left">
+        <p>LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI,
+          AUTO, renZEC, IOTX, SXP, SUSHI</p>
+        <p></p>
+        <p>CAKE-LP-CAKE-BNB</p>
+        <p>CAKE-LP-BNB-BUSD</p>
+        <p>CAKE-LP-BTCB-BNB</p>
+        <p>CAKE-LP-ETH-BNB</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Base</td>
+      <td style="text-align:left">2%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Multiplier</td>
+      <td style="text-align:left">35%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">JumpMultiplier</td>
+      <td style="text-align:left">750%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Kink</td>
+      <td style="text-align:left">80%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Contract Address</td>
+      <td style="text-align:left"><a href="https://bscscan.com/address/0x66d801f9bf3F3225251318565352d49E348aEB6d">0x66d801f9bf3F3225251318565352d49E348aEB6d</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 

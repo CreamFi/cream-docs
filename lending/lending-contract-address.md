@@ -38,6 +38,10 @@
 | crIOTX | [0xc17C8C5b8bB9456c624f8534FdE6cBda2451488C](https://bscscan.com/address/0xc17c8c5b8bb9456c624f8534fde6cbda2451488c) |
 | crSXP | [0xa8D75A0D17D2f4F2f4673975Ab8470269D019c96](https://bscscan.com/address/0xa8d75a0d17d2f4f2f4673975ab8470269d019c96) |
 | crSUSHI | [0x9B53e7D5e3F6Cc8694840eD6C9f7fee79e7Bcee5](https://bscscan.com/address/0x9b53e7d5e3f6cc8694840ed6c9f7fee79e7bcee5) |
+| CAKE-LP-CAKE-BNB | [0x36CdF5972aCA2b70F10D0f7aF0D95871ABC065d9](https://bscscan.com/address/0x36cdf5972aca2b70f10d0f7af0d95871abc065d9) |
+| CAKE-LP-BNB-BUSD | [0x26A490a0F419DcFBEd97E568403654c2746a7110](https://bscscan.com/address/0x26a490a0f419dcfbed97e568403654c2746a7110) |
+| CAKE-LP-BTCB-BNB | [0xe39b9E0366940Eb3CA62b85Ffae838eF0f8B14e0](https://bscscan.com/address/0xe39b9e0366940eb3ca62b85ffae838ef0f8b14e0) |
+| CAKE-LP-ETH-BNB | [0x5Fa61a5A65920F90Af970B13b7f28DaEef0440B7](https://bscscan.com/address/0x5fa61a5a65920f90af970b13b7f28daeef0440b7) |
 
 ### Protocol address
 
@@ -47,8 +51,6 @@
 | Comptroller | [0x589de0f0ccf905477646599bb3e5c622c84cc0ba](https://bscscan.com/address/0x589de0f0ccf905477646599bb3e5c622c84cc0ba) |
 | PriceOracle | [0xa82958C9f2Ff63f6D2DC7d8Ee22AE69fD0819477](https://bscscan.com/address/0xa82958C9f2Ff63f6D2DC7d8Ee22AE69fD0819477) |
 | Lens | [0xb0859594C87B3f09fD4bEC1531808bBA730c72F2](https://bscscan.com/address/0xb0859594c87b3f09fd4bec1531808bba730c72f2) |
-| Base200bps\_Slope2500bps\_Jump50000bps\_Kink8000 | [0x4e4c96b038899e2f2597ef693b8278cfeb63e7db](https://bscscan.com/address/0x4e4c96b038899e2f2597ef693b8278cfeb63e7db) |
-| Base200bps\_Slope3500bps\_Jump75000bps\_Kink8000 | [0x66d801f9bf3F3225251318565352d49E348aEB6d](https://bscscan.com/address/0x66d801f9bf3F3225251318565352d49E348aEB6d) |
 
 ### Other address
 
