@@ -42,6 +42,7 @@
 | CAKE-LP-BNB-BUSD | [0x26A490a0F419DcFBEd97E568403654c2746a7110](https://bscscan.com/address/0x26a490a0f419dcfbed97e568403654c2746a7110) |
 | CAKE-LP-BTCB-BNB | [0xe39b9E0366940Eb3CA62b85Ffae838eF0f8B14e0](https://bscscan.com/address/0xe39b9e0366940eb3ca62b85ffae838ef0f8b14e0) |
 | CAKE-LP-ETH-BNB | [0x5Fa61a5A65920F90Af970B13b7f28DaEef0440B7](https://bscscan.com/address/0x5fa61a5a65920f90af970b13b7f28daeef0440b7) |
+| CAKE-LP-USDT-BUSD | [0x19b08fF7D90d63ad109c6FaBB8e0fcC866477A41](https://bscscan.com/address/0x19b08ff7d90d63ad109c6fabb8e0fcc866477a41) |
 
 ### Protocol address
 

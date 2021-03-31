@@ -52,6 +52,7 @@ Supply APY
         <p>CAKE-LP-BNB-BUSD</p>
         <p>CAKE-LP-BTCB-BNB</p>
         <p>CAKE-LP-ETH-BNB</p>
+        <p>CAKE-LP-USDT-BUSD</p>
       </td>
     </tr>
     <tr>

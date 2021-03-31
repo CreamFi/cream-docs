@@ -40,4 +40,5 @@
 | CAKE-LP-BNB-BUSD | 75% | 40% |
 | CAKE-LP-BTCB-BNB | 75% | 40% |
 | CAKE-LP-ETH-BNB | 75% | 40% |
+| CAKE-LP-USDT-BUSD | 75% | 40% |
 
