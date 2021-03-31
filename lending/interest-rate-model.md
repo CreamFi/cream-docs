@@ -2,15 +2,31 @@
 
 ## APY Function
 
-Borrow APY
+**Borrow APY**
 
-= Base + min\(Multiplier \* __UtilizationRate, Multiplier \* Kink\) + max\(JumpMultiplier \* UtilizationRate - Kink, 0\)
+= Base + Multiplier \* min\(UtilizationRate, Kink\) + max\(JumpMultiplier \* UtilizationRate - Kink, 0\)
 
 
 
-Supply APY
+**Supply APY**
 
-= annualized\[de–annualized\(Borrow APY\) - Reserve Factor\]
+= Distribute \(Interest Paid by Borrowers Per Block - Reserve\) to all suppliers, and convert it into APY
+
+= Distribute \[\(1 + Borrow APY\) ^ \(1 / BlocksPerYear\) - 1\] \* Total Borrow \* \(1 - Reserve Factor\) to all suppliers, and convert it into APY
+
+= {\[\(1 + Borrow APY\) ^ \(1 / BlocksPerYear\) - 1\] \* Total Borrow \* \(1 - Reserve Factor\) / Total Supply}, and convert it into APY
+
+= {1 + \[\(1 + Borrow APY\) ^ \(1/BlocksPerYear\) - 1\] \* Total Borrow \* \(1 - Reserve Factor\) / Total Supply} ^ BlocksPerYear - 1
+
+= **{1+\[\(1+Borrow APY\)^\(1/BlocksPerYear\)-1\]\*\(1-Reserve Factor\)\*Utilization Rate}^BlocksPerYear-1**
+
+{% hint style="info" %}
+BlocksPerYear = 2,102,400 \(15 sec per block\)
+{% endhint %}
+
+{% hint style="info" %}
+Find other variables in [Markets](https://app.cream.finance/markets)
+{% endhint %}
 
 ## Stable + Major
 
