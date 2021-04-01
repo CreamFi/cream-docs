@@ -71,6 +71,7 @@
 | crALPHA | [0x1d0986Fb43985c88Ffa9aD959CC24e6a087C7e35](https://etherscan.io/address/0x1d0986fb43985c88ffa9ad959cc24e6a087c7e35) |
 | crUST | [0x51F48b638F82e8765F7a26373A2Cb4CcB10C07af](https://etherscan.io/address/0x51f48b638f82e8765f7a26373a2cb4ccb10c07af) |
 | crFTM | [0xc36080892c64821fa8e396bc1bD8678fA3b82b17](https://etherscan.io/address/0xc36080892c64821fa8e396bc1bd8678fa3b82b17) |
+| crPERP | [0x299e254A8a165bBeB76D9D69305013329Eea3a3B](https://etherscan.io/address/0x299e254a8a165bbeb76d9d69305013329eea3a3b) |
 | crRAI | [0xf8445C529D363cE114148662387eba5E62016e20](https://etherscan.io/address/0xf8445C529D363cE114148662387eba5E62016e20) |
 
 ### Protocol Address
