@@ -16,7 +16,7 @@
 
 = {\[\(1 + Borrow APY\) ^ \(1 / BlocksPerYear\) - 1\] \* Total Borrow \* \(1 - Reserve Factor\) / Total Supply}, and convert it into APY
 
-= {1 + \[\(1 + Borrow APY\) ^ \(1/BlocksPerYear\) - 1\] \* Total Borrow \* \(1 - Reserve Factor\) / Total Supply} ^ BlocksPerYear - 1
+= {1 + \[\(1 + Borrow APY\) ^ \(1 / BlocksPerYear\) - 1\] \* Total Borrow \* \(1 - Reserve Factor\) / Total Supply} ^ BlocksPerYear - 1
 
 = **{1+\[\(1+Borrow APY\)^\(1/BlocksPerYear\)-1\]\*\(1-Reserve Factor\)\*Utilization Rate}^BlocksPerYear-1**
 
@@ -44,13 +44,13 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 ### Stable
 
-![](../.gitbook/assets/jie-tu-20210323-19.09.28.png)
+![](../.gitbook/assets/jie-tu-20210401-17.44.05.png)
 
 | Parameter | Value |
 | :--- | :--- |
 | Tokens | y3Crv, DAI, USDT, USDC, sUSD, mUSD, DUSD, EURS, sEUR, BUSD, GUSD, cDAI, cUSDT, cUSDC |
 | Base | 0% |
-| Multiplier | 23% |
+| Multiplier | 13% |
 | JumpMultiplier | 800% |
 | Kink 1 | 80% |
 | Kink 2 | 90% |
