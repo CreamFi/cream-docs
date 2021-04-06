@@ -4,7 +4,7 @@
 
 **Borrow APY**
 
-= Base + Multiplier \* min\(UtilizationRate, Kink1\) + max\(JumpMultiplier \* UtilizationRate - Kink2, 0\)
+= \[1 + Base + Multiplier \* min\(UtilizationRate, Kink\) + max\(JumpMultiplier \* UtilizationRate - Kink, 0\)\] ^ 2102400 - 1
 
 
 
