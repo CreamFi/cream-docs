@@ -4,7 +4,7 @@
 
 **Borrow APY**
 
-= Base + Multiplier \* min\(UtilizationRate, Kink\) + max\(JumpMultiplier \* UtilizationRate - Kink, 0\)
+= \[1 + Base + Multiplier \* min\(UtilizationRate, Kink\) + max\(JumpMultiplier \* UtilizationRate - Kink, 0\)\] ^ 2102400 - 1
 
 
 
@@ -21,7 +21,7 @@
 = **{1+\[\(1+Borrow APY\)^\(1/BlocksPerYear\)-1\]\*\(1-Reserve Factor\)\*Utilization Rate}^BlocksPerYear-1**
 
 {% hint style="info" %}
-BlocksPerYear = 2,102,400 \(15 sec per block\)
+BlocksPerYear = 10,512,000 \(15 sec per block\)
 {% endhint %}
 
 {% hint style="info" %}
