@@ -21,7 +21,7 @@
 = **{1+\[\(1+Borrow APY\)^\(1/BlocksPerYear\)-1\]\*\(1-Reserve Factor\)\*Utilization Rate}^BlocksPerYear-1**
 
 {% hint style="info" %}
-BlocksPerYear = 10,512,000 \(15 sec per block\)
+BlocksPerYear = 10,512,000 \(3 sec per block\)
 {% endhint %}
 
 {% hint style="info" %}
