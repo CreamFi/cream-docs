@@ -35,7 +35,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Stable & Major |
-| Tokens | BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC, renBTC, BETH |
+| Tokens | BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC, renBTC, BETH, WBNB |
 | Base | 2% |
 | Multiplier | 25% |
 | JumpMultiplier | 500% |

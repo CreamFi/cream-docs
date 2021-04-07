@@ -38,11 +38,12 @@
 | crIOTX | [0xc17C8C5b8bB9456c624f8534FdE6cBda2451488C](https://bscscan.com/address/0xc17c8c5b8bb9456c624f8534fde6cbda2451488c) |
 | crSXP | [0xa8D75A0D17D2f4F2f4673975Ab8470269D019c96](https://bscscan.com/address/0xa8d75a0d17d2f4f2f4673975ab8470269d019c96) |
 | crSUSHI | [0x9B53e7D5e3F6Cc8694840eD6C9f7fee79e7Bcee5](https://bscscan.com/address/0x9b53e7d5e3f6cc8694840ed6c9f7fee79e7bcee5) |
-| CAKE-LP-CAKE-BNB | [0x36CdF5972aCA2b70F10D0f7aF0D95871ABC065d9](https://bscscan.com/address/0x36cdf5972aca2b70f10d0f7af0d95871abc065d9) |
-| CAKE-LP-BNB-BUSD | [0x26A490a0F419DcFBEd97E568403654c2746a7110](https://bscscan.com/address/0x26a490a0f419dcfbed97e568403654c2746a7110) |
-| CAKE-LP-BTCB-BNB | [0xe39b9E0366940Eb3CA62b85Ffae838eF0f8B14e0](https://bscscan.com/address/0xe39b9e0366940eb3ca62b85ffae838ef0f8b14e0) |
-| CAKE-LP-ETH-BNB | [0x5Fa61a5A65920F90Af970B13b7f28DaEef0440B7](https://bscscan.com/address/0x5fa61a5a65920f90af970b13b7f28daeef0440b7) |
-| CAKE-LP-USDT-BUSD | [0x19b08fF7D90d63ad109c6FaBB8e0fcC866477A41](https://bscscan.com/address/0x19b08ff7d90d63ad109c6fabb8e0fcc866477a41) |
+| crCAKE-LP-CAKE-BNB | [0x36CdF5972aCA2b70F10D0f7aF0D95871ABC065d9](https://bscscan.com/address/0x36cdf5972aca2b70f10d0f7af0d95871abc065d9) |
+| crCAKE-LP-BNB-BUSD | [0x26A490a0F419DcFBEd97E568403654c2746a7110](https://bscscan.com/address/0x26a490a0f419dcfbed97e568403654c2746a7110) |
+| crCAKE-LP-BTCB-BNB | [0xe39b9E0366940Eb3CA62b85Ffae838eF0f8B14e0](https://bscscan.com/address/0xe39b9e0366940eb3ca62b85ffae838ef0f8b14e0) |
+| crCAKE-LP-ETH-BNB | [0x5Fa61a5A65920F90Af970B13b7f28DaEef0440B7](https://bscscan.com/address/0x5fa61a5a65920f90af970b13b7f28daeef0440b7) |
+| crCAKE-LP-USDT-BUSD | [0x19b08fF7D90d63ad109c6FaBB8e0fcC866477A41](https://bscscan.com/address/0x19b08ff7d90d63ad109c6fabb8e0fcc866477a41) |
+| crWBNB | [0x15CC701370cb8ADA2a2B6f4226eC5CF6AA93bC67](https://bscscan.com/address/0x15cc701370cb8ada2a2b6f4226ec5cf6aa93bc67) |
 
 ### Protocol address
 
