@@ -2,6 +2,7 @@
 
 * [C.R.E.A.M. Finance](README.md)
 * [Contract Address](smart-contract-address.md)
+* [Flash Loans](flash-loans.md)
 * [Press Kit](press-kit.md)
 
 ## Lending
