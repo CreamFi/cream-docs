@@ -1,6 +1,6 @@
 # Flash Loans
 
-C.R.E.A.M. is bringing Flash Loans to our money markets.
+C.R.E.A.M. is bringing Flash Loans to our money markets. 
 
 Flash Loans allow developers access to undercollateralized loans, pending the borrowed amount \(and fee\) is returned within one transaction block.
 
