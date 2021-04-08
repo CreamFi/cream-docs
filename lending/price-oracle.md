@@ -5,7 +5,7 @@ description: How C.R.E.A.M. Finance get token price
 # Price Oracle
 
 {% hint style="info" %}
-Band Protocol supports all listed assets on Fantom
+Band Protocol supports all listed assets
 {% endhint %}
 
 | Protocol | Contract |
