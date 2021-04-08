@@ -1,6 +1,7 @@
 # Table of contents
 
 * [C.R.E.A.M. Finance](README.md)
+* [Flash Loans](flash-loans.md)
 
 ## Lending
 
