@@ -20,7 +20,7 @@ Only part of markets have Flash Loans
 
 ### Binance Smart Chain
 
-WBNB, ETH, USDT, USDC, DAI, BTCB, BUSD, XRP, BCH, LTC, LINK, DOT, ADA, CREAM, BAND, EOS, XTZ, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renBTC, renZEC, BETH, IOTX, SXP, SUSHI
+WBNB, ETH, USDT, USDC, DAI, BTCB, BUSD, XRP, BCH, LTC, LINK, DOT, ADA, BAND, EOS, XTZ, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renBTC, renZEC, BETH, IOTX, SXP, SUSHI
 
 {% page-ref page="lending/lending-contract-address.md" %}
 
