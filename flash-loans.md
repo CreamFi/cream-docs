@@ -24,5 +24,9 @@ WBNB, ETH, USDT, USDC, DAI, BTCB, BUSD, XRP, BCH, LTC, LINK, DOT, ADA, BAND, EOS
 
 {% page-ref page="lending/lending-contract-address.md" %}
 
+## Step by step guide
+
+Please refer to Ethereum mainnet's [documentation](https://docs.cream.finance/flash-loans#step-by-step-guide).
+
 
 
