@@ -24,5 +24,7 @@ WFTM, USDC, ETH, BTC, DAI, YFI, SUSHI, AAVE, CRV, BAND, KP3R, sUSD, COVER, HEGIC
 
 {% page-ref page="lending/lending-contract-address.md" %}
 
+## Step by step guide
 
+Please refer to Ethereum mainnet's [documentation](https://docs.cream.finance/flash-loans#step-by-step-guide).
 
