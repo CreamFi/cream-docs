@@ -65,7 +65,8 @@ contract FlashloanExample is IFlashloanReceiver {
     function doFlashloan(address cToken, uint256 borrowAmount) external {
         require(msg.sender == owner, "not owner");
 
-        bytes memory data = "0x";
+        // TODO: customize your params here
+        bytes memory data = abi.encode(address(this), 1234);
 
         // call the flashLoan method
         ICTokenFlashloan(cToken).flashLoan(address(this), borrowAmount, data);
@@ -78,7 +79,10 @@ contract FlashloanExample is IFlashloanReceiver {
         uint currentBalance = IERC20(underlying).balanceOf(address(this));
         require(currentBalance >= amount, "Invalid balance, was the flashLoan successful?");
 
-        //
+        // TODO: decode your params if you have any
+        (address receiver, uint amount) = abi.decode(params, (address, uint));
+        
+        // TODO:
         // Your logic goes here.
         // !! Ensure that *this contract* has enough of `underlying` funds to payback the `fee` !!
         //
@@ -121,15 +125,25 @@ For example:
 Encoding can be done off-chain by using a package like [ethers.js](https://docs.ethers.io/v5/api/utils/abi/coder/#AbiCoder--methods).
 
 ```javascript
-const params = ethers.utils.defaultAbiCoder.encode(
-    ["string"],
-    ["hello world!"]
+const data = ethers.utils.defaultAbiCoder.encode(
+    ["string", "address"],
+    ["hello world!", "0x0000000000000000000000000000000000000000"]
 );
 ```
 
+Or else, can be done with solidity.
+
+```javascript
+bytes memory data = abi.encode(address(this), 1234);
+```
+
+Like line 28 in function `doFlashloan(address cToken, uint256 borrowAmount)` of the above example.
+
+
+
 ### 3. Paying back flash loaned asset
 
-You **must** transfer fund + fee back to crToken address in order to complete the flash loan process. Just like line 45 in the example code above.
+You **must** transfer fund + fee back to crToken address in order to complete the flash loan process. Just like line 50 in the example code above.
 
 ```javascript
 // transfer fund + fee back to cToken
