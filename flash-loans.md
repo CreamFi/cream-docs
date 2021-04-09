@@ -22,3 +22,7 @@ Only part of markets have Flash Loans
 
 WFTM, USDC, ETH, BTC, DAI, YFI, SUSHI, AAVE, CRV, BAND, KP3R, sUSD, COVER, HEGIC, LINK, SNX, SFI, FRAX
 
+{% page-ref page="lending/lending-contract-address.md" %}
+
+
+
