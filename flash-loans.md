@@ -22,7 +22,11 @@ Only part of markets have Flash Loans
 
 USDT, USDC, YFI, BAL, COMP, LINK, CRV, renBTC, BUSD, MTA, SUSHI, FTT, SRM, UNI, wNXM, SWAG, CEL, DPI, BBTC, AAVE, BOND, KP3R, HBTC, HFIL, CRETH2, HUSD, DAI, HEGIC, ESD, COVER, 1INCH, TBTC, OMG, WBTC, SNX, sUSD, PICKLE, AKRO, OGN, AMP, FRAX, BAC, ALPHA, UST, FTM, RUNE, PERP, RAI, OCEAN
 
+{% page-ref page="lending/lending-contract-address.md" %}
+
 ### Iron Bank
 
 WETH, DAI, USDT, USDC, sUSD, LINK, YFI, SNX, WBTC, mUSD, DUSD, EURS, sEUR, DPI, BUSD, GUSD
+
+{% page-ref page="iron-bank/iron-bank.md" %}
 
