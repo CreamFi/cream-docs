@@ -28,7 +28,7 @@
   * [crTokens](developer/error-codes/crtokens.md)
   * [Comptroller](developer/error-codes/comptroller.md)
 * [Data API](https://api.cream.finance/api/documentations/)
-* [Subgraph \(GraphQL\)](https://thegraph.com/explorer/subgraph/creamfinancedev/cream-lending)
+* [Subgraph \(GraphQL\)](developer/subgraph-graphql.md)
 
 ## CRETH2 <a id="eth2"></a>
 
