@@ -19,7 +19,3 @@
 
 {% page-ref page="eth2/ethereum-2.0-contract-address.md" %}
 
-
-
-
-
