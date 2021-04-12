@@ -24,5 +24,7 @@
 
 #### Marketing
 
+    Max \([Twitter](https://twitter.com/farmerdefi)\)
+
     Charlotte Lee \([Twitter](https://twitter.com/CharlotteleeW)\)
 
