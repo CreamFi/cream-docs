@@ -24,7 +24,5 @@
 
 #### Marketing
 
-    Regan Bozman \([Twitter](https://twitter.com/reganbozman)\)
-
     Charlotte Lee \([Twitter](https://twitter.com/CharlotteleeW)\)
 
