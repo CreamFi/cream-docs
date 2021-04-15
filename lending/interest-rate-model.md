@@ -51,6 +51,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
           DAI, tBTC, WBTC, sUSD, FRAX, BAC, UST</p>
         <p>
           <br />UNI-V2-WBTC-ETH, UNI-V2-ETH-USDT, UNI-V2-DAI-ETH, UNI-V2-USDC-ETH</p>
+        <p>yveCRV, yvsteCRV, yvCurve-IB</p>
       </td>
     </tr>
     <tr>

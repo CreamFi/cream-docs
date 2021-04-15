@@ -71,6 +71,9 @@
 | crPERP | [0x299e254A8a165bBeB76D9D69305013329Eea3a3B](https://etherscan.io/address/0x299e254a8a165bbeb76d9d69305013329eea3a3b) | Yes |
 | crRAI | [0xf8445C529D363cE114148662387eba5E62016e20](https://etherscan.io/address/0xf8445C529D363cE114148662387eba5E62016e20) | Yes |
 | crOCEAN | [0x7C3297cFB4c4bbd5f44b450c0872E0ADA5203112](https://etherscan.io/address/0x7c3297cfb4c4bbd5f44b450c0872e0ada5203112) | Yes |
+| crYVECRV | [0xA87e8e61dfAC8af5944D353Cd26B96B20d5f4D01](https://etherscan.io/address/0xa87e8e61dfac8af5944d353cd26b96b20d5f4d01) | No |
+| crYVSTECRV | [0x1bcaFA2C1b3a522E41bAa60C2E318981Ea8D1eb5](https://etherscan.io/address/0x1bcafa2c1b3a522e41baa60c2e318981ea8d1eb5) | No |
+| crYVCurve-IB | [0xf7c5314806bb349744Cf5E721F4d3395259B8531](https://etherscan.io/address/0xf7c5314806bb349744cf5e721f4d3395259b8531) | No |
 
 ### Protocol Address
 
