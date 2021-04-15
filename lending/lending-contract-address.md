@@ -80,3 +80,7 @@
 | Lens | [0xd400e22dcA840CC7E342DF1d9945684bBd587659](https://etherscan.io/address/0xd400e22dcA840CC7E342DF1d9945684bBd587659) |
 | ~~Lens \(deprecated\)~~ | [0x69F2b8D8846e3dcd94C09e4f3CBB8d2ba8D9423f](https://etherscan.io/address/0x69F2b8D8846e3dcd94C09e4f3CBB8d2ba8D9423f) |
 
+{% hint style="info" %}
+Searching for tokens on BSC? We put them [here](https://docs.cream.finance/v/binance-smart-chain/lending/lending-contract-address)
+{% endhint %}
+
