@@ -1,6 +1,6 @@
 # Audit Report
 
-### Trail of Bits \(March 10, 2021\)
+### Trail of Bits \(January 28, 2021\)
 
 Throughout this assessment, we \[Trail of Bits\] sought to answer various questions about the security of CREAM. We focused on flaws that would allow an attacker to:
 
