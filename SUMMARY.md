@@ -2,7 +2,7 @@
 
 * [C.R.E.A.M. Finance](README.md)
 * [About](about.md)
-* [Contract Address](smart-contract-address.md)
+* [Audit Report](audit-report.md)
 * [Flash Loans](flash-loans.md)
 * [Press Kit](press-kit.md)
 
@@ -49,5 +49,6 @@
 
 ---
 
+* [Contract Address](smart-contract-address.md)
 * [Give Feedback](https://forum.cream.finance/c/site-feedback)
 
