@@ -63,7 +63,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | sUSD | 0% | 20% |
 | PICKLE | 45% | 40% |
 | AKRO | 0% | 40% |
-| bBADGER | 0% | 40% |
+| bBADGER | 60% | 40% |
 | OGN | 45% | 40% |
 | AMP | 0% | 40% |
 | FRAX | 60% | 50% |
