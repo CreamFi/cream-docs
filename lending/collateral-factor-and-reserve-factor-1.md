@@ -8,9 +8,9 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 
 | Token | Collateral factor | Reserve factor |
 | :--- | :--- | :--- |
-| ETH | 75% | 10% |
+| ETH | 75% | 20% |
 | USDT | 70% | 20% |
-| USDC | 75% | 5% |
+| USDC | 75% | 10% |
 | YFI | 50% | 40% |
 | COMP | 50% | 40% |
 | BAL | 45% | 40% |
@@ -20,7 +20,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | ~~LEND~~ | ~~50%~~ | ~~40%~~ |
 | CRV | 45% | 40% |
 | renBTC | 65% | 30% |
-| BUSD | 75% | 5% |
+| BUSD | 75% | 10% |
 | MTA | 45% | 40% |
 | yyCRV | 75% | 20% |
 | SUSHI | 60% | 40% |
@@ -40,7 +40,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | HFIL | 0% | 40% |
 | CRETH2 | 45% | 40% |
 | HUSD | 0% | 20% |
-| DAI | 75% | 5% |
+| DAI | 75% | 15% |
 | HEGIC | 0% | 40% |
 | ESD | 60% | 50% |
 | COVER | 45% | 40% |
