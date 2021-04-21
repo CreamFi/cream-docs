@@ -13,7 +13,7 @@
 | cyWBTC | [0x8Fc8BFD80d6A9F17Fb98A373023d72531792B431](https://etherscan.io/address/0x8fc8bfd80d6a9f17fb98a373023d72531792b431) | Yes |
 | cyUSDT | [0x48759F220ED983dB51fA7A8C0D2AAb8f3ce4166a](https://etherscan.io/address/0x48759f220ed983db51fa7a8c0d2aab8f3ce4166a) | Yes |
 | cyUSDC | [0x76Eb2FE28b36B3ee97F3Adae0C69606eeDB2A37c](https://etherscan.io/address/0x76eb2fe28b36b3ee97f3adae0c69606eedb2a37c) | Yes |
-| cySUSD | [0x4e3a36A633f63aee0aB57b5054EC78867CB3C0b8](https://etherscan.io/address/0x4e3a36a633f63aee0ab57b5054ec78867cb3c0b8) | Yes |
+| cySUSD | [0xa7c4054AFD3DbBbF5bFe80f41862b89ea05c9806](https://etherscan.io/address/0xa7c4054afd3dbbbf5bfe80f41862b89ea05c9806) | Yes |
 | cyMUSD | [0xBE86e8918DFc7d3Cb10d295fc220F941A1470C5c](https://etherscan.io/address/0xbe86e8918dfc7d3cb10d295fc220f941a1470c5c) | Yes |
 | cyDUSD | [0x297d4Da727fbC629252845E96538FC46167e453A](https://etherscan.io/address/0x297d4da727fbc629252845e96538fc46167e453a) | Yes |
 | cyEURS | [0xA8caeA564811af0e92b1E044f3eDd18Fa9a73E4F](https://etherscan.io/address/0xa8caea564811af0e92b1e044f3edd18fa9a73e4f) | Yes |
