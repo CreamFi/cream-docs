@@ -33,8 +33,8 @@
 | renBTC | 0% | 40% |
 | renZEC | 0% | 40% |
 | BETH | 70% | 20% |
-| IOTX | 0% | 40% |
-| SXP | 0% | 40% |
+| IOTX | 40% | 40% |
+| SXP | 50% | 40% |
 | SUSHI | 65% | 40% |
 | CAKE-LP-CAKE-BNB | 50% | 40% |
 | CAKE-LP-BNB-BUSD | 75% | 40% |
