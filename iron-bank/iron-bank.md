@@ -24,6 +24,7 @@
 | cyCDAI | [0x4F12c9DABB5319A252463E6028CA833f1164d045](https://etherscan.io/address/0x4f12c9dabb5319a252463e6028ca833f1164d045) | No |
 | cyCUSDT | [0xBB4B067cc612494914A902217CB6078aB4728E36](https://etherscan.io/address/0xbb4b067cc612494914a902217cb6078ab4728e36) | No |
 | cyCUSDC | [0x950027632FbD6aDAdFe82644BfB64647642B6C09](https://etherscan.io/address/0x950027632fbd6adadfe82644bfb64647642b6c09) | No |
+| cyUSDP | [0xBdDEB563E90F6cBF168a7cDa4927806477e5B6c6](https://etherscan.io/address/0xbddeb563e90f6cbf168a7cda4927806477e5b6c6) | Yes |
 
 ### Protocol Address
 
