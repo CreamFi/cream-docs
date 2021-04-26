@@ -1,5 +1,7 @@
 ---
-description: Shout out to our community member Ivan for the hard work and contribution
+description: >-
+  Shout out to our community member Ivan Flores for the hard work and
+  contribution
 ---
 
 # crTokens
