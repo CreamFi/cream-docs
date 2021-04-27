@@ -48,7 +48,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
       <td style="text-align:left">Tokens</td>
       <td style="text-align:left">
         <p>USDT, USDC, BUSD, yCRV, yUSD, ETH, renBTC, FTT, yETH, BBTC, HBTC, HUSD,
-          DAI, tBTC, WBTC, sUSD, FRAX, BAC, UST</p>
+          DAI, WBTC, sUSD, FRAX, UST</p>
         <p>
           <br />UNI-V2-WBTC-ETH, UNI-V2-ETH-USDT, UNI-V2-DAI-ETH, UNI-V2-USDC-ETH</p>
         <p>yveCRV, yvsteCRV, yvCurve-IB</p>

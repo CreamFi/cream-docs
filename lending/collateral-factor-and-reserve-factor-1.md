@@ -45,7 +45,6 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | ESD | 60% | 50% |
 | COVER | 45% | 40% |
 | 1INCH | 45% | 40% |
-| tBTC | 0% | 40% |
 | OMG | 45% | 40% |
 | UNI-V2-WBTC-ETH | 75% | 40% |
 | UNI-V2-ETH-USDT | 70% | 40% |
@@ -67,7 +66,6 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | OGN | 45% | 40% |
 | AMP | 45% | 40% |
 | FRAX | 60% | 50% |
-| BAC | 0% | 50% |
 | ALPHA | 60% | 40% |
 | UST | 0% | 20% |
 | FTM | 0% | 40% |

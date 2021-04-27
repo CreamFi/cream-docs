@@ -41,7 +41,6 @@
 | crESD | [0x3C6C553A95910F9FC81c98784736bd628636D296](https://etherscan.io/address/0x3c6c553a95910f9fc81c98784736bd628636d296) | Yes |
 | crCOVER | [0x21011bc93d9e515b9511a817a1ed1d6d468f49fc](https://etherscan.io/address/0x21011bc93d9e515b9511a817a1ed1d6d468f49fc) | Yes |
 | cr1INCH | [0x85759961b116f1D36fD697855c57A6ae40793D9B](https://etherscan.io/address/0x85759961b116f1d36fd697855c57a6ae40793d9b) | Yes |
-| crTBTC | [0xF047d4bE569FB770dB143A6A90Ef203FC1295922](https://etherscan.io/address/0xf047d4be569fb770db143a6a90ef203fc1295922) | Yes |
 | crOMG | [0x7Aaa323D7e398be4128c7042d197a2545f0f1fea](https://etherscan.io/address/0x7aaa323d7e398be4128c7042d197a2545f0f1fea) | Yes |
 | crUNI-V2-WBTC-ETH | [0x011a014d5e8Eb4771E575bB1000318D509230Afa](https://etherscan.io/address/0x011a014d5e8eb4771e575bb1000318d509230afa) | No |
 | crUNI-V2-ETH-USDT | [0xE6C3120F38F56deb38B69b65cC7dcAF916373963](https://etherscan.io/address/0xe6c3120f38f56deb38b69b65cc7dcaf916373963) | No |
@@ -63,7 +62,6 @@
 | crOGN | [0x59089279987DD76fC65Bf94Cb40E186b96e03cB3](https://etherscan.io/address/0x59089279987dd76fc65bf94cb40e186b96e03cb3) | Yes |
 | crAMP | [0x2Db6c82CE72C8d7D770ba1b5F5Ed0b6E075066d6](https://etherscan.io/address/0x2db6c82ce72c8d7d770ba1b5f5ed0b6e075066d6) | Yes |
 | crFRAX | [0xb092b4601850E23903A42EaCBc9D8A0EeC26A4d5](https://etherscan.io/address/0xb092b4601850e23903a42eacbc9d8a0eec26a4d5) | Yes |
-| crBAC | [0x460ea730d204c822cE709f00A8E5959921715aDC](https://etherscan.io/address/0x460ea730d204c822ce709f00a8e5959921715adc) | Yes |
 | crALPHA | [0x1d0986Fb43985c88Ffa9aD959CC24e6a087C7e35](https://etherscan.io/address/0x1d0986fb43985c88ffa9ad959cc24e6a087c7e35) | Yes |
 | crUST | [0x51F48b638F82e8765F7a26373A2Cb4CcB10C07af](https://etherscan.io/address/0x51f48b638f82e8765f7a26373a2cb4ccb10c07af) | Yes |
 | crFTM | [0xc36080892c64821fa8e396bc1bD8678fA3b82b17](https://etherscan.io/address/0xc36080892c64821fa8e396bc1bd8678fa3b82b17) | Yes |
