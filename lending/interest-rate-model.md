@@ -116,7 +116,11 @@ Find other variables in [Markets](https://app.cream.finance/markets)
         <p>SLP-USDC-ETH,</p>
         <p>SLP-ETH-USDT,</p>
         <p>SLP-SUSHI-ETH,</p>
-        <p>SLP-YFI-ETH</p>
+        <p>SLP-YFI-ETH,</p>
+        <p></p>
+        <p>yvCurve-IB</p>
+        <p>yvCurve-sETH</p>
+        <p>yvCurve-stETH</p>
       </td>
     </tr>
     <tr>

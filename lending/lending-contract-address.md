@@ -74,6 +74,9 @@
 | crYVCurve-IB | [0xf7c5314806bb349744Cf5E721F4d3395259B8531](https://etherscan.io/address/0xf7c5314806bb349744cf5e721f4d3395259b8531) | No |
 | crRARI | [0x081FE64df6dc6fc70043aedF3713a3ce6F190a21](https://etherscan.io/address/0x081fe64df6dc6fc70043aedf3713a3ce6f190a21) | Yes |
 | crSFI | [0x28526Bb33d7230E65E735dB64296413731C5402e](https://etherscan.io/address/0x28526bb33d7230e65e735db64296413731c5402e) | Yes |
+| crYVCurve-IB | [0x45406ba53bB84Cd32A58e7098a2D4D1b11B107F6](https://etherscan.io/address/0x45406ba53bb84cd32a58e7098a2d4d1b11b107f6) | No |
+| crYVCurve-sETH | [0x6d1B9e01aF17Dd08d6DEc08E210dfD5984FF1C20](https://etherscan.io/address/0x6d1b9e01af17dd08d6dec08e210dfd5984ff1c20) | No |
+| crYVCurve-stETH | [0x1F9b4756B008106C806c7E64322d7eD3B72cB284](https://etherscan.io/address/0x1f9b4756b008106c806c7e64322d7ed3b72cb284) | No |
 
 ### Protocol Address
 
