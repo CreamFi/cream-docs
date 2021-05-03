@@ -32,20 +32,6 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 ![](https://i.imgur.com/5aoSePr.png)
 
-| Parameter | Value |
-| :--- | :--- |
-| Category | Stable & Major |
-| Tokens | BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC, renBTC, BETH, WBNB |
-| Base | 2% |
-| Multiplier | 25% |
-| JumpMultiplier | 500% |
-| Kink | 80% |
-| Contract Address | [0x4e4c96b038899e2f2597ef693b8278cfeb63e7db](https://bscscan.com/address/0x4e4c96b038899e2f2597ef693b8278cfeb63e7db) |
-
-## Governance + Seed
-
-![](https://i.imgur.com/Fg4vOj7.png)
-
 <table>
   <thead>
     <tr>
@@ -56,19 +42,19 @@ Find other variables in [Markets](https://app.cream.finance/markets)
   <tbody>
     <tr>
       <td style="text-align:left">Category</td>
-      <td style="text-align:left">Governance &amp; Seeds</td>
+      <td style="text-align:left">Stable &amp; Major</td>
     </tr>
     <tr>
       <td style="text-align:left">Tokens</td>
       <td style="text-align:left">
-        <p>LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI,
-          AUTO, renZEC, IOTX, SXP, SUSHI</p>
+        <p>BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC, renBTC,
+          BETH, WBNB</p>
         <p></p>
-        <p>CAKE-LP-CAKE-BNB</p>
-        <p>CAKE-LP-BNB-BUSD</p>
-        <p>CAKE-LP-BTCB-BNB</p>
-        <p>CAKE-LP-ETH-BNB</p>
-        <p>CAKE-LP-USDT-BUSD</p>
+        <p>CAKE-LP-CAKE-BNB v2</p>
+        <p>CAKE-LP-BNB-BUSD v2</p>
+        <p>CAKE-LP-BTCB-BNB v2</p>
+        <p>CAKE-LP-ETH-BNB v2</p>
+        <p>CAKE-LP-USDT-BUSD v2</p>
       </td>
     </tr>
     <tr>
@@ -77,11 +63,11 @@ Find other variables in [Markets](https://app.cream.finance/markets)
     </tr>
     <tr>
       <td style="text-align:left">Multiplier</td>
-      <td style="text-align:left">35%</td>
+      <td style="text-align:left">25%</td>
     </tr>
     <tr>
       <td style="text-align:left">JumpMultiplier</td>
-      <td style="text-align:left">750%</td>
+      <td style="text-align:left">500%</td>
     </tr>
     <tr>
       <td style="text-align:left">Kink</td>
@@ -89,9 +75,23 @@ Find other variables in [Markets](https://app.cream.finance/markets)
     </tr>
     <tr>
       <td style="text-align:left">Contract Address</td>
-      <td style="text-align:left"><a href="https://bscscan.com/address/0x66d801f9bf3F3225251318565352d49E348aEB6d">0x66d801f9bf3F3225251318565352d49E348aEB6d</a>
+      <td style="text-align:left"><a href="https://bscscan.com/address/0x4e4c96b038899e2f2597ef693b8278cfeb63e7db">0x4e4c96b038899e2f2597ef693b8278cfeb63e7db</a>
       </td>
     </tr>
   </tbody>
 </table>
+
+## Governance + Seed
+
+![](https://i.imgur.com/Fg4vOj7.png)
+
+| Parameter | Value |
+| :--- | :--- |
+| Category | Governance & Seeds |
+| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renZEC, IOTX, SXP, SUSHI |
+| Base | 2% |
+| Multiplier | 35% |
+| JumpMultiplier | 750% |
+| Kink | 80% |
+| Contract Address | [0x66d801f9bf3F3225251318565352d49E348aEB6d](https://bscscan.com/address/0x66d801f9bf3F3225251318565352d49E348aEB6d) |
 
