@@ -51,7 +51,8 @@ Find other variables in [Markets](https://app.cream.finance/markets)
           DAI, WBTC, sUSD, FRAX, UST</p>
         <p>
           <br />UNI-V2-WBTC-ETH, UNI-V2-ETH-USDT, UNI-V2-DAI-ETH, UNI-V2-USDC-ETH</p>
-        <p>yveCRV, yvsteCRV, yvCurve-IB</p>
+        <p>
+          <br />yvCurve-IB, yvCurve-sETH, yvCurve-stETH</p>
       </td>
     </tr>
     <tr>
@@ -117,10 +118,6 @@ Find other variables in [Markets](https://app.cream.finance/markets)
         <p>SLP-ETH-USDT,</p>
         <p>SLP-SUSHI-ETH,</p>
         <p>SLP-YFI-ETH,</p>
-        <p></p>
-        <p>yvCurve-IB</p>
-        <p>yvCurve-sETH</p>
-        <p>yvCurve-stETH</p>
       </td>
     </tr>
     <tr>
