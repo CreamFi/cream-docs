@@ -36,10 +36,15 @@
 | IOTX | 40% | 40% |
 | SXP | 50% | 40% |
 | SUSHI | 65% | 40% |
-| CAKE-LP-CAKE-BNB | 50% | 40% |
-| CAKE-LP-BNB-BUSD | 75% | 40% |
-| CAKE-LP-BTCB-BNB | 75% | 40% |
-| CAKE-LP-ETH-BNB | 75% | 40% |
-| CAKE-LP-USDT-BUSD | 75% | 40% |
+| CAKE-LP-CAKE-BNB v1 | 50% | 40% |
+| CAKE-LP-BNB-BUSD v1 | 75% | 40% |
+| CAKE-LP-BTCB-BNB v1 | 75% | 40% |
+| CAKE-LP-ETH-BNB v1 | 75% | 40% |
+| CAKE-LP-USDT-BUSD v1 | 75% | 40% |
 | WBNB | 75% | 15% |
+| CAKE-LP-CAKE-BNB v2 | 50% | 40% |
+| CAKE-LP-BUSD-BNB v2 | 75% | 40% |
+| CAKE-LP-BTCB-BNB v2 | 75% | 40% |
+| CAKE-LP-ETH-BNB v2 | 75% | 40% |
+| CAKE-LP-USDT-BUSD v2 | 75% | 40% |
 
