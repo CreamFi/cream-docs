@@ -29,6 +29,8 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | cUSDT | 90% | 10% |
 | cUSDC | 90% | 10% |
 | USDP | 0% | 10% |
+| UNI | 0% | 20% |
+| SUSHI | 0% | 20% |
 
 
 

@@ -62,7 +62,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 | Parameter | Value |
 | :--- | :--- |
-| Tokens | LINK, YFI, SNX, DPI |
+| Tokens | LINK, YFI, SNX, DPI, UNI, SUSHI |
 | Base | 0% |
 | Multiplier | 10% |
 | JumpMultiplier | 450% |
