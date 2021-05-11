@@ -8,7 +8,7 @@ We have Chainlink as our main price oracle
 
 For the following tokens, we use price feed provided by Chainlink:
 
-WETH / BTC / DAI / LINK / YFI / SNX / DPI / USDT / USDC / UNI / SUSHI
+WETH / BTC / DAI / LINK / YFI / SNX / DPI / USDT / USDC / UNI / SUSHI / BUSD / sUSD
 
 For the following BTC-pegged token, we use BTC price instead:
 
@@ -33,6 +33,7 @@ For the other tokens, we use our own price oracle to get the price.
 
 | Contract | Address |
 | :--- | :--- |
-| PriceOracleProxy | [0x6B96c414ce762578c3E7930da9114CffC88704Cb](https://etherscan.io/address/0x6b96c414ce762578c3e7930da9114cffc88704cb) |
+| PriceOracleProxy | [0xde19f5a7cF029275Be9cEC538E81Aa298E297266](https://etherscan.io/address/0xde19f5a7cF029275Be9cEC538E81Aa298E297266) |
+| ~~PriceOracleProxy~~ | [0x6B96c414ce762578c3E7930da9114CffC88704Cb](https://etherscan.io/address/0x6b96c414ce762578c3e7930da9114cffc88704cb) |
 | V1PriceOracle | [0x3aBce8F1DB258fBc64827b0926e14A0F90525CF7](https://etherscan.io/address/0x3abce8f1db258fbc64827b0926e14a0f90525cf7) |
 
