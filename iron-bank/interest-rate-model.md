@@ -68,5 +68,5 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | JumpMultiplier | 900% |
 | Kink 1 | 80% |
 | Kink 2 | 90% |
-| Contract Address | [0xaaeDaFC0a2550c8D25A881904b85d91931bA6992](https://etherscan.io/address/0xaaedafc0a2550c8d25a881904b85d91931ba6992) |
+| Contract Address | [0xD369E8eaa0d2665Dfea6eb51fF2ADFca4EAA7891](https://etherscan.io/address/0xD369E8eaa0d2665Dfea6eb51fF2ADFca4EAA7891) |
 
