@@ -4,7 +4,7 @@
 
 **Borrow APY**
 
-= \[1 + Base + Multiplier \* min\(UtilizationRate, Kink\) + max\(JumpMultiplier \* UtilizationRate - Kink, 0\)\] ^ 2102400 - 1
+= \[1 + Base + Multiplier \* min\(UtilizationRate, Kink1\) + max\(JumpMultiplier \* UtilizationRate - Kink2, 0\)\] ^ 2102400 - 1
 
 
 
@@ -58,14 +58,15 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 ### Governance
 
-![](../.gitbook/assets/jie-tu-20210323-19.11.44.png)
+![](../.gitbook/assets/jie-tu-20210512-15.42.10.png)
 
 | Parameter | Value |
 | :--- | :--- |
 | Tokens | LINK, YFI, SNX, DPI, UNI, SUSHI |
 | Base | 0% |
-| Multiplier | 10% |
-| JumpMultiplier | 450% |
-| Kink | 45% |
+| Multiplier | 27% |
+| JumpMultiplier | 900% |
+| Kink 1 | 80% |
+| Kink 2 | 90% |
 | Contract Address | [0xaaeDaFC0a2550c8D25A881904b85d91931bA6992](https://etherscan.io/address/0xaaedafc0a2550c8d25a881904b85d91931ba6992) |
 
