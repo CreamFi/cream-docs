@@ -48,13 +48,27 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 | Parameter | Value |
 | :--- | :--- |
-| Tokens | y3Crv, DAI, USDT, USDC, sUSD, mUSD, DUSD, EURS, sEUR, BUSD, GUSD, cDAI, cUSDT, cUSDC, USDP |
+| Tokens | y3Crv, DAI, USDC, sUSD, mUSD, DUSD, EURS, sEUR, BUSD, GUSD, cDAI, cUSDT, cUSDC, USDP |
 | Base | 0% |
 | Multiplier | 13% |
 | JumpMultiplier | 800% |
 | Kink 1 | 80% |
 | Kink 2 | 90% |
 | Contract Address | [0xd6C04cF463A52A9C929D434F9F84ee70c1c0Ac6F](https://etherscan.io/address/0xd6C04cF463A52A9C929D434F9F84ee70c1c0Ac6F#code) |
+
+### USDT
+
+![](../.gitbook/assets/jie-tu-20210514-16.10.09.png)
+
+| ter | Value |
+| :--- | :--- |
+| Tokens | USDT |
+| Base | 0% |
+| Multiplier | 24% |
+| JumpMultiplier | 900% |
+| Kink 1 | 80% |
+| Kink 2 | 90% |
+| Contract Address | [0x1B0c2586Df3daAd42aC2FDCaA0f6B91623747556](https://etherscan.io/address/0x1B0c2586Df3daAd42aC2FDCaA0f6B91623747556) |
 
 ### Governance
 
