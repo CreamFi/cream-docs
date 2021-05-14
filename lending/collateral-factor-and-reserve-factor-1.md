@@ -83,6 +83,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | yvCurve-stETH | 0% | 40% |
 | ARMOR | 0% | 40% |
 | arNXM | 0% | 40% |
+| MLN | 0% | 40% |
 
 {% hint style="info" %}
 Searching for tokens on BSC? We put them [here](https://docs.cream.finance/v/binance-smart-chain/lending/collateral-factor-and-reserve-factor)
