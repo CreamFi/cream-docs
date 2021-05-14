@@ -77,6 +77,8 @@
 | crYVCurve-IB | [0x45406ba53bB84Cd32A58e7098a2D4D1b11B107F6](https://etherscan.io/address/0x45406ba53bb84cd32a58e7098a2d4d1b11b107f6) | No |
 | crYVCurve-sETH | [0x6d1B9e01aF17Dd08d6DEc08E210dfD5984FF1C20](https://etherscan.io/address/0x6d1b9e01af17dd08d6dec08e210dfd5984ff1c20) | No |
 | crYVCurve-stETH | [0x1F9b4756B008106C806c7E64322d7eD3B72cB284](https://etherscan.io/address/0x1f9b4756b008106c806c7e64322d7ed3b72cb284) | No |
+| crARMOR | [0xab10586C918612BA440482db77549d26B7ABF8f7](https://etherscan.io/address/0xab10586C918612BA440482db77549d26B7ABF8f7) | Yes |
+| crARNXM | [0xdFFf11DFe6436e42a17B86e7F419Ac8292990393](https://etherscan.io/address/0xdFFf11DFe6436e42a17B86e7F419Ac8292990393) | Yes |
 
 ### Protocol Address
 
