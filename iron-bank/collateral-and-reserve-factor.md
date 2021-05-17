@@ -11,26 +11,26 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | WETH | 85% | 15% |
 | DAI | 90% | 10% |
 | y3CRV | 90% | 10% |
-| LINK | 0% | 20% |
-| YFI | 0% | 20% |
-| SNX | 0% | 20% |
+| LINK | 70% | 20% |
+| YFI | 60% | 20% |
+| SNX | 50% | 20% |
 | WBTC | 80% | 15% |
 | USDT | 90% | 10% |
 | USDC | 90% | 10% |
-| sUSD | 0% | 10% |
+| sUSD | 50% | 10% |
 | mUSD | 90% | 10% |
 | DUSD | 90% | 10% |
 | EURS | 0% | 10% |
 | sEUR | 90% | 10% |
-| DPI | 0% | 20% |
-| BUSD | 0% | 10% |
-| GUSD | 0% | 10% |
+| DPI | 55% | 20% |
+| BUSD | 75% | 10% |
+| GUSD | 75% | 10% |
 | cDAI | 90% | 10% |
 | cUSDT | 90% | 10% |
 | cUSDC | 90% | 10% |
 | USDP | 0% | 10% |
-| UNI | 0% | 20% |
-| SUSHI | 0% | 20% |
+| UNI | 70% | 20% |
+| SUSHI | 70% | 20% |
 
 
 
