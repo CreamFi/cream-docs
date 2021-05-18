@@ -80,6 +80,8 @@
 | crARMOR | [0xab10586C918612BA440482db77549d26B7ABF8f7](https://etherscan.io/address/0xab10586C918612BA440482db77549d26B7ABF8f7) | Yes |
 | crARNXM | [0xdFFf11DFe6436e42a17B86e7F419Ac8292990393](https://etherscan.io/address/0xdFFf11DFe6436e42a17B86e7F419Ac8292990393) | Yes |
 | crMLN | [0xDbb5e3081dEf4b6cdD8864aC2aeDA4cBf778feCf](https://etherscan.io/address/0xDbb5e3081dEf4b6cdD8864aC2aeDA4cBf778feCf) | Yes |
+| crVSP | [0x71cEFCd324B732d4E058AfAcBA040d908c441847](https://etherscan.io/address/0x71cEFCd324B732d4E058AfAcBA040d908c441847) | Yes |
+| crVVSP | [0x1A122348B73B58eA39F822A89e6ec67950c2bBD0](https://etherscan.io/address/0x1A122348B73B58eA39F822A89e6ec67950c2bBD0) | Yes |
 
 ### Protocol Address
 
