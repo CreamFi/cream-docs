@@ -86,6 +86,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | MLN | 0% | 40% |
 | VSP | 0% | 40% |
 | VVSP | 0% | 40% |
+| GNO | 0% | 40% |
 
 {% hint style="info" %}
 Searching for tokens on BSC? We put them [here](https://docs.cream.finance/v/binance-smart-chain/lending/collateral-factor-and-reserve-factor)
