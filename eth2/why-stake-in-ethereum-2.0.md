@@ -14,7 +14,7 @@ In short:
 
 That's the best part. To get reward, you don't have to do anything except staking!
 
-> ## [Go to stake now!](https://app.cream.finance/eth2/)
+> ## [Go to stake now!](https://classic.cream.finance/eth2/)
 
 Just like Miners benefit from their contribution to Ethereum, Validators also benefit from their contribution to Ethereum 2.0. Once you stake ETH and get CRETH2 back, you become one of the Validators of ETH2 migration. Validators get rewarded for proposing and attesting to blocks. The rewards are tied to the overall amount of ETH staked in the network. More details and reward formula can be found in the [Launchpad](https://launchpad.ethereum.org/).
 
