@@ -33,7 +33,7 @@ See [source code](https://github.com/CreamFi/compound-protocol/blob/master/contr
 
 For the following tokens, we fetch price from contracts directly:
 
-yUSD / yETH / yCRV / xSushi / bBadger / yvCurve-IB / yvCurve-sETH / yvCurve-stETH / VVSP / yvWETH
+yUSD \(v1\) / yETH / yCRV / xSushi / bBadger / yvCurve-IB / yvCurve-sETH / yvCurve-stETH / VVSP / yvWETH \(v2\) / yUSD \(v2\)
 
 ### C.R.E.A.M. Finance
 
