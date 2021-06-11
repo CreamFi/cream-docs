@@ -73,7 +73,9 @@ Find other variables in [Markets](https://app.cream.finance/markets)
     </tr>
     <tr>
       <td style="text-align:left">Contract Address</td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0x014872728e7D8b1c6781f96ecFbd262Ea4D2e1A6">0x014872728e7D8b1c6781f96ecFbd262Ea4D2e1A6</a>
+      <td style="text-align:left"><a href="https://etherscan.io/address/0x014872728e7D8b1c6781f96ecFbd262Ea4D2e1A6">0x014872728e7D8b1c6781f96ecFbd262Ea4D2e1A6</a>,
+        <a
+        href="https://etherscan.io/address/0xc15A2B4BC7cA71808f557906cB328aBFde42b17e">0xc15A2B4BC7cA71808f557906cB328aBFde42b17e</a>
       </td>
     </tr>
   </tbody>
@@ -91,7 +93,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | Multiplier | 35% |
 | JumpMultiplier | 750% |
 | Kink | 80% |
-| Contract Address | [0xd34137FC9F6754bcDFCe907d06F4D10E897B3eB5](https://etherscan.io/address/0xd34137FC9F6754bcDFCe907d06F4D10E897B3eB5) |
+| Contract Address | [0xd34137FC9F6754bcDFCe907d06F4D10E897B3eB5](https://etherscan.io/address/0xd34137FC9F6754bcDFCe907d06F4D10E897B3eB5), [0xbD95e9e1Fd1cC5012A1162af9a034aCE03179905](https://etherscan.io/address/0xbD95e9e1Fd1cC5012A1162af9a034aCE03179905) |
 
 ## SushiSwap Liquidity Provider token \(SLP\)
 
