@@ -29,7 +29,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | SRM | 50% | 40% |
 | UNI | 65% | 40% |
 | wNXM | 50% | 40% |
-| SWAG | 45% | 50% |
+| SWAG | 0% | 50% |
 | CEL | 0% | 40% |
 | DPI | 45% | 40% |
 | BBTC | 0% | 30% |
