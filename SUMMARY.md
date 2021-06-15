@@ -3,7 +3,6 @@
 * [C.R.E.A.M. Finance](README.md)
 * [Contract Address](smart-contract-address.md)
 * [Audit Report](audit-report.md)
-* [Flash Loans](flash-loans.md)
 * [About](about.md)
 * [Press Kit](press-kit.md)
 
@@ -13,6 +12,7 @@
 * [Collateral Factor & Reserve Factor](lending/collateral-factor-and-reserve-factor-1.md)
 * [Interest Rate Model](lending/interest-rate-model.md)
 * [Price Oracle](lending/price-oracle.md)
+* [Listing Committee](lending/listing-committee.md)
 
 ## Iron Bank
 
@@ -21,6 +21,10 @@
 * [Interest Rate Model](iron-bank/interest-rate-model.md)
 * [Price Oracle](iron-bank/price-oracle.md)
 * [FAQ](iron-bank/faq.md)
+
+## Flash Loans <a id="flash-loans-1"></a>
+
+* [Flash Loans](flash-loans-1/flash-loans.md)
 
 ## Developer
 
