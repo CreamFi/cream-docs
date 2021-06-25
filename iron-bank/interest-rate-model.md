@@ -48,7 +48,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 | Parameter | Value |
 | :--- | :--- |
-| Tokens | y3Crv, sUSD, mUSD, DUSD, EURS, sEUR, BUSD, GUSD, cDAI, cUSDT, cUSDC, USDP |
+| Tokens | y3Crv, sUSD, mUSD, DUSD, EURS, sEUR, BUSD, GUSD, cDAI, cUSDT, cUSDC, USDP, FRAX |
 | Base | 0% |
 | Multiplier | 13% |
 | JumpMultiplier | 800% |

@@ -8,7 +8,7 @@ We have Chainlink as our main price oracle
 
 For the following tokens, we use price feed provided by Chainlink:
 
-WETH / BTC / DAI / LINK / YFI / SNX / DPI / USDT / USDC / UNI / SUSHI / BUSD / sUSD
+WETH / BTC / DAI / LINK / YFI / SNX / DPI / USDT / USDC / UNI / SUSHI / BUSD / sUSD / FRAX
 
 For the following BTC-pegged token, we use BTC price instead:
 
