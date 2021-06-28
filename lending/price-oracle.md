@@ -12,7 +12,7 @@ We have Chainlink as our main price oracle
 
 For the following tokens, we use price feed provided by Chainlink:
 
-ETH / BTC / USDT / USDC / YFI / COMP / BAL / LINK / CRV / BUSD / UNI / wNXM / AAVE / DAI / 1INCH / CEL / COVER / FTT / HEGIC / KP3R / MTA / OMG / SRM / SNX / sUSD / SUSHI / CREAM / DPI / UST / FTM / RUNE / PERP / OCEAN / RAI / RARI / HUSD / AKRO / AMP / SFI / MLN / VSP / GNO / SWAP / FEI
+ETH / BTC / USDT / USDC / YFI / COMP / BAL / LINK / CRV / BUSD / UNI / wNXM / AAVE / DAI / 1INCH / CEL / COVER / FTT / HEGIC / KP3R / MTA / OMG / SRM / SNX / sUSD / SUSHI / CREAM / DPI / UST / FTM / RUNE / PERP / OCEAN / RAI / RARI / HUSD / AKRO / AMP / SFI / MLN / VSP / GNO / SWAP / FEI / WOO
 
 For the following BTC-pegged tokens, we use BTC price instead:
 
