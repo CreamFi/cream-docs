@@ -58,14 +58,14 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 ### 3 Stables
 
-![](../.gitbook/assets/jie-tu-20210519-18.20.32.png)
+![](../.gitbook/assets/jie-tu-20210630-xia-wu-12.16.12.png)
 
 | Parameter | Value |
 | :--- | :--- |
 | Tokens | DAI, USDC, USDT |
 | Base | 0% |
-| Multiplier | 15% |
-| JumpMultiplier | 900% |
+| Multiplier | 13% |
+| JumpMultiplier | 800% |
 | Kink 1 | 80% |
 | Kink 2 | 90% |
 | Contract Address | [0x1B0c2586Df3daAd42aC2FDCaA0f6B91623747556](https://etherscan.io/address/0x1B0c2586Df3daAd42aC2FDCaA0f6B91623747556) |
