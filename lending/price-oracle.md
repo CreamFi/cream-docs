@@ -1,13 +1,19 @@
+---
+description: How C.R.E.A.M. Finance get token price
+---
+
 # Price Oracle
 
 {% hint style="info" %}
-Currently we use Band Protocol and our main Price Oracle on BSC, except VAI
+All markets are covered by Chainlink
 {% endhint %}
+
+### Price Oracle Address
 
 | Contract | Address |
 | :--- | :--- |
-| PriceOracleProxy | [0xA7AE01e2D0e391eF1E800Dd4E0712d36228a1c7d](https://bscscan.com/address/0xA7AE01e2D0e391eF1E800Dd4E0712d36228a1c7d) |
-| v1PriceOracle | [0x541876d6e61a200efd99711c5fda1f7a50d14847](https://bscscan.com/address/0x541876d6e61a200efd99711c5fda1f7a50d14847)  |
+| v1PriceOracle | [0x0a4AcCD9D150AD4DDC7eA2e6151243CE668Bf2f5](https://polygonscan.com/address/0x0a4AcCD9D150AD4DDC7eA2e6151243CE668Bf2f5) |
+| PriceOracleProxyUSD | [0x812C0b2a2A0A74f6f6ed620Fbd2B67Fec7DB2190](https://polygonscan.com/address/0x812C0b2a2A0A74f6f6ed620Fbd2B67Fec7DB2190) |
 
 
 

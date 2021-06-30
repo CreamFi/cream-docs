@@ -4,9 +4,7 @@
 
 **Borrow APY**
 
-= \[1 + Base + Multiplier \* min\(UtilizationRate, Kink\) + max\(JumpMultiplier \* UtilizationRate - Kink, 0\)\] ^ 10512000 - 1
-
-
+= \[1 + Base + Multiplier \* min\(UtilizationRate, Kink\) + max\(JumpMultiplier \* UtilizationRate - Kink, 0\)\] ^ 2102400 - 1
 
 **Supply APY**
 
@@ -16,93 +14,60 @@
 
 = {\[\(1 + Borrow APY\) ^ \(1 / BlocksPerYear\) - 1\] \* Total Borrow \* \(1 - Reserve Factor\) / Total Supply}, and convert it into APY
 
-= {1 + \[\(1 + Borrow APY\) ^ \(1/BlocksPerYear\) - 1\] \* Total Borrow \* \(1 - Reserve Factor\) / Total Supply} ^ BlocksPerYear - 1
+= {1 + \[\(1 + Borrow APY\) ^ \(1 / BlocksPerYear\) - 1\] \* Total Borrow \* \(1 - Reserve Factor\) / Total Supply} ^ BlocksPerYear - 1
 
 = **{1+\[\(1+Borrow APY\)^\(1/BlocksPerYear\)-1\]\*\(1-Reserve Factor\)\*Utilization Rate}^BlocksPerYear-1**
 
 {% hint style="info" %}
-BlocksPerYear = 10,512,000 \(3 sec per block\)
+BlocksPerYear = 15,768,000 \(2 sec per block\)
 {% endhint %}
 
 {% hint style="info" %}
 Find other variables in [Markets](https://app.cream.finance/markets)
 {% endhint %}
 
-## Stable + Major
+## Major
 
-![](https://i.imgur.com/5aoSePr.png)
+![](../.gitbook/assets/jie-tu-20210629-xia-wu-6.51.43.png)
 
 | Parameter | Value |
 | :--- | :--- |
-| Category | Stable & Major |
-| Tokens | BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC, renBTC, BETH, WBNB |
-| Base | 2% |
-| Multiplier | 25% |
+| Category | Major |
+| Tokens | MATIC, WETH, WBTC |
+| Base | 0% |
+| Multiplier | 15% |
 | JumpMultiplier | 500% |
-| Kink | 80% |
-| Contract Address | [0x4e4c96b038899e2f2597ef693b8278cfeb63e7db](https://bscscan.com/address/0x4e4c96b038899e2f2597ef693b8278cfeb63e7db) |
+| Kink 1 | 80% |
+| Kink 2 | 90% |
+| Contract Address | [0xB1FD648D8CA4bE22445963554b85AbbFC210BC83](https://polygonscan.com/address/0xB1FD648D8CA4bE22445963554b85AbbFC210BC83) |
 
-## Governance + Seed
+## Stable
 
-![](https://i.imgur.com/Fg4vOj7.png)
+![](../.gitbook/assets/jie-tu-20210629-xia-wu-6.36.02.png)
 
 | Parameter | Value |
 | :--- | :--- |
-| Category | Governance & Seeds |
-| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renZEC, IOTX, SXP, SUSHI |
-| Base | 2% |
-| Multiplier | 35% |
-| JumpMultiplier | 750% |
-| Kink | 80% |
-| Contract Address | [0x66d801f9bf3F3225251318565352d49E348aEB6d](https://bscscan.com/address/0x66d801f9bf3F3225251318565352d49E348aEB6d) |
+| Category | Stable |
+| Tokens | USDT, USDC, DAI |
+| Base | 0% |
+| Multiplier | 23% |
+| JumpMultiplier | 800% |
+| Kink 1 | 80% |
+| Kink 2 | 90% |
+| Contract Address | [0x379555965fcdbA7A40e8B5b5eF4786f51ADeeF31](https://polygonscan.com/address/0x379555965fcdbA7A40e8B5b5eF4786f51ADeeF31) |
 
-## Cake Liquidity Provider token \(CakeLP\)
+## Governance
 
-![](../.gitbook/assets/jie-tu-20210602-10.27.10.png)
+![](../.gitbook/assets/jie-tu-20210629-xia-wu-6.52.39.png)
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Parameter</th>
-      <th style="text-align:left">Value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Category</td>
-      <td style="text-align:left">CakeLP</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Tokens</td>
-      <td style="text-align:left">
-        <p>CAKE-LP-CAKE-BNB v2</p>
-        <p>CAKE-LP-BNB-BUSD v2</p>
-        <p>CAKE-LP-BTCB-BNB v2</p>
-        <p>CAKE-LP-ETH-BNB v2</p>
-        <p>CAKE-LP-USDT-BUSD v2</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Base</td>
-      <td style="text-align:left">10%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Multiplier</td>
-      <td style="text-align:left">55%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">JumpMultiplier</td>
-      <td style="text-align:left">180%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Kink</td>
-      <td style="text-align:left">50%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Contract Address</td>
-      <td style="text-align:left"><a href="https://bscscan.com/address/0x0A4F9Ab20A56DD4624266c610B5F960Bd72C5710">0x0A4F9Ab20A56DD4624266c610B5F960Bd72C5710</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Parameter | Value |
+| :--- | :--- |
+| Category | Governance |
+| Tokens | LINK, SUSHI |
+| Base | 0% |
+| Multiplier | 20% |
+| JumpMultiplier | 500% |
+| Kink 1 | 70% |
+| Kink 2 | 80% |
+| Contract Address | [0x06288754f31d100039b21e62a429e4B81E56B626](https://polygonscan.com/address/0x06288754f31d100039b21e62a429e4B81E56B626) |
 
