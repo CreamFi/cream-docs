@@ -32,29 +32,99 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 ![](https://i.imgur.com/5aoSePr.png)
 
-| Parameter | Value |
-| :--- | :--- |
-| Category | Stable & Major |
-| Tokens | BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC, renBTC, BETH, WBNB |
-| Base | 2% |
-| Multiplier | 25% |
-| JumpMultiplier | 500% |
-| Kink | 80% |
-| Contract Address | [0x4e4c96b038899e2f2597ef693b8278cfeb63e7db](https://bscscan.com/address/0x4e4c96b038899e2f2597ef693b8278cfeb63e7db) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Parameter</th>
+      <th style="text-align:left">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Category</td>
+      <td style="text-align:left">Stable &amp; Major</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Tokens</td>
+      <td style="text-align:left">BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC, renBTC,
+        BETH, WBNB</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Base</td>
+      <td style="text-align:left">2%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Multiplier</td>
+      <td style="text-align:left">25%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">JumpMultiplier</td>
+      <td style="text-align:left">500%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Kink</td>
+      <td style="text-align:left">80%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Contract Address</td>
+      <td style="text-align:left">
+        <p><a href="https://bscscan.com/address/0x4e4c96b038899e2f2597ef693b8278cfeb63e7db">0x4e4c96b038899e2f2597ef693b8278cfeb63e7db</a>
+        </p>
+        <p><a href="https://www.bscscan.com/address/0x681AB0F8a860fE234025b0205Eb69889aff32b75">0x681AB0F8a860fE234025b0205Eb69889aff32b75</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Governance + Seed
 
 ![](https://i.imgur.com/Fg4vOj7.png)
 
-| Parameter | Value |
-| :--- | :--- |
-| Category | Governance & Seeds |
-| Tokens | LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renZEC, IOTX, SXP, SUSHI |
-| Base | 2% |
-| Multiplier | 35% |
-| JumpMultiplier | 750% |
-| Kink | 80% |
-| Contract Address | [0x66d801f9bf3F3225251318565352d49E348aEB6d](https://bscscan.com/address/0x66d801f9bf3F3225251318565352d49E348aEB6d) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Parameter</th>
+      <th style="text-align:left">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Category</td>
+      <td style="text-align:left">Governance &amp; Seeds</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Tokens</td>
+      <td style="text-align:left">LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI,
+        AUTO, renZEC, IOTX, SXP, SUSHI</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Base</td>
+      <td style="text-align:left">2%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Multiplier</td>
+      <td style="text-align:left">35%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">JumpMultiplier</td>
+      <td style="text-align:left">750%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Kink</td>
+      <td style="text-align:left">80%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Contract Address</td>
+      <td style="text-align:left">
+        <p><a href="https://bscscan.com/address/0x66d801f9bf3F3225251318565352d49E348aEB6d">0x66d801f9bf3F3225251318565352d49E348aEB6d</a>
+        </p>
+        <p><a href="https://www.bscscan.com/address/0x410EcEc0229bEb4b66C98b217065767277a5d0B0">0x410EcEc0229bEb4b66C98b217065767277a5d0B0</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Cake Liquidity Provider token \(CakeLP\)
 
