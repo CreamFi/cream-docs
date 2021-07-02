@@ -46,15 +46,50 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 ![](../.gitbook/assets/jie-tu-20210401-17.44.05.png)
 
-| Parameter | Value |
-| :--- | :--- |
-| Tokens | y3Crv, sUSD, mUSD, DUSD, EURS, sEUR, BUSD, GUSD, cDAI, cUSDT, cUSDC, USDP, FRAX |
-| Base | 0% |
-| Multiplier | 13% |
-| JumpMultiplier | 800% |
-| Kink 1 | 80% |
-| Kink 2 | 90% |
-| Contract Address | [0xd6C04cF463A52A9C929D434F9F84ee70c1c0Ac6F](https://etherscan.io/address/0xd6C04cF463A52A9C929D434F9F84ee70c1c0Ac6F#code) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Parameter</th>
+      <th style="text-align:left">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Tokens</td>
+      <td style="text-align:left">y3Crv, sUSD, mUSD, DUSD, EURS, sEUR, BUSD, GUSD, cDAI, cUSDT, cUSDC, USDP,
+        FRAX</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Base</td>
+      <td style="text-align:left">0%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Multiplier</td>
+      <td style="text-align:left">13%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">JumpMultiplier</td>
+      <td style="text-align:left">800%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Kink 1</td>
+      <td style="text-align:left">80%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Kink 2</td>
+      <td style="text-align:left">90%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Contract Address</td>
+      <td style="text-align:left">
+        <p><a href="https://etherscan.io/address/0xd6C04cF463A52A9C929D434F9F84ee70c1c0Ac6F#code">0xd6C04cF463A52A9C929D434F9F84ee70c1c0Ac6F</a>
+        </p>
+        <p><a href="https://etherscan.io/address/0x26c325C8880FfE5a5744fF667ba7D8651B868710">0x26c325C8880FfE5a5744fF667ba7D8651B868710</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 3 Stables
 
