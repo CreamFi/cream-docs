@@ -8,25 +8,21 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 
 | Token | Collateral Factor | Reserve Factor |
 | :--- | :--- | :--- |
-| FTM | 75% | 5% |
-| USDC | 75% | 5% |
-| CREAM | 0% | 5% |
-| ETH | 75% | 5% |
-| BTC | 75% | 5% |
-| DAI | 75% | 5% |
-| YFI | 0% | 5% |
-| SUSHI | 0% | 5% |
-| AAVE | 0% | 5% |
-| CRV | 0% | 5% |
-| BAND | 0% | 5% |
-| KP3R | 0% | 5% |
-| sUSD | 0% | 5% |
-| COVER | 0% | 5% |
-| HEGIC | 0% | 5% |
-| LINK | 0% | 5% |
-| SNX | 0% | 5% |
-| SFI | 0% | 5% |
-| FRAX | 0% | 5% |
+| FTM | 75% | 12% |
+| USDC | 75% | 10% |
+| CREAM | 0% | 20% |
+| ETH | 75% | 12% |
+| BTC | 75% | 12% |
+| DAI | 75% | 10% |
+| YFI | 0% | 20% |
+| SUSHI | 0% | 20% |
+| AAVE | 0% | 20% |
+| BAND | 0% | 20% |
+| KP3R | 0% | 20% |
+| COVER | 0% | 20% |
+| HEGIC | 0% | 20% |
+| LINK | 0% | 20% |
+| SNX | 0% | 20% |
 
 
 
