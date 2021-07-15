@@ -25,12 +25,12 @@ BlocksPerYear = 2,102,400 \(15 sec per block\)
 {% endhint %}
 
 {% hint style="info" %}
-Find other variables in [Markets](https://app.cream.finance/markets)
+Find other variables in [Markets](https://app.cream.finance/markets/v1)
 {% endhint %}
 
-## Stable + Major
+## Major
 
-![](https://i.imgur.com/5aoSePr.png)
+![](../.gitbook/assets/jie-tu-20210715-xia-wu-12.16.25.png)
 
 <table>
   <thead>
@@ -42,58 +42,75 @@ Find other variables in [Markets](https://app.cream.finance/markets)
   <tbody>
     <tr>
       <td style="text-align:left">Category</td>
-      <td style="text-align:left">Major &amp; Stable</td>
+      <td style="text-align:left">Major</td>
     </tr>
     <tr>
       <td style="text-align:left">Tokens</td>
       <td style="text-align:left">
-        <p>USDT, USDC, BUSD, yCRV, yUSD, ETH, renBTC, FTT, yETH, BBTC, HBTC, HUSD,
-          DAI, WBTC, sUSD, FRAX, UST, yvWETH, yUSD, FEI</p>
+        <p>ETH, WBTC, renBTC, BBTC, HBTC, WBTC, yvWETH</p>
         <p>
           <br />UNI-V2-WBTC-ETH, UNI-V2-ETH-USDT, UNI-V2-DAI-ETH, UNI-V2-USDC-ETH</p>
-        <p>
-          <br />yvCurve-IB, yvCurve-sETH, yvCurve-stETH</p>
+        <p></p>
+        <p>yvCurve-sETH, yvCurve-stETH</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Base</td>
-      <td style="text-align:left">2%</td>
+      <td style="text-align:left">0%</td>
     </tr>
     <tr>
       <td style="text-align:left">Multiplier</td>
-      <td style="text-align:left">25%</td>
+      <td style="text-align:left">15%</td>
     </tr>
     <tr>
       <td style="text-align:left">JumpMultiplier</td>
-      <td style="text-align:left">500%</td>
+      <td style="text-align:left">200%</td>
     </tr>
     <tr>
-      <td style="text-align:left">Kink</td>
+      <td style="text-align:left">Kink 1</td>
       <td style="text-align:left">80%</td>
     </tr>
     <tr>
+      <td style="text-align:left">Kink 2</td>
+      <td style="text-align:left">90%</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Contract Address</td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0x014872728e7D8b1c6781f96ecFbd262Ea4D2e1A6">0x014872728e7D8b1c6781f96ecFbd262Ea4D2e1A6</a>,
-        <a
-        href="https://etherscan.io/address/0xc15A2B4BC7cA71808f557906cB328aBFde42b17e">0xc15A2B4BC7cA71808f557906cB328aBFde42b17e</a>
+      <td style="text-align:left"><a href="https://etherscan.io/address/0x812C0b2a2A0A74f6f6ed620Fbd2B67Fec7DB2190">0x812C0b2a2A0A74f6f6ed620Fbd2B67Fec7DB2190</a>
       </td>
     </tr>
   </tbody>
 </table>
 
+## Stable
+
+![](../.gitbook/assets/jie-tu-20210715-xia-wu-2.50.31.png)
+
+| Parameter | Value |
+| :--- | :--- |
+| Category | Stable |
+| Tokens | USDT, USDC, DAI, BUSD, yCRV, HUSD, sUSD, FRAX, UST, yvCurve-IB, yUSD, FEI |
+| Base | 0% |
+| Multiplier | 18% |
+| JumpMultiplier | 800% |
+| Kink 1 | 80% |
+| Kink 2 | 90% |
+| Contract Address | [0xE7dB46742c51a7bd64b8D83b8201239D759786bE](https://etherscan.io/address/0xE7dB46742c51a7bd64b8D83b8201239D759786bE) |
+
 ## Governance + Seed
 
-![](https://i.imgur.com/Fg4vOj7.png)
+![](../.gitbook/assets/jie-tu-20210715-xia-wu-2.51.05.png)
 
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance & Seeds |
-| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, UNI, SUSHI, wNXM, SWAG, CEL, DPI, BOND, KP3R, HFIL, CRETH2, HEGIC, ESD, COVER, 1INCH, OMG, xSUSHI, SNX, PICKLE, AKRO, bBADGER, OGN, AMP, ALPHA, FTM, RUNE, PERP, RAI, OCEAN, RARI, SFI, ARMOR, arNXM, MLN, VSP, VVSP, GNO, SWAP, WOO, BNT |
-| Base | 2% |
-| Multiplier | 35% |
-| JumpMultiplier | 750% |
-| Kink | 80% |
-| Contract Address | [0xd34137FC9F6754bcDFCe907d06F4D10E897B3eB5](https://etherscan.io/address/0xd34137FC9F6754bcDFCe907d06F4D10E897B3eB5), [0xbD95e9e1Fd1cC5012A1162af9a034aCE03179905](https://etherscan.io/address/0xbD95e9e1Fd1cC5012A1162af9a034aCE03179905) |
+| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, FTT, UNI, SUSHI, wNXM, CEL, DPI, BOND, KP3R, HFIL, HEGIC, ESD, COVER, 1INCH, OMG, xSUSHI, SNX, PICKLE, AKRO, bBADGER, OGN, AMP, ALPHA, FTM, RUNE, PERP, RAI, OCEAN, RARI, SFI, ARMOR, arNXM, MLN, VSP, VVSP, GNO, SWAP, WOO, BNT |
+| Base | 0% |
+| Multiplier | 20% |
+| JumpMultiplier | 500% |
+| Kink 1 | 70% |
+| Kink 2 | 80% |
+| Contract Address | [0xbadaC56c9aca307079e8B8FC699987AAc89813ee](https://etherscan.io/address/0xbadaC56c9aca307079e8B8FC699987AAc89813ee) |
 
 ## SushiSwap Liquidity Provider token \(SLP\)
 

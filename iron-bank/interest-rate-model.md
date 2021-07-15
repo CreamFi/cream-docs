@@ -25,7 +25,7 @@ BlocksPerYear = 2,102,400 \(15 sec per block\)
 {% endhint %}
 
 {% hint style="info" %}
-Find other variables in [Markets](https://app.cream.finance/markets)
+Find other variables in [Markets](https://app.cream.finance/markets/ironbank)
 {% endhint %}
 
 ### Major
