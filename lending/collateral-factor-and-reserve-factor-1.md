@@ -73,9 +73,6 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | PERP | 45% | 40% |
 | RAI | 45% | 40% |
 | OCEAN | 45% | 40% |
-| yveCRV | 0% | 40% |
-| yvsteCRV | 0% | 40% |
-| yvCurve-IB | 0% | 40% |
 | RARI | 25% | 40% |
 | SFI | 25% | 40% |
 | yvCurve-IB | 75% | 40% |
