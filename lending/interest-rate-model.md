@@ -30,7 +30,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 ## Major
 
-![](../.gitbook/assets/jie-tu-20210304-18.26.11.png)
+![](../.gitbook/assets/jie-tu-20210719-xia-wu-8.27.31.png)
 
 | Parameter | Value |
 | :--- | :--- |
@@ -38,33 +38,38 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | Tokens | WFTM, ETH, BTC |
 | Base | 0% |
 | Multiplier | 15% |
-| JumpMultiplier | 100% |
-| Kink | 45% |
-| Contract Address | [0x5Dc3A30d8c5937f1529C3c93507C16d86A17072A](https://ftmscan.com/address/0x5Dc3A30d8c5937f1529C3c93507C16d86A17072A#readContract) |
+| JumpMultiplier | 200% |
+| Kink 1 | 80% |
+| Kink 2 | 90% |
+| Contract Address | [0x338EEE1F7B89CE6272f302bDC4b952C13b221f1d](https://ftmscan.com/address/0x338EEE1F7B89CE6272f302bDC4b952C13b221f1d) |
 
 ## Stable
 
-![](../.gitbook/assets/jie-tu-20210304-18.26.24.png)
+![](../.gitbook/assets/jie-tu-20210719-xia-wu-8.28.18.png)
 
 | Parameter | Value |
 | :--- | :--- |
 | Category | Stable |
 | Tokens | USDC, DAI, sUSD, FRAX |
 | Base | 0% |
-| Multiplier | 8% |
-| JumpMultiplier | 100% |
-| Kink | 70% |
-| Contract Address | [0x9bF8757D33e20713d3fA61c889C892B00f3b3B6E](https://ftmscan.com/address/0x9bf8757d33e20713d3fa61c889c892b00f3b3b6e#readContract) |
+| Multiplier | 18% |
+| JumpMultiplier | 800% |
+| Kink 1 | 80% |
+| Kink 2 | 90% |
+| Contract Address | [0x03445c9002567a33173Cbd2DdC2E0816BdD2b69C](https://ftmscan.com/address/0x03445c9002567a33173Cbd2DdC2E0816BdD2b69C) |
 
 ## Governance
+
+![](../.gitbook/assets/jie-tu-20210719-xia-wu-8.33.18.png)
 
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance |
 | Tokens | CREAM, YFI, SUSHI, AAVE, CRV, BAND, KP3R, COVER, HEGIC, LINK, SNX, SFI |
 | Base | 0% |
-| Multiplier | 10% |
-| JumpMultiplier | 320% |
-| Kink | 45% |
-| Contract Address | [0xd5794ea7b269dB3a0CCB396774Cc2D0936FFBD86](https://ftmscan.com/address/0xd5794ea7b269dB3a0CCB396774Cc2D0936FFBD86#readContract) |
+| Multiplier | 20% |
+| JumpMultiplier | 500% |
+| Kink 1 | 70% |
+| Kink 2 | 80% |
+| Contract Address | [0x7d26577903F3986D3F3C554B2e229D36fa3f8ea9](https://ftmscan.com/address/0x7d26577903F3986D3F3C554B2e229D36fa3f8ea9) |
 
