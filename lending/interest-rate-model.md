@@ -28,103 +28,50 @@ BlocksPerYear = 10,512,000 \(3 sec per block\)
 Find other variables in [Markets](https://app.cream.finance/markets)
 {% endhint %}
 
-## Stable + Major
+## Major
 
-![](https://i.imgur.com/5aoSePr.png)
+![](../.gitbook/assets/jie-tu-20210719-xia-wu-8.20.00.png)
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Parameter</th>
-      <th style="text-align:left">Value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Category</td>
-      <td style="text-align:left">Stable &amp; Major</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Tokens</td>
-      <td style="text-align:left">BNB, BUSD, BTCB, XRP, LTC, BCH, ETH, USDT, ADA, EOS, DAI, XTZ, USDC, renBTC,
-        BETH, WBNB</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Base</td>
-      <td style="text-align:left">2%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Multiplier</td>
-      <td style="text-align:left">25%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">JumpMultiplier</td>
-      <td style="text-align:left">500%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Kink</td>
-      <td style="text-align:left">80%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Contract Address</td>
-      <td style="text-align:left">
-        <p><a href="https://bscscan.com/address/0x4e4c96b038899e2f2597ef693b8278cfeb63e7db">0x4e4c96b038899e2f2597ef693b8278cfeb63e7db</a>
-        </p>
-        <p><a href="https://www.bscscan.com/address/0x681AB0F8a860fE234025b0205Eb69889aff32b75">0x681AB0F8a860fE234025b0205Eb69889aff32b75</a>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Parameter | Value |
+| :--- | :--- |
+| Category | Major |
+| Tokens | BTCB, XRP, LTC, BCH, ETH, ADA, EOS, XTZ, renBTC, renZEC, BETH, WBNB |
+| Base | 0% |
+| Multiplier | 15% |
+| JumpMultiplier | 200% |
+| Kink 1 | 80% |
+| Kink 2 | 90% |
+| Contract Address | [0xd68F6C83E160d86bF1fC0120a0D96A74cF291Bff](https://bscscan.com/address/0xd68F6C83E160d86bF1fC0120a0D96A74cF291Bff) |
+
+## Stable
+
+![](../.gitbook/assets/jie-tu-20210719-xia-wu-8.21.58.png)
+
+| Parameter | Value |
+| :--- | :--- |
+| Category | Stable |
+| Tokens | BUSD, USDT, DAI, USDC, VAI |
+| Base | 0% |
+| Multiplier | 18% |
+| JumpMultiplier | 800% |
+| Kink 1 | 80% |
+| Kink 2 | 90% |
+| Contract Address | [0x8122E8585724BFd0A5964847fAe47c949B90B899](https://bscscan.com/address/0x8122E8585724BFd0A5964847fAe47c949B90B899) |
 
 ## Governance + Seed
 
-![](https://i.imgur.com/Fg4vOj7.png)
+![](../.gitbook/assets/jie-tu-20210719-xia-wu-8.23.11.png)
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Parameter</th>
-      <th style="text-align:left">Value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Category</td>
-      <td style="text-align:left">Governance &amp; Seeds</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Tokens</td>
-      <td style="text-align:left">LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI,
-        AUTO, renZEC, IOTX, SXP, SUSHI</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Base</td>
-      <td style="text-align:left">2%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Multiplier</td>
-      <td style="text-align:left">35%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">JumpMultiplier</td>
-      <td style="text-align:left">750%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Kink</td>
-      <td style="text-align:left">80%</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Contract Address</td>
-      <td style="text-align:left">
-        <p><a href="https://bscscan.com/address/0x66d801f9bf3F3225251318565352d49E348aEB6d">0x66d801f9bf3F3225251318565352d49E348aEB6d</a>
-        </p>
-        <p><a href="https://www.bscscan.com/address/0x410EcEc0229bEb4b66C98b217065767277a5d0B0">0x410EcEc0229bEb4b66C98b217065767277a5d0B0</a>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Parameter | Value |
+| :--- | :--- |
+| Category | Governance & Seeds |
+| Tokens | DOT, LINK, CREAM, BAND, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, AUTO, IOTX, SXP, SUSHI |
+| Base | 0% |
+| Multiplier | 20% |
+| JumpMultiplier | 500% |
+| Kink 1 | 70% |
+| Kink 2 | 80% |
+| Contract Address | [0xEb689084bD7990604Eef53376D269f87CB12cA63](https://bscscan.com/address/0xEb689084bD7990604Eef53376D269f87CB12cA63) |
 
 ## Cake Liquidity Provider token \(CakeLP\)
 
@@ -175,4 +122,19 @@ Find other variables in [Markets](https://app.cream.finance/markets)
     </tr>
   </tbody>
 </table>
+
+### BNB
+
+![](../.gitbook/assets/jie-tu-20210719-xia-wu-8.24.59.png)
+
+| Parameter | Value |
+| :--- | :--- |
+| Category | BNB |
+| Tokens | BNB |
+| Base | 0% |
+| Multiplier | 12% |
+| JumpMultiplier | 60% |
+| Kink 1 | 60% |
+| Kink 2 | 80% |
+| Contract Address | [0x5F18B46FFb6dfC1A4a2c2fDbC4De48dc741C7EF4](https://bscscan.com/address/0x5F18B46FFb6dfC1A4a2c2fDbC4De48dc741C7EF4) |
 
