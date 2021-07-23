@@ -99,7 +99,7 @@ Find other variables in [Markets](https://app.cream.finance/markets/v1)
 
 ## Governance + Seed
 
-![](../.gitbook/assets/jie-tu-20210715-xia-wu-2.51.05.png)
+![](../.gitbook/assets/jie-tu-20210723-xia-wu-4.35.51.png)
 
 | Parameter | Value |
 | :--- | :--- |
