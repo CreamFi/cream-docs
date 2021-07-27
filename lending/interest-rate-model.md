@@ -47,7 +47,7 @@ Find other variables in [Markets](https://app.cream.finance/markets/v1)
     <tr>
       <td style="text-align:left">Tokens</td>
       <td style="text-align:left">
-        <p>ETH, WBTC, renBTC, BBTC, HBTC, WBTC, yvWETH</p>
+        <p>ETH, WBTC, renBTC, BBTC, HBTC, WBTC, yvWETH, ibBTC</p>
         <p>
           <br />UNI-V2-WBTC-ETH, UNI-V2-ETH-USDT, UNI-V2-DAI-ETH, UNI-V2-USDC-ETH</p>
         <p></p>
@@ -89,7 +89,7 @@ Find other variables in [Markets](https://app.cream.finance/markets/v1)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Stable |
-| Tokens | USDT, USDC, DAI, BUSD, yCRV, HUSD, sUSD, FRAX, UST, yvCurve-IB, yUSD, FEI |
+| Tokens | USDT, USDC, DAI, BUSD, yCRV, HUSD, sUSD, FRAX, UST, yvCurve-IB, yUSD, FEI, PAX |
 | Base | 0% |
 | Multiplier | 18% |
 | JumpMultiplier | 800% |
@@ -104,7 +104,7 @@ Find other variables in [Markets](https://app.cream.finance/markets/v1)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance & Seeds |
-| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, FTT, UNI, SUSHI, wNXM, CEL, DPI, BOND, KP3R, HFIL, HEGIC, ESD, COVER, 1INCH, OMG, xSUSHI, SNX, PICKLE, AKRO, bBADGER, OGN, AMP, ALPHA, FTM, RUNE, PERP, RAI, OCEAN, RARI, SFI, ARMOR, arNXM, MLN, VSP, VVSP, GNO, SWAP, WOO, BNT |
+| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, FTT, UNI, SUSHI, wNXM, CEL, DPI, BOND, KP3R, HFIL, HEGIC, ESD, COVER, 1INCH, OMG, xSUSHI, SNX, PICKLE, AKRO, bBADGER, OGN, AMP, ALPHA, FTM, RUNE, PERP, RAI, OCEAN, RARI, SFI, ARMOR, arNXM, MLN, VSP, VVSP, GNO, SWAP, WOO, BNT, PAXG |
 | Base | 0% |
 | Multiplier | 20% |
 | JumpMultiplier | 500% |
