@@ -32,6 +32,8 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | UNI | 70% | 20% |
 | SUSHI | 70% | 20% |
 | FRAX | 0% | 10% |
+| ibEUR | 0% | 10% |
+| EURt | 0% | 10% |
 
 
 

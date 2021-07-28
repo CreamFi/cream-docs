@@ -18,6 +18,8 @@ For the following EUR stablecoins, we use euro price instead:
 
 * EURS
 * sEUR
+* ibEUR
+* EURt
 
 ### Contract
 
