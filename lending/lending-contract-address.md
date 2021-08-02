@@ -12,6 +12,8 @@
 | crWBTC | [0x5Dc3A30d8c5937f1529C3c93507C16d86A17072A](https://polygonscan.com/address/0x5Dc3A30d8c5937f1529C3c93507C16d86A17072A) | Yes |
 | crLINK | [0x20d5d319C2964ecb52e1B006a4C059b7f6d6ad0a](https://polygonscan.com/address/0x20d5d319C2964ecb52e1B006a4C059b7f6d6ad0a) | Yes |
 | crSUSHI | [0x468a7BF78f11Da82c90b17a93adb7B14999aF5AB](https://polygonscan.com/address/0x468a7BF78f11Da82c90b17a93adb7B14999aF5AB) | Yes |
+| crCRV | [0xE82225bA6BeD28406912522F01C7102DD9f07e78](https://polygonscan.com/address/0xE82225bA6BeD28406912522F01C7102DD9f07e78) | Yes |
+| crQUICK | [0x2eE80614Ccbc5e28654324a66A396458Fa5cD7Cc](https://polygonscan.com/address/0x2eE80614Ccbc5e28654324a66A396458Fa5cD7Cc) | Yes |
 
 ### Protocol Address
 

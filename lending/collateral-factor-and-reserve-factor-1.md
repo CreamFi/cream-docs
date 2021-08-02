@@ -16,4 +16,6 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | WBTC | 75% | 10% |
 | LINK | 45% | 20% |
 | SUSHI | 45% | 20% |
+| CRV | 0% | 20% |
+| QUICK | 0% | 20% |
 

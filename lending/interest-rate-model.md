@@ -63,7 +63,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance |
-| Tokens | LINK, SUSHI |
+| Tokens | LINK, SUSHI, CRV, QUICK |
 | Base | 0% |
 | Multiplier | 20% |
 | JumpMultiplier | 500% |

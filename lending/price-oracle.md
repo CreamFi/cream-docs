@@ -5,8 +5,18 @@ description: How C.R.E.A.M. Finance get token price
 # Price Oracle
 
 {% hint style="info" %}
-All markets are covered by Chainlink
+We use Chainlink as our major price oracle
 {% endhint %}
+
+### Chainlink
+
+For the following tokens, we use price feed provided by Chainlink:
+
+MATIC / USDC / USDT / DAI / WETH / WBTC / LINK / SUSHI
+
+### C.R.E.A.M. Finance
+
+For the other tokens, we use our own price oracle to get the price.
 
 ### Price Oracle Address
 
