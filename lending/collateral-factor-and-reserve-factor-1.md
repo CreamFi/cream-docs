@@ -86,7 +86,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | GNO | 25% | 40% |
 | yvWETH | 75% | 20% |
 | yUSD | 75% | 20% |
-| SWAP | 0% | 40% |
+| SWAP | 25% | 40% |
 | FEI | 25% | 20% |
 | WOO | 25% | 40% |
 | BNT | 40% | 40% |
