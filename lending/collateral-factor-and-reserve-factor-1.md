@@ -93,6 +93,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | PAX | 75% | 10% |
 | PAXG | 60% | 40% |
 | ibBTC | 45% | 30% |
+| LON | 45% | 40% |
 
 {% hint style="info" %}
 Searching for tokens on BSC? We put them [here](https://docs.cream.finance/v/binance-smart-chain/lending/collateral-factor-and-reserve-factor)

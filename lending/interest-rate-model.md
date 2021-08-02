@@ -104,7 +104,7 @@ Find other variables in [Markets](https://app.cream.finance/markets/v1)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance & Seeds |
-| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, FTT, UNI, SUSHI, wNXM, CEL, DPI, BOND, KP3R, HFIL, HEGIC, ESD, COVER, 1INCH, OMG, xSUSHI, SNX, PICKLE, AKRO, bBADGER, OGN, AMP, ALPHA, FTM, RUNE, PERP, RAI, OCEAN, RARI, SFI, ARMOR, arNXM, MLN, VSP, VVSP, GNO, SWAP, WOO, BNT, PAXG |
+| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, FTT, UNI, SUSHI, wNXM, CEL, DPI, BOND, KP3R, HFIL, HEGIC, ESD, COVER, 1INCH, OMG, xSUSHI, SNX, PICKLE, AKRO, bBADGER, OGN, AMP, ALPHA, FTM, RUNE, PERP, RAI, OCEAN, RARI, SFI, ARMOR, arNXM, MLN, VSP, VVSP, GNO, SWAP, WOO, BNT, PAXG, LON |
 | Base | 0% |
 | Multiplier | 20% |
 | JumpMultiplier | 500% |
