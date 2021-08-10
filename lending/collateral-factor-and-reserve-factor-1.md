@@ -8,14 +8,14 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 
 | Token | Collateral Factor | Reserve Factor |
 | :--- | :--- | :--- |
-| MATIC | 65% | 10% |
+| MATIC | 75% | 10% |
 | USDC | 85% | 10% |
 | USDT | 75% | 10% |
 | DAI | 80% | 10% |
 | WETH | 82.5% | 10% |
 | WBTC | 75% | 10% |
-| LINK | 45% | 20% |
+| LINK | 65% | 20% |
 | SUSHI | 45% | 20% |
-| CRV | 0% | 20% |
-| QUICK | 0% | 20% |
+| CRV | 45% | 20% |
+| QUICK | 45% | 20% |
 
