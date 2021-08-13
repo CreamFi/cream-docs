@@ -22,6 +22,12 @@
 * [Price Oracle](iron-bank/price-oracle.md)
 * [FAQ](iron-bank/faq.md)
 
+## iceCREAM
+
+* [iceCREAM Tokenomics](icecream/icecream-tokenomics.md)
+* [iceCREAM Mechanism Phase 1](icecream/icecream-mechanism-phase-1.md)
+* [iceCREAM Mechanism Phase 2](icecream/icecream-mechanism-phase-2.md)
+
 ## Flash Loans <a id="flash-loans-1"></a>
 
 * [Flash Loans](flash-loans-1/flash-loans.md)
