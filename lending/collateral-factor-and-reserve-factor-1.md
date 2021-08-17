@@ -90,6 +90,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | FEI | 25% | 20% |
 | WOO | 25% | 40% |
 | BNT | 40% | 40% |
+| EURT | 60% | 20% |
 | PAX | 75% | 10% |
 | PAXG | 60% | 40% |
 | ibBTC | 45% | 30% |

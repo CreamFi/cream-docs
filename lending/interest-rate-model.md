@@ -89,7 +89,7 @@ Find other variables in [Markets](https://app.cream.finance/markets/v1)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Stable |
-| Tokens | USDT, USDC, DAI, BUSD, yCRV, HUSD, sUSD, FRAX, UST, yvCurve-IB, yUSD, FEI, PAX |
+| Tokens | USDT, USDC, DAI, BUSD, yCRV, HUSD, sUSD, FRAX, UST, yvCurve-IB, yUSD, FEI, PAX, EURT |
 | Base | 0% |
 | Multiplier | 18% |
 | JumpMultiplier | 800% |
