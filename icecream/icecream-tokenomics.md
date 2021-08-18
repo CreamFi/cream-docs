@@ -44,6 +44,7 @@ For the early supporters of C.R.E.A.M. Finance who locked their CREAM in the lon
 
 ### References
 
+* [iceCREAM staking](https://app.cream.finance/stake/iceCream)
 * [iceCREAM proposal](https://vote.cream.finance/#/cream-finance.eth/proposal/QmdS9VhXsBE8wRdLMqKCmYL8XfXcqNth1jgphhRxMhnxo8)
 * [oSUSHI](https://forum.sushi.com/t/sushinomics-introducing-osushi/4055)
 * [veToken](https://ve-token-voting.vercel.app/)
