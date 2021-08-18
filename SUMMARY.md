@@ -41,6 +41,7 @@
   * [Comptroller](developer/error-codes/comptroller.md)
 * [Data API](https://api.cream.finance/api/documentations/)
 * [Subgraph \(GraphQL\)](developer/subgraph-graphql.md)
+* [Open Defi](developer/open-defi.md)
 
 ## CRETH2 <a id="eth2"></a>
 
