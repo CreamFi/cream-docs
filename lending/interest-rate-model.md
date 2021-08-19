@@ -125,7 +125,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 ### BNB
 
-![](../.gitbook/assets/jie-tu-20210719-xia-wu-8.24.59.png)
+![](../.gitbook/assets/jie-tu-20210819-14.45.30.png)
 
 | Parameter | Value |
 | :--- | :--- |
