@@ -12,7 +12,11 @@ We use Chainlink as our major price oracle
 
 For the following tokens, we use price feed provided by Chainlink:
 
-MATIC / USDC / USDT / DAI / WETH / WBTC / LINK / SUSHI
+MATIC / USDC / USDT / DAI / WETH / WBTC / LINK / SUSHI / AAVE / DPI / FXS / SNX / UNI
+
+For the following BTC-pegged tokens, we use BTC price instead:
+
+* ibBTC
 
 ### C.R.E.A.M. Finance
 

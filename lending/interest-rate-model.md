@@ -33,7 +33,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Major |
-| Tokens | MATIC, WETH, WBTC |
+| Tokens | MATIC, WETH, WBTC, ibBTC |
 | Base | 0% |
 | Multiplier | 15% |
 | JumpMultiplier | 500% |
@@ -63,7 +63,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance |
-| Tokens | LINK, SUSHI, CRV, QUICK |
+| Tokens | LINK, SUSHI, CRV, QUICK, AAVE, DPI, FXS, SNX, UNI |
 | Base | 0% |
 | Multiplier | 20% |
 | JumpMultiplier | 500% |

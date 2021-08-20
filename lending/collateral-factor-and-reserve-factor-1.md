@@ -18,4 +18,10 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | SUSHI | 45% | 20% |
 | CRV | 45% | 20% |
 | QUICK | 45% | 20% |
+| AAVE | 65% | 20% |
+| DPI | 45% | 20% |
+| FXS | 45% | 20% |
+| SNX | 45% | 20% |
+| UNI | 65% | 20% |
+| ibBTC | 65% | 10% |
 
