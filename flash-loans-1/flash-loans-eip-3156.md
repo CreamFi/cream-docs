@@ -108,7 +108,8 @@ bytes memory data = abi.encode(address(this), 1234);
 
 ```
 
-Like line 28 in function `doFlashloan(address cToken, uint256 borrowAmount)` of the above example.
+Like in function`doFlashloan(address flashloanLender, address borrowToken, uint256 borrowAmount)`   
+of the above example.
 
 ## Playground
 
