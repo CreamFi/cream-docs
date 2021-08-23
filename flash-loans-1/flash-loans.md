@@ -1,4 +1,4 @@
-# Flash Loans
+# Flash Loans \(deprecated\)
 
 ## Overview
 

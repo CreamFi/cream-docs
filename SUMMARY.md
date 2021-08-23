@@ -30,7 +30,8 @@
 
 ## Flash Loans <a id="flash-loans-1"></a>
 
-* [Flash Loans](flash-loans-1/flash-loans.md)
+* [Flash Loans](flash-loans-1/flash-loans-1.md)
+* [Flash Loans \(deprecated\)](flash-loans-1/flash-loans.md)
 
 ## Developer
 
