@@ -14,12 +14,13 @@ For the following BTC-pegged token, we use BTC price instead:
 
 * WBTC
 
-For the following EUR stablecoins, we use euro price instead:
+For the following fiat stable coins, we use fiat price instead:
 
 * EURS
 * sEUR
-* ibEUR
+* EUR
 * EURt
+* KRW
 
 ### Contract
 
