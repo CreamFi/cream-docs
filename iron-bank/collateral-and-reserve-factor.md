@@ -35,6 +35,8 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | EUR | 0% | 10% |
 | EURt | 0% | 10% |
 | KRW | 0% | 10% |
-
-
+| JPY | 0% | 10% |
+| AUD | 0% | 10% |
+| GBP | 0% | 10% |
+| CHF | 0% | 10% |
 

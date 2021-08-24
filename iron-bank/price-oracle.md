@@ -21,6 +21,10 @@ For the following fiat stable coins, we use fiat price instead:
 * EUR
 * EURt
 * KRW
+* JPY
+* AUD
+* GBP
+* CHF
 
 ### Contract
 
