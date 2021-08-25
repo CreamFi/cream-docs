@@ -45,7 +45,8 @@ For the other tokens, we use our own price oracle to get the price.
 | Contract | Address |
 | :--- | :--- |
 | v1PriceOracle | [0x9A975fe93CFf8b0387b958adB9082B0ed0659AD2](https://etherscan.io/address/0x9a975fe93cff8b0387b958adb9082b0ed0659ad2) |
-| PriceOracleProxy | [0x647A539282e8456A64DFE28923B7999b66091488](https://etherscan.io/address/0x647a539282e8456a64dfe28923b7999b66091488#code) |
+| PriceOracleProxy | [0x338EEE1F7B89CE6272f302bDC4b952C13b221f1d](https://etherscan.io/address/0x338EEE1F7B89CE6272f302bDC4b952C13b221f1d) |
+| ~~PriceOracleProxy \(deprecated\)~~ | [0x647A539282e8456A64DFE28923B7999b66091488](https://etherscan.io/address/0x647a539282e8456a64dfe28923b7999b66091488#code) |
 | ~~PriceOracleProxy \(deprecated\)~~ | [0x940ce2a25b0BA48d213AcC13AbC21d9Fee2Ed6Dd](https://etherscan.io/address/0x940ce2a25b0BA48d213AcC13AbC21d9Fee2Ed6Dd) |
 | ~~PriceOracleProxy \(deprecated\)~~ | [0x9a5135157a74b753d11197a821e7f199f5b2fed0](https://etherscan.io/address/0x9a5135157a74b753d11197a821e7f199f5b2fed0) |
 
