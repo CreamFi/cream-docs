@@ -20,7 +20,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | sUSD | 50% | 10% |
 | mUSD | 90% | 10% |
 | DUSD | 90% | 10% |
-| EURS | 0% | 10% |
+| EURS | 60% | 10% |
 | sEUR | 90% | 10% |
 | DPI | 55% | 20% |
 | BUSD | 90% | 10% |
