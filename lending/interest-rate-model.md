@@ -104,7 +104,7 @@ Find other variables in [Markets](https://app.cream.finance/markets/v1)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance & Seeds |
-| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, FTT, UNI, SUSHI, wNXM, CEL, DPI, BOND, KP3R, HFIL, HEGIC, ESD, COVER, 1INCH, OMG, xSUSHI, SNX, PICKLE, AKRO, bBADGER, OGN, AMP, ALPHA, FTM, RUNE, PERP, RAI, OCEAN, RARI, SFI, ARMOR, arNXM, MLN, VSP, VVSP, GNO, SWAP, WOO, BNT, PAXG, LON |
+| Tokens | COMP, BAL, YFI, LINK, CREAM, AAVE, CRV, MTA, SRM, FTT, UNI, SUSHI, wNXM, CEL, DPI, BOND, KP3R, HFIL, HEGIC, ESD, COVER, 1INCH, OMG, xSUSHI, SNX, PICKLE, AKRO, bBADGER, OGN, ALPHA, FTM, RUNE, PERP, RAI, OCEAN, RARI, SFI, ARMOR, arNXM, MLN, VSP, VVSP, GNO, SWAP, WOO, BNT, PAXG, LON |
 | Base | 0% |
 | Multiplier | 20% |
 | JumpMultiplier | 500% |
@@ -162,4 +162,18 @@ Find other variables in [Markets](https://app.cream.finance/markets/v1)
     </tr>
   </tbody>
 </table>
+
+### AMP \(exploit\)
+
+![](../.gitbook/assets/jie-tu-20210830-18.28.43.png)
+
+| Parameter | Value |
+| :--- | :--- |
+| Category | AMP |
+| Tokens | AMP |
+| Base | 0% |
+| Multiplier | 20% |
+| JumpMultiplier | 0% |
+| Kink | 100% |
+| Contract Address | [0x73D06034Ae98E2Af4eA4E0fA0320cdEf1561f493](https://etherscan.io/address/0x73D06034Ae98E2Af4eA4E0fA0320cdEf1561f493) |
 
