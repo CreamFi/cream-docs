@@ -26,7 +26,5 @@
 
     Max \([Twitter](https://twitter.com/farmerdefi)\)
 
-    Regan \([Twitter](https://twitter.com/reganbozman)\)
-
     Charlotte Lee \([Twitter](https://twitter.com/CharlotteleeW)\)
 
