@@ -165,14 +165,12 @@ Find other variables in [Markets](https://app.cream.finance/markets/v1)
 
 ### AMP \(exploit\)
 
-![](../.gitbook/assets/jie-tu-20210830-18.28.43.png)
-
 | Parameter | Value |
 | :--- | :--- |
 | Category | AMP |
 | Tokens | AMP |
 | Base | 0% |
-| Multiplier | 20% |
+| Multiplier | 0% |
 | JumpMultiplier | 0% |
 | Kink | 100% |
 | Contract Address | [0x73D06034Ae98E2Af4eA4E0fA0320cdEf1561f493](https://etherscan.io/address/0x73D06034Ae98E2Af4eA4E0fA0320cdEf1561f493) |
