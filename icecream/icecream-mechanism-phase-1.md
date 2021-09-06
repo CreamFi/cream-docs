@@ -10,11 +10,17 @@ The lending protocol includes the comptroller, cToken markets, and cTokenAdmin. 
 
 Source: [https://github.com/CreamFi/compound-protocol](https://github.com/CreamFi/compound-protocol)
 
+{% page-ref page="../lending/lending-contract-address.md" %}
+
+{% page-ref page="../iron-bank/iron-bank.md" %}
+
 ### Reserve Manager
 
 The reserve manager is the hub of reserves extraction. It snapshots all the cToken reserves and everyone could trigger the extraction \(with a 1-day cooldown period\). It should take a ratio \(currently 50%\) of reserves and send them to the burners.
 
 Source: [https://github.com/CreamFi/reserve-manager](https://github.com/CreamFi/reserve-manager)
+
+Reserve Manager: [0x0C5Bf19618A8FCDdb132d82BC6c5ea736A1beAED](https://etherscan.io/address/0x0C5Bf19618A8FCDdb132d82BC6c5ea736A1beAED)
 
 ### Burners
 
@@ -29,4 +35,10 @@ Source: [https://github.com/CreamFi/curve-dao-contracts](https://github.com/Crea
 The fee distributor and the voting escrow are the final stops of iceCream phase 1. The fee distributor stores all the reserves in yvCurve-IB and it handles the fee distribution among all the iceCream stakers. The voting escrow \(iceCream\) is where users stake their CREAM tokens. Users could claim the rewards here.
 
 Source: [https://github.com/CreamFi/curve-dao-contracts](https://github.com/CreamFi/curve-dao-contracts)
+
+Fee Distributor: [0x0Ca0f068edad122f09a39f99E7E89E705d6f6Ace](https://etherscan.io/address/0x0Ca0f068edad122f09a39f99E7E89E705d6f6Ace)
+
+Voting Escrow: [0x3986425b96F11972d31C78ff340908832C5c0043](https://etherscan.io/address/0x3986425b96F11972d31C78ff340908832C5c0043)
+
+
 
