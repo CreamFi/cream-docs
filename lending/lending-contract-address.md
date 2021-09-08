@@ -94,6 +94,10 @@
 | crPAXG | [0x1241B10E7EA55b22f5b2d007e8fECDF73DCff999](https://etherscan.io/address/0x1241B10E7EA55b22f5b2d007e8fECDF73DCff999) | Yes |
 | crIBBTC | [0x2A867fd776B83e1bd4e13C6611AFd2F6af07EA6D](https://etherscan.io/address/0x2A867fd776B83e1bd4e13C6611AFd2F6af07EA6D) | Yes |
 | crLON | [0x250Fb308199FE8C5220509C1bf83D21d60b7f74A](https://etherscan.io/address/0x250Fb308199FE8C5220509C1bf83D21d60b7f74A) | Yes |
+| crYGG | [0x4112a717edD051F77d834A6703a1eF5e3d73387F](https://etherscan.io/address/0x4112a717edD051F77d834A6703a1eF5e3d73387F) | Yes |
+| crAXS | [0xF04ce2e71D32D789a259428ddcD02D3C9F97fb4E](https://etherscan.io/address/0xF04ce2e71D32D789a259428ddcD02D3C9F97fb4E) | Yes |
+| crSAND | [0x89e42987c39f72e2EAd95a8a5bC92114323d5828](https://etherscan.io/address/0x89e42987c39f72e2EAd95a8a5bC92114323d5828) | Yes |
+| crMANA | [0x58DA9c9fC3eb30AbBcbBAb5DDabb1E6e2eF3d2EF](https://etherscan.io/address/0x58DA9c9fC3eb30AbBcbBAb5DDabb1E6e2eF3d2EF) | Yes |
 
 ### Protocol Address
 
