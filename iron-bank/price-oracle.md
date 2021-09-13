@@ -8,7 +8,7 @@ We have Chainlink as our main price oracle
 
 For the following tokens, we use price feed provided by Chainlink:
 
-WETH / BTC / DAI / LINK / YFI / SNX / DPI / USDT / USDC / UNI / SUSHI / BUSD / sUSD / FRAX
+WETH / BTC / DAI / LINK / YFI / SNX / DPI / USDT / USDC / UNI / SUSHI / BUSD / sUSD / FRAX / CRV / AAVE
 
 For the following BTC-pegged token, we use BTC price instead:
 
@@ -34,7 +34,7 @@ For the following token, we fetch price from contracts directly:
 
 ### C.R.E.A.M. Finance
 
-For the other tokens, we use our own price oracle to get the price.
+For the other tokens, we use Band Protocol or our own price oracle to get the price.
 
 ### Price Oracle Address
 

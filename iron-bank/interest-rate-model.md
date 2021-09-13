@@ -111,7 +111,7 @@ Find other variables in [Markets](https://app.cream.finance/markets/ironbank)
 
 | Parameter | Value |
 | :--- | :--- |
-| Tokens | LINK, YFI, SNX, DPI, UNI, SUSHI |
+| Tokens | LINK, YFI, SNX, DPI, UNI, SUSHI, CRV, CREAM, AAVE |
 | Base | 0% |
 | Multiplier | 27% |
 | JumpMultiplier | 900% |
