@@ -50,7 +50,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Stable |
-| Tokens | USDC, DAI, sUSD, FRAX |
+| Tokens | USDC, DAI, fUSDT |
 | Base | 0% |
 | Multiplier | 18% |
 | JumpMultiplier | 800% |
@@ -65,7 +65,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance |
-| Tokens | CREAM, YFI, SUSHI, AAVE, CRV, BAND, KP3R, COVER, HEGIC, LINK, SNX, SFI |
+| Tokens | CREAM, YFI, SUSHI, AAVE, BAND, COVER, HEGIC, LINK, SNX |
 | Base | 0% |
 | Multiplier | 20% |
 | JumpMultiplier | 500% |
