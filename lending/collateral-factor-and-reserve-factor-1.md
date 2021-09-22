@@ -8,9 +8,9 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 
 | Token | Collateral factor | Reserve factor |
 | :--- | :--- | :--- |
-| ETH | 75% | 20% |
+| ETH | 75% | 25% |
 | USDT | 75% | 20% |
-| USDC | 75% | 10% |
+| USDC | 75% | 15% |
 | YFI | 75% | 40% |
 | COMP | 75% | 40% |
 | BAL | 60% | 40% |
@@ -31,7 +31,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | wNXM | 50% | 40% |
 | SWAG | 0% | 50% |
 | CEL | 0% | 40% |
-| DPI | 60% | 40% |
+| DPI | 60% | 45% |
 | BBTC | 45% | 30% |
 | AAVE | 60% | 40% |
 | BOND | 45% | 40% |
@@ -40,7 +40,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | HFIL | 0% | 40% |
 | CRETH2 | 60% | 40% |
 | HUSD | 0% | 20% |
-| DAI | 75% | 15% |
+| DAI | 75% | 20% |
 | HEGIC | 25% | 40% |
 | ESD | 60% | 50% |
 | COVER | 45% | 40% |
@@ -57,14 +57,14 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | SLP-ETH-USDT | 70% | 40% |
 | SLP-SUSHI-ETH | 75% | 40% |
 | SLP-YFI-ETH | 60% | 40% |
-| WBTC | 75% | 20% |
+| WBTC | 75% | 25% |
 | SNX | 45% | 40% |
 | sUSD | 45% | 20% |
 | PICKLE | 45% | 40% |
 | AKRO | 25% | 40% |
 | bBADGER | 60% | 40% |
 | OGN | 45% | 40% |
-| AMP | 45% | 40% |
+| AMP | 45% | 45% |
 | FRAX | 60% | 50% |
 | ALPHA | 60% | 40% |
 | UST | 45% | 20% |
