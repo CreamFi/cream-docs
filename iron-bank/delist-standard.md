@@ -29,3 +29,7 @@ These standards are targeting tokens which are:
 * Collateral Factor 0%
 * Move to deprecated category on UI
 
+## Delisted Tokens
+
+* 2021/09/22 GUSD, FRAX, EURt
+

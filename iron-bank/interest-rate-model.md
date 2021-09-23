@@ -56,8 +56,8 @@ Find other variables in [Markets](https://app.cream.finance/markets/ironbank)
   <tbody>
     <tr>
       <td style="text-align:left">Tokens</td>
-      <td style="text-align:left">y3Crv, sUSD, mUSD, DUSD, EURS, sEUR, BUSD, GUSD, cDAI, cUSDT, cUSDC, USDP,
-        FRAX, EUR, EURt, KRW, JPY, AUD, GBP, CHF</td>
+      <td style="text-align:left">y3Crv, sUSD, mUSD, DUSD, EURS, sEUR, BUSD, cDAI, cUSDT, cUSDC, USDP, EUR,
+        KRW, JPY, AUD, GBP, CHF</td>
     </tr>
     <tr>
       <td style="text-align:left">Base</td>

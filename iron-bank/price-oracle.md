@@ -8,7 +8,7 @@ We have Chainlink as our main price oracle
 
 For the following tokens, we use price feed provided by Chainlink:
 
-WETH / BTC / DAI / LINK / YFI / SNX / DPI / USDT / USDC / UNI / SUSHI / BUSD / sUSD / FRAX / CRV / AAVE
+WETH / BTC / DAI / LINK / YFI / SNX / DPI / USDT / USDC / UNI / SUSHI / BUSD / sUSD / CRV / AAVE
 
 For the following BTC-pegged token, we use BTC price instead:
 
@@ -19,7 +19,6 @@ For the following fiat stable coins, we use fiat price instead:
 * EURS
 * sEUR
 * EUR
-* EURt
 * KRW
 * JPY
 * AUD
