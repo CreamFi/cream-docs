@@ -58,7 +58,7 @@ Additional requirements that CREAM will add to ensure that the Iron Bank is paid
 
 ## If an under-collateralized borrower is exploited, how do Iron Bank lenders get repaid?
 
-Exploits that occur through the under-collateralized borrower will remain debt between the protocols. It is the responsibility of the exploited borrower to repay the Iron Bank. The additional debt accrued from the Alpha Homora V2 exploit In February 20201 is debt for Alpha Finance to repay Cream V2. End user funds are safe.
+Exploits that occur through the under-collateralized borrower will remain debt between the protocols. It is the responsibility of the exploited borrower to repay the Iron Bank. The additional debt accrued from the Alpha Homora V2 exploit In February 2021 is debt for Alpha Finance to repay Cream V2. End user funds are safe.
 
 ## **What price oracle does the Iron Bank use?**
 
