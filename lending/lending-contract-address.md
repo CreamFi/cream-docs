@@ -24,6 +24,7 @@
 | ~~crSFI~~ | ~~~~[~~0x3FaE5e5722C51cdb5B0afD8c7082e8a6AF336Ee8~~](https://ftmscan.com/address/0x3FaE5e5722C51cdb5B0afD8c7082e8a6AF336Ee8)~~~~ | Yes |
 | ~~crFRAX~~ | ~~~~[~~0x7ef18d0a9C3Fb1A716FF6c3ED0Edf52a2427F716~~](https://ftmscan.com/address/0x7ef18d0a9C3Fb1A716FF6c3ED0Edf52a2427F716)~~~~ | Yes |
 | crFUSDT | [0x70faC71debfD67394D1278D98A29dea79DC6E57A](https://ftmscan.com/address/0x70faC71debfD67394D1278D98A29dea79DC6E57A) | Yes |
+| crMIM | [0x46F298D5bB6389ccb6C1366bB0C8a30892CA2f7C](https://ftmscan.com/address/0x46F298D5bB6389ccb6C1366bB0C8a30892CA2f7C) | Yes |
 
 ### Protocol Address
 

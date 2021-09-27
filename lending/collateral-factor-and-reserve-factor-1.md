@@ -24,6 +24,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | LINK | 45% | 20% |
 | SNX | 45% | 20% |
 | fUSDT | 75% | 10% |
+| MIM | 75% | 10% |
 
 
 

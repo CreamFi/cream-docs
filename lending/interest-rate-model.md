@@ -50,7 +50,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | Parameter | Value |
 | :--- | :--- |
 | Category | Stable |
-| Tokens | USDC, DAI, fUSDT |
+| Tokens | USDC, DAI, fUSDT, MIM |
 | Base | 0% |
 | Multiplier | 13% |
 | JumpMultiplier | 800% |
