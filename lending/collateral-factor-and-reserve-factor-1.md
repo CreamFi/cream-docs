@@ -19,7 +19,7 @@ Example: The collateral factor for ETH is 75%, if the price of ETH is considered
 | AAVE | 45% | 20% |
 | BAND | 0% | 20% |
 | KP3R | 0% | 20% |
-| COVER | 0% | 20% |
+| COVER | 0% | 100% |
 | HEGIC | 0% | 20% |
 | LINK | 45% | 20% |
 | SNX | 45% | 20% |
