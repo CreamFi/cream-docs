@@ -6,9 +6,9 @@ description: Press kit and assets for media use
 
 ### Main Logo
 
-![](.gitbook/assets/main-logo.svg)
+![](.gitbook/assets/main-logo%20%281%29.svg)
 
-{% file src=".gitbook/assets/main-logo \(1\).svg" caption="SVG" %}
+{% file src=".gitbook/assets/main-logo \(1\) \(1\).svg" caption="SVG" %}
 
 {% file src=".gitbook/assets/main-logo-512w.png" caption="512 x 119 PNG" %}
 
@@ -20,15 +20,15 @@ description: Press kit and assets for media use
 
 ### CREAM Logo
 
-![](.gitbook/assets/256-x-256%20%281%29.png)
+![](.gitbook/assets/cream-256x256%20%281%29.png)
 
 Intended use case: square logo, symbol, favicon
 
-{% file src=".gitbook/assets/cream.svg" caption="SVG" %}
+{% file src=".gitbook/assets/cream \(1\).svg" caption="SVG" %}
 
 {% file src=".gitbook/assets/cream-32x32 \(1\).png" caption="32 x 32 PNG" %}
 
-{% file src=".gitbook/assets/cream-256x256.png" caption="256 x 256 PNG" %}
+{% file src=".gitbook/assets/cream-256x256 \(2\).png" caption="256 x 256 PNG" %}
 
 {% file src=".gitbook/assets/cream-512x512.png" caption="512 x 512 PNG" %}
 
@@ -40,9 +40,9 @@ Intended use case: square logo, symbol, favicon
 
 ### Iron Bank
 
-![](.gitbook/assets/ironbank_logo%20%281%29.svg)
+![](.gitbook/assets/ironbank_logo%20%283%29.svg)
 
-{% file src=".gitbook/assets/ironbank\_logo.svg" caption="SVG" %}
+{% file src=".gitbook/assets/ironbank\_logo \(2\).svg" caption="SVG" %}
 
 {% file src=".gitbook/assets/ironbank-512w.png" caption="512 x 92 PNG" %}
 

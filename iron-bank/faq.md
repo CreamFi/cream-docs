@@ -2,7 +2,7 @@
 
 ## **What is the difference between CREAM v1 and the Iron Bank, AKA CREAM v2?**
 
-CREAM v1 offers lending markets for the long-tail of crypto assets, and does not allow protocol to protocol lending. 
+CREAM v1 offers lending markets for the long-tail of crypto assets, and does not allow protocol to protocol lending.
 
 The Iron Bank services both individual users as well as the liquidity backbone for other DeFi protocols. The Iron Bank features a smaller selection of assets that are deemed to have higher creditworthiness. Whitelisted protocols can borrow from this pool of assets with little to no collateral on The Iron Bank directly. Credit risks are managed through a combination of smart contract security review, insurance coverage, and financial backstop.
 
@@ -10,7 +10,7 @@ The Iron Bank services both individual users as well as the liquidity backbone f
 
 No. Assets supplied to the Iron Bank are held in separate pools from those on CREAM v1. They are two completely segregated asset pools, like two different banks.
 
-The contract addresses for the Iron Bank pools are listed here: 
+The contract addresses for the Iron Bank pools are listed here:
 
 {% page-ref page="iron-bank.md" %}
 
@@ -65,6 +65,4 @@ Exploits that occur through the under-collateralized borrower will remain debt b
 The Iron Bank currently uses Chainlink’s oracle solution for its assets:
 
 {% page-ref page="price-oracle.md" %}
-
-
 
