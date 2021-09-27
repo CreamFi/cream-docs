@@ -45,14 +45,14 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 ## Stable
 
-![](../.gitbook/assets/jie-tu-20210719-xia-wu-8.28.18.png)
+![](../.gitbook/assets/jie-tu-20210927-15.33.18.png)
 
 | Parameter | Value |
 | :--- | :--- |
 | Category | Stable |
 | Tokens | USDC, DAI, fUSDT |
 | Base | 0% |
-| Multiplier | 18% |
+| Multiplier | 13% |
 | JumpMultiplier | 800% |
 | Kink 1 | 80% |
 | Kink 2 | 90% |
@@ -60,16 +60,16 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 ## Governance
 
-![](../.gitbook/assets/jie-tu-20210723-xia-wu-4.35.51.png)
+![](../.gitbook/assets/jie-tu-20210927-15.34.07.png)
 
 | Parameter | Value |
 | :--- | :--- |
 | Category | Governance |
 | Tokens | CREAM, YFI, SUSHI, AAVE, BAND, COVER, HEGIC, LINK, SNX |
 | Base | 0% |
-| Multiplier | 20% |
-| JumpMultiplier | 500% |
-| Kink 1 | 70% |
-| Kink 2 | 80% |
+| Multiplier | 27% |
+| JumpMultiplier | 900% |
+| Kink 1 | 80% |
+| Kink 2 | 90% |
 | Contract Address | [0x7d26577903F3986D3F3C554B2e229D36fa3f8ea9](https://ftmscan.com/address/0x7d26577903F3986D3F3C554B2e229D36fa3f8ea9) |
 
