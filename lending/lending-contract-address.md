@@ -17,7 +17,7 @@
 | crBAND | [0x379555965fcdbA7A40e8B5b5eF4786f51ADeeF31](https://ftmscan.com/address/0x379555965fcdbA7A40e8B5b5eF4786f51ADeeF31) | Yes |
 | ~~crKP3R~~ | ~~~~[~~0x73CF8c5D14Aa0EbC89f18272A568319F5BAB6cBD~~](https://ftmscan.com/address/0x73CF8c5D14Aa0EbC89f18272A568319F5BAB6cBD)~~~~ | Yes |
 | ~~crSUSD~~ | ~~~~[~~0xf976C9bc0E16B250E0B1523CffAa9E4c07Bc5C8a~~](https://ftmscan.com/address/0xf976C9bc0E16B250E0B1523CffAa9E4c07Bc5C8a)~~~~ | Yes |
-| crCOVER | [0x5b4058A9000e86fe136Ac896352C4DFD539E32a1](https://ftmscan.com/address/0x5b4058A9000e86fe136Ac896352C4DFD539E32a1) | Yes |
+| ~~crCOVER~~ | ~~~~[~~0x5b4058A9000e86fe136Ac896352C4DFD539E32a1~~](https://ftmscan.com/address/0x5b4058A9000e86fe136Ac896352C4DFD539E32a1)~~~~ | ~~No~~ |
 | crHEGIC | [0x139Dd8Bb6355d20342e08ff013150b1aE5040a42](https://ftmscan.com/address/0x139Dd8Bb6355d20342e08ff013150b1aE5040a42) | Yes |
 | crLINK | [0x4eCEDdF62277eD78623f9A94995c680f8fd6C00e](https://ftmscan.com/address/0x4eCEDdF62277eD78623f9A94995c680f8fd6C00e) | Yes |
 | crSNX | [0x1cc6Cf8455f7783980B1ee06ecD4ED9acd94e1c7](https://ftmscan.com/address/0x1cc6Cf8455f7783980B1ee06ecD4ED9acd94e1c7) | Yes |
