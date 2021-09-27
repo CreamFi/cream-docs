@@ -39,7 +39,7 @@
 | crDAI | [0x92B767185fB3B04F881e3aC8e5B0662a027A1D9f](https://etherscan.io/address/0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f) | Yes |
 | crHEGIC | [0x10a3da2BB0Fae4D591476fd97D6636fd172923a8](https://etherscan.io/address/0x10a3da2bb0fae4d591476fd97d6636fd172923a8) | Yes |
 | crESD | [0x3C6C553A95910F9FC81c98784736bd628636D296](https://etherscan.io/address/0x3c6c553a95910f9fc81c98784736bd628636d296) | Yes |
-| crCOVER \(protocol shutdown\) | [0x21011bc93d9e515b9511a817a1ed1d6d468f49fc](https://etherscan.io/address/0x21011bc93d9e515b9511a817a1ed1d6d468f49fc) | Yes |
+| ~~crCOVER~~ \(protocol shutdown\) | ~~~~[~~0x21011bc93d9e515b9511a817a1ed1d6d468f49fc~~](https://etherscan.io/address/0x21011bc93d9e515b9511a817a1ed1d6d468f49fc)~~~~ | ~~No~~ |
 | cr1INCH | [0x85759961b116f1D36fD697855c57A6ae40793D9B](https://etherscan.io/address/0x85759961b116f1d36fd697855c57a6ae40793d9b) | Yes |
 | crOMG | [0x7Aaa323D7e398be4128c7042d197a2545f0f1fea](https://etherscan.io/address/0x7aaa323d7e398be4128c7042d197a2545f0f1fea) | Yes |
 | crUNI-V2-WBTC-ETH | [0x011a014d5e8Eb4771E575bB1000318D509230Afa](https://etherscan.io/address/0x011a014d5e8eb4771e575bb1000318d509230afa) | No |
