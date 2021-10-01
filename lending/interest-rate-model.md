@@ -136,5 +136,5 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | JumpMultiplier | 550% |
 | Kink 1 | 70% |
 | Kink 2 | 95% |
-| Contract Address | [0x5F18B46FFb6dfC1A4a2c2fDbC4De48dc741C7EF4](https://bscscan.com/address/0x5F18B46FFb6dfC1A4a2c2fDbC4De48dc741C7EF4) |
+| Contract Address | [0x92F70dE2D257f9a381AF47191506851aB405e8Ba](https://www.bscscan.com/address/0x92F70dE2D257f9a381AF47191506851aB405e8Ba) |
 
