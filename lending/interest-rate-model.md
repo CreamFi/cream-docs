@@ -125,7 +125,7 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 
 ### BNB
 
-![](../.gitbook/assets/jie-tu-20210819-14.45.30.png)
+![](../.gitbook/assets/jie-tu-20211001-15.17.47.png)
 
 | Parameter | Value |
 | :--- | :--- |
@@ -133,8 +133,8 @@ Find other variables in [Markets](https://app.cream.finance/markets)
 | Tokens | BNB |
 | Base | 0% |
 | Multiplier | 12% |
-| JumpMultiplier | 60% |
-| Kink 1 | 60% |
-| Kink 2 | 80% |
+| JumpMultiplier | 550% |
+| Kink 1 | 70% |
+| Kink 2 | 95% |
 | Contract Address | [0x5F18B46FFb6dfC1A4a2c2fDbC4De48dc741C7EF4](https://bscscan.com/address/0x5F18B46FFb6dfC1A4a2c2fDbC4De48dc741C7EF4) |
 
