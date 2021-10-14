@@ -15,12 +15,8 @@ There are 3 major differences between C.R.E.A.M. Flash Loans and AAVE v1 Flash L
 3. Fee is cheaper. C.R.E.A.M. fee is 0.03%
 
 {% hint style="info" %}
-Only part of markets have Flash Loans
+Not all markets have Flash Loans
 {% endhint %}
-
-### Binance Smart Chain
-
-WBNB, ETH, USDT, USDC, DAI, BTCB, BUSD, XRP, BCH, LTC, LINK, DOT, ADA, BAND, EOS, XTZ, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renBTC, renZEC, BETH, IOTX, SXP, SUSHI
 
 {% content-ref url="lending/lending-contract-address.md" %}
 [lending-contract-address.md](lending/lending-contract-address.md)
@@ -29,4 +25,3 @@ WBNB, ETH, USDT, USDC, DAI, BTCB, BUSD, XRP, BCH, LTC, LINK, DOT, ADA, BAND, EOS
 ## Step by step guide
 
 Please refer to Ethereum mainnet's [documentation](https://docs.cream.finance/flash-loans#step-by-step-guide).
-

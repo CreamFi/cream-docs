@@ -1,5 +1,5 @@
 ---
-description: Binance Smart Chain documentation
+description: Avalanche documentation
 ---
 
 # C.R.E.A.M. Finance
@@ -10,7 +10,7 @@ You can switch between Ethereum Mainnet, Binance Smart Chain and Fantom Opera in
 
 ## Overview
 
-### What is C.R.E.A.M. Finance
+### What is C.R.E.A.M. Finance?
 
 C.R.E.A.M. Finance is a decentralized lending protocol for individuals and protocols to access financial services. The protocol is permissionless, transparent, and non-custodial.
 
