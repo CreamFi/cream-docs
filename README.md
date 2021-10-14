@@ -1,5 +1,5 @@
 ---
-description: Binance Smart Chain documentation
+description: Arbitrum documentation
 ---
 
 # C.R.E.A.M. Finance
@@ -20,13 +20,14 @@ C.R.E.A.M. Finance’s smart contract money markets are focused on longtail asse
 
 Users are able to lend any supported assets on our markets, and use the provided capital as collateral to borrow another supported asset.
 
-C.R.E.A.M. offers a wide range of tokens on our money markets, including: stablecoins \(USDT, USDC, BUSD\); interest-bearing stablecoins \(yCRV, yyCRV\); defi tokens \(YFI, SUSHI, CREAM, CREAM\); LP-tokens \(USDC-ETH SLP, WBTC-ETH SLP\); and other cryptocurrencies \(ETH, LINK\). This list is not exhaustive.
+C.R.E.A.M. offers a wide range of tokens on our money markets, including: stablecoins (USDT, USDC, BUSD); interest-bearing stablecoins (yCRV, yyCRV); defi tokens (YFI, SUSHI, CREAM, CREAM); LP-tokens (USDC-ETH SLP, WBTC-ETH SLP); and other cryptocurrencies (ETH, LINK). This list is not exhaustive.
 
 Please check the link below for the latest list of supported tokens:
 
-{% page-ref page="lending/lending-contract-address.md" %}
+{% content-ref url="lending/lending-contract-address.md" %}
+[lending-contract-address.md](lending/lending-contract-address.md)
+{% endcontent-ref %}
 
 ### How to Use C.R.E.A.M. Finance?
 
-Borrow and lend tokens on [app.cream.finance](https://app.cream.finance/)
-
+Borrow and lend tokens on [app.cream.finance](https://app.cream.finance)
