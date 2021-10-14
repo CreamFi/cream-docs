@@ -1,6 +1,7 @@
 # Table of contents
 
 * [C.R.E.A.M. Finance](README.md)
+* [Flash Loans](flash-loans.md)
 
 ## Lending
 
@@ -13,9 +14,8 @@
 
 * [crTokens](https://docs.cream.finance/developer/crtokens)
 * [Data API](https://api.cream.finance/api/documentations/)
-* [Subgraph \(GraphQL\)](https://thegraph.com/explorer/subgraph/creamfinancedev/cream-polygon)
+* [Subgraph (GraphQL)](https://thegraph.com/explorer/subgraph/creamfinancedev/cream-polygon)
 
----
+***
 
 * [Give Feedback](https://forum.cream.finance/c/site-feedback)
-

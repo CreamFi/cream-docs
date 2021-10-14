@@ -2,7 +2,7 @@
 
 C.R.E.A.M. is bringing Flash Loans to our money markets.
 
-Flash Loans allow developers access to undercollateralized loans, pending the borrowed amount \(and fee\) is returned within one transaction block.
+Flash Loans allow developers access to undercollateralized loans, pending the borrowed amount (and fee) is returned within one transaction block.
 
 Flash Loans offer a wide range of use cases, including democratized liquidations, arbitrage, collateral swapping and interest rate swapping.
 
@@ -15,18 +15,13 @@ There are 3 major differences between C.R.E.A.M. Flash Loans and AAVE v1 Flash L
 3. Fee is cheaper. C.R.E.A.M. fee is 0.03%
 
 {% hint style="info" %}
-Only part of markets have Flash Loans
+Not all markets have Flash Loans
 {% endhint %}
 
-### Binance Smart Chain
-
-WBNB, ETH, USDT, USDC, DAI, BTCB, BUSD, XRP, BCH, LTC, LINK, DOT, ADA, BAND, EOS, XTZ, FIL, YFI, UNI, ATOM, ALPHA, TWT, CAKE, XVS, BAT, VAI, AUTO, renBTC, renZEC, BETH, IOTX, SXP, SUSHI
-
-{% page-ref page="lending/lending-contract-address.md" %}
+{% content-ref url="lending/lending-contract-address.md" %}
+[lending-contract-address.md](lending/lending-contract-address.md)
+{% endcontent-ref %}
 
 ## Step by step guide
 
-Please refer to Ethereum mainnet's [documentation](https://docs.cream.finance/flash-loans#step-by-step-guide).
-
-
-
+Please refer to Ethereum mainnet's [documentation](https://docs.cream.finance/flash-loans-1/flash-loans-eip-3156).
