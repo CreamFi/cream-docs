@@ -1,3 +1,7 @@
+---
+description: Conforming to EIP-3156
+---
+
 # Flash Loans
 
 C.R.E.A.M. is bringing Flash Loans to our money markets.
@@ -24,4 +28,4 @@ Not all markets have Flash Loans
 
 ## Step by step guide
 
-Please refer to Ethereum mainnet's [documentation](https://docs.cream.finance/flash-loans#step-by-step-guide).
+Please refer to Ethereum mainnet's [documentation](https://docs.cream.finance/flash-loans-1/flash-loans-eip-3156).
