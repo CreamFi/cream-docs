@@ -4,27 +4,26 @@
 
 #### Co-Founder
 
-    Leo Cheng \([Twitter](https://twitter.com/leokcheng)\)
+[Leo Cheng](https://twitter.com/leokcheng)
 
 #### Tech Lead
 
-    Jeremy Yang \([Twitter](https://twitter.com/JeremyYangHD)\)
+[Jeremy Yang](https://twitter.com/JeremyYangHD)
 
 #### Developer
 
-    Bun Hsu \([Twitter](https://twitter.com/bun919tw)\)
+[Bun Hsu](https://twitter.com/bun919tw)
 
-    Stanley Ding \([Twitter](https://twitter.com/stanley_exists)\)
+[Stanley Ding](https://twitter.com/stanley\_exists)
 
-    Sonic Jhan \([Twitter](https://twitter.com/jsying13)\)
+[Sonic Jhan](https://twitter.com/jsying13)
 
 #### Product Manager
 
-    Eason Wu \([Twitter](https://twitter.com/eason_cream)\)
+[Eason Wu](https://twitter.com/eason\_cream)
 
 #### Marketing
 
-    Max \([Twitter](https://twitter.com/farmerdefi)\)
+[Max](https://twitter.com/farmerdefi)
 
-    Charlotte Lee \([Twitter](https://twitter.com/CharlotteleeW)\)
-
+[Charlotte Lee](https://twitter.com/CharlotteleeW)

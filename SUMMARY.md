@@ -4,6 +4,7 @@
 * [Contract Address](smart-contract-address.md)
 * [Audit Report](audit-report.md)
 * [About](about.md)
+* [Listing Committee](listing-committee.md)
 * [Press Kit](press-kit.md)
 
 ## Lending
@@ -12,7 +13,6 @@
 * [Collateral Factor & Reserve Factor](lending/collateral-factor-and-reserve-factor-1.md)
 * [Interest Rate Model](lending/interest-rate-model.md)
 * [Price Oracle](lending/price-oracle.md)
-* [Listing Committee](lending/listing-committee.md)
 
 ## Iron Bank
 
@@ -29,10 +29,10 @@
 * [iceCREAM Mechanism Phase 1](icecream/icecream-mechanism-phase-1.md)
 * [iceCREAM Mechanism Phase 2](icecream/icecream-mechanism-phase-2.md)
 
-## Flash Loans <a id="flash-loans-1"></a>
+## Flash Loans <a href="flash-loans-1" id="flash-loans-1"></a>
 
 * [Flash Loans](flash-loans-1/flash-loans-eip-3156.md)
-* [Flash Loans \(deprecated\)](flash-loans-1/flash-loans.md)
+* [Flash Loans (deprecated)](flash-loans-1/flash-loans.md)
 
 ## Developer
 
@@ -42,10 +42,10 @@
   * [crTokens](developer/error-codes/crtokens.md)
   * [Comptroller](developer/error-codes/comptroller.md)
 * [Data API](https://api.cream.finance/api/documentations/)
-* [Subgraph \(GraphQL\)](developer/subgraph-graphql.md)
+* [Subgraph (GraphQL)](developer/subgraph-graphql.md)
 * [Open Defi](developer/open-defi.md)
 
-## CRETH2 <a id="eth2"></a>
+## CRETH2 <a href="eth2" id="eth2"></a>
 
 * [What is Ethereum 2.0](eth2/what-is-ethereum-2.0.md)
 * [Why Stake for CRETH2](eth2/why-stake-in-ethereum-2.0.md)
@@ -61,7 +61,6 @@
 * [Inactive Staking pools Address](legacy/inactive-staking-pools-address.md)
 * [creamY](legacy/creamy-v1.md)
 
----
+***
 
 * [Give Feedback](https://forum.cream.finance/c/site-feedback)
-
