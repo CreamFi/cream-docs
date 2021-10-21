@@ -4,9 +4,7 @@
 
 **Borrow APY**
 
-\= \[1 + Base + Multiplier \* min(UtilizationRate, Kink) + max(JumpMultiplier \* UtilizationRate - Kink, 0)] ^ 31536000 - 1
-
-
+\= \[1 + Base + Multiplier \* min(UtilizationRate, Kink 1) + max(JumpMultiplier \* UtilizationRate - Kink 2, 0)] ^ 31536000 - 1
 
 **Supply APY**
 
@@ -72,4 +70,3 @@ Find other variables in [Markets](https://app.cream.finance/markets/arbitrum)
 | Kink 1           | 70%                                                                                         |
 | Kink 2           | 80%                                                                                         |
 | Contract Address | [0x20d5d319C2964ecb52e1B006a4C059b7f6d6ad0a](https://cchain.explorer.avax.network/address/) |
-
