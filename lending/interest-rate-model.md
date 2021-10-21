@@ -23,7 +23,7 @@ BlocksPerYear = 31,536,000 (1 sec per block)
 {% endhint %}
 
 {% hint style="info" %}
-Find other variables in [Markets](https://app.cream.finance/markets/arbitrum)
+Find other variables in [Markets](https://app.cream.finance/markets/avalanche)
 {% endhint %}
 
 ## Major
