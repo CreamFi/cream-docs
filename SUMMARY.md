@@ -41,9 +41,9 @@
 * [Error Codes](developer/error-codes/README.md)
   * [crTokens](developer/error-codes/crtokens.md)
   * [Comptroller](developer/error-codes/comptroller.md)
-* [Data API](https://api.cream.finance/api/documentations/)
 * [Subgraph (GraphQL)](developer/subgraph-graphql.md)
-* [Open Defi](developer/open-defi.md)
+* [Testnet](developer/testnet.md)
+* [Data API](https://api.cream.finance/api/documentations/)
 
 ## CRETH2 <a href="eth2" id="eth2"></a>
 
