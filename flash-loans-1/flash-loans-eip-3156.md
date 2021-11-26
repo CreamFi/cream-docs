@@ -8,7 +8,7 @@ description: conforming to EIP-3156
 
 C.R.E.A.M. is bringing Flash Loans to our money markets.
 
-Flash Loans allow developers access to undercollateralized loans, provided that the borrowed amount \(and fee\) is returned within one transaction block.
+Flash Loans allow developers access to undercollateralized loans, provided that the borrowed amount (and fee) is returned within one transaction block.
 
 Flash Loans offer a wide range of use cases, including democratized liquidations, arbitrage, collateral swapping and interest rate swapping.
 
@@ -20,14 +20,13 @@ There are 3 major differences between C.R.E.A.M. Flash Loans and AAVE v1 Flash L
 2. C.R.E.A.M has deployed two flashLoanLenders that conform to EIP-3156; one for Lending and one for IronBank.
 3. Fee is cheaper. C.R.E.A.M. fee is 0.03%
 
-Only tokens listed below are flash-loanable:
-
-LON IBBTC PAXG PAX EURT BNT WOO FEI SWAP GNO COVER VVSP VSP MLN ARNXM ARMOR SFI RARI OCEAN PERP RAI RUNE FTM UST ALPHA FRAX AMP OGN AKRO PICKLE SUSD SNX WBTC OMG 1INCH ESD HEGIC DAI HUSD CRETH2 HFIL HBTC KP3R AAVE BOND BBTC DPI CEL WNXM SRM UNI FTT SUSHI MTA BUSD RENBTC CRV LINK COMP BAL YFI USDC USDT
+{% hint style="info" %}
+Not all markets support Flash Loan. Check out [Contract Address](../iron-bank/iron-bank.md).
+{% endhint %}
 
 ## flashloanLender
 
-* Ethereum v1: [0xa8682Cfd2B6c714d2190fA38863d545c7a0b73D5](https://etherscan.io/address/0xa8682Cfd2B6c714d2190fA38863d545c7a0b73D5)
-* Iron Bank: [0x1a21Ab52d1Ca1312232a72f4cf4389361A479829](https://etherscan.io/address/0x1a21Ab52d1Ca1312232a72f4cf4389361A479829)
+Iron Bank: [0x1a21Ab52d1Ca1312232a72f4cf4389361A479829](https://etherscan.io/address/0x1a21Ab52d1Ca1312232a72f4cf4389361A479829)
 
 ## Step by step guide
 
@@ -35,7 +34,7 @@ LON IBBTC PAXG PAX EURT BNT WOO FEI SWAP GNO COVER VVSP VSP MLN ARNXM ARMOR SFI 
 
 Your contract that receives the flash loaned funds must conform to [IERC3156FlashBorrowerInterface](https://eips.ethereum.org/EIPS/eip-3156#receiver-specification) interface as specified in the standard
 
-```text
+```
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.0;
 
@@ -89,16 +88,16 @@ contract FlashloanBorrower is ERC3156FlashBorrowerInterface {
 
 ### 2. Calling `flashLoan()`
 
-To call [flashLoan\(ERC3156FlashBorrowerInterface receiver, address token, uint256 amount, bytes calldata data\)](https://github.com/CreamFi/compound-protocol/blob/master/contracts/CCollateralCapErc20.sol#L185) on flashLoanLender \([Lending](https://docs.cream.finance/lending/lending-contract-address), [IronBank](https://docs.cream.finance/iron-bank/iron-bank)\), 4 parameters are required.
+To call [flashLoan(ERC3156FlashBorrowerInterface receiver, address token, uint256 amount, bytes calldata data)](https://github.com/CreamFi/compound-protocol/blob/master/contracts/CCollateralCapErc20.sol#L185) on flashLoanLender ([Lending](https://docs.cream.finance/lending/lending-contract-address), [IronBank](https://docs.cream.finance/iron-bank/iron-bank)), 4 parameters are required.
 
 * `receiver` : The Flash Loan contract address you deployed.
 * `token` : The token you'd like to borrow
 * `amount` : Keep in mind that the decimal of amount is dependent on borrowToken's contract implementation.
-* `data` : encoded parameter for `onFlashloan()`.
+*   `data` : encoded parameter for `onFlashloan()`.
 
-  * If no parameters are needed in your Flash Loan contract, use an empty value `""`.
+    * If no parameters are needed in your Flash Loan contract, use an empty value `""`.
 
-  If you would like to pass parameters into your flash loan, you will need to encode it.
+    If you would like to pass parameters into your flash loan, you will need to encode it.
 
 ### How to pass your parameters by encoding and decoding
 
@@ -108,34 +107,30 @@ Before you pass your parameters, you will need to determine the type and layout 
 
 For example:
 
-```text
+```
 (address target) = abi.decode(params, (address));
-
 ```
 
 #### Encoding
 
 Encoding can be done off-chain by using a package like [ethers.js](https://docs.ethers.io/v5/api/utils/abi/coder/#AbiCoder--methods).
 
-```text
+```
 const data = ethers.utils.defaultAbiCoder.encode(
     ["string", "address"],
     ["hello world!", "0x0000000000000000000000000000000000000000"]
 );
-
 ```
 
 Or else, can be done with solidity.
 
-```text
+```
 bytes memory data = abi.encode(address(this), 1234);
-
 ```
 
-Like in function`doFlashloan(address flashloanLender, address borrowToken, uint256 borrowAmount)`   
+Like in function`doFlashloan(address flashloanLender, address borrowToken, uint256 borrowAmount)`\
 of the above example.
 
 ## Playground
 
-To play around with our Flash Loans with mainnet forking environment, please check out this repo: ****[CreamFi/flashloan-playground](https://github.com/CreamFi/flashloan-playground)
-
+To play around with our Flash Loans with mainnet forking environment, please check out this repo: \*\*\*\*[CreamFi/flashloan-playground](https://github.com/CreamFi/flashloan-playground)
