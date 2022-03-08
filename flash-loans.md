@@ -8,17 +8,10 @@ Flash Loans allow developers access to undercollateralized loans, provided that 
 
 Flash Loans offer a wide range of use cases, including democratized liquidations, arbitrage, collateral swapping and interest rate swapping.
 
-Our Flash Loans feature is very similar to [AAVE Flash Loans V1](https://aave.com/flash-loans), except C.R.E.A.M. Flash Loans are implemented on crToken.
+1. Using C.R.E.A.M. Flash Loans devs **interact with CToken contract,** instead of the lending pool.
+2. Flash Loan fee is 0.03%
 
-There are 3 major differences between C.R.E.A.M. Flash Loans and AAVE v1 Flash Loans:
-
-1. Using C.R.E.A.M. Flash Loans devs **interact with flashLoanLender contract ,** instead of the lending pool.
-2. C.R.E.A.M has deployed two flashLoanLenders that conform to EIP-3156; one for Lending and one for IronBank.
-3. Fee is cheaper. C.R.E.A.M. fee is 0.03%
-
-#### CToken flashloan updates
-
-We have upgraded our BSC markets to comply EIP-3156 interfaces natively. The old flashloanLender is no longer workable. Users should call flashloan on specific market with the following interface:
+Our BSC markets comply to EIP-3156 interfaces natively. The old flashloanLender is no longer workable. Users should call flashloan on specific market with the following interface:
 
 ```
 /**
