@@ -16,7 +16,26 @@ There are 3 major differences between C.R.E.A.M. Flash Loans and AAVE v1 Flash L
 2. C.R.E.A.M has deployed two flashLoanLenders that conform to EIP-3156; one for Lending and one for IronBank.
 3. Fee is cheaper. C.R.E.A.M. fee is 0.03%
 
-FlashloanLender: [0xb7132898491431B63c7C90DF31F13dC6dC414b5a](https://bscscan.com/address/0xb7132898491431B63c7C90DF31F13dC6dC414b5a)
+#### CToken flashloan updates
+
+We have upgraded our BSC markets to comply EIP-3156 interfaces natively. The old flashloanLender is no longer workable. Users should call flashloan on specific market with the following interface:
+
+```
+/**
+ * @notice Flash loan funds to a given account.
+ * @param receiver The receiver address for the funds
+ * @param token The loan currency. Must match the address of this contract's underlying.
+ * @param amount The amount of the funds to be loaned
+ * @param data The other data
+ * @return uint 0=success, otherwise a failure (see ErrorReporter.sol for details)
+ */
+function flashLoan(
+    ERC3156FlashBorrowerInterface receiver,
+    address token,
+    uint256 amount,
+    bytes calldata data
+) external returns (bool);
+```
 
 {% hint style="info" %}
 Not all markets have Flash Loans
