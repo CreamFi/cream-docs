@@ -1,6 +1,6 @@
 # iceCREAM Mechanism Phase 1
 
-![](../.gitbook/assets/icecream_-3-.png)
+![](../.gitbook/assets/icecream\_-3-.png)
 
 ## Components
 
@@ -10,13 +10,17 @@ The lending protocol includes the comptroller, cToken markets, and cTokenAdmin. 
 
 Source: [https://github.com/CreamFi/compound-protocol](https://github.com/CreamFi/compound-protocol)
 
-{% page-ref page="../lending/lending-contract-address.md" %}
+{% content-ref url="../lending/lending-contract-address.md" %}
+[lending-contract-address.md](../lending/lending-contract-address.md)
+{% endcontent-ref %}
 
-{% page-ref page="../iron-bank/iron-bank.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 ### Reserve Manager
 
-The reserve manager is the hub of reserves extraction. It snapshots all the cToken reserves and everyone could trigger the extraction \(with a 1-day cooldown period\). It should take a ratio \(currently 50%\) of reserves and send them to the burners.
+The reserve manager is the hub of reserves extraction. It snapshots all the cToken reserves and everyone could trigger the extraction (with a 1-day cooldown period). It should take a ratio (currently 50%) of reserves and send them to the burners.
 
 Source: [https://github.com/CreamFi/reserve-manager](https://github.com/CreamFi/reserve-manager)
 
@@ -24,21 +28,18 @@ Reserve Manager: [0x0C5Bf19618A8FCDdb132d82BC6c5ea736A1beAED](https://etherscan.
 
 ### Burners
 
-Burners are a group of token converters. They will burn tokens into USDC, and USDC burner will convert USDC into yvCurve-IB token. There is a special component called manual burner. It's used for tokens whose onchain liquidity \(Ethereum\) is not deep enough. The manual burner is an EOA that will send the tokens to a centralized exchange or another network to convert manually. In the end, all tokens will be converted to yvCurve-IB token and send to the fee distributor.
+Burners are a group of token converters. They will burn tokens into USDC, and USDC burner will convert USDC into yvCurve-IB token. There is a special component called manual burner. It's used for tokens whose onchain liquidity (Ethereum) is not deep enough. The manual burner is an EOA that will send the tokens to a centralized exchange or another network to convert manually. In the end, all tokens will be converted to yvCurve-IB token and send to the fee distributor.
 
-![](../.gitbook/assets/icecream_-4-.png)
+![](../.gitbook/assets/icecream\_-4-.png)
 
 Source: [https://github.com/CreamFi/curve-dao-contracts](https://github.com/CreamFi/curve-dao-contracts)
 
 ### Fee Distributor & Voting Escrow
 
-The fee distributor and the voting escrow are the final stops of iceCream phase 1. The fee distributor stores all the reserves in yvCurve-IB and it handles the fee distribution among all the iceCream stakers. The voting escrow \(iceCream\) is where users stake their CREAM tokens. Users could claim the rewards here.
+The fee distributor and the voting escrow are the final stops of iceCream phase 1. The fee distributor stores all the reserves in yvCurve-IB and it handles the fee distribution among all the iceCream stakers. The voting escrow (iceCream) is where users stake their CREAM tokens. Users could claim the rewards here.
 
 Source: [https://github.com/CreamFi/curve-dao-contracts](https://github.com/CreamFi/curve-dao-contracts)
 
 Fee Distributor: [0x0Ca0f068edad122f09a39f99E7E89E705d6f6Ace](https://etherscan.io/address/0x0Ca0f068edad122f09a39f99E7E89E705d6f6Ace)
 
 Voting Escrow: [0x3986425b96F11972d31C78ff340908832C5c0043](https://etherscan.io/address/0x3986425b96F11972d31C78ff340908832C5c0043)
-
-
-

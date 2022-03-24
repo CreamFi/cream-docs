@@ -4,7 +4,6 @@
 * [Contract Address](smart-contract-address.md)
 * [Audit Report](audit-report.md)
 * [About](about.md)
-* [Listing Committee](listing-committee.md)
 * [Press Kit](press-kit.md)
 
 ## Lending
@@ -14,25 +13,11 @@
 * [Interest Rate Model](lending/interest-rate-model.md)
 * [Price Oracle](lending/price-oracle.md)
 
-## Iron Bank
-
-* [Iron Bank Contract Address](iron-bank/iron-bank.md)
-* [Collateral & Reserve Factor](iron-bank/collateral-and-reserve-factor.md)
-* [Interest Rate Model](iron-bank/interest-rate-model.md)
-* [Price Oracle](iron-bank/price-oracle.md)
-* [Delist Standard](iron-bank/delist-standard.md)
-* [FAQ](iron-bank/faq.md)
-
 ## iceCREAM
 
 * [iceCREAM Tokenomics](icecream/icecream-tokenomics.md)
 * [iceCREAM Mechanism Phase 1](icecream/icecream-mechanism-phase-1.md)
 * [iceCREAM Mechanism Phase 2](icecream/icecream-mechanism-phase-2.md)
-
-## Flash Loans <a href="flash-loans-1" id="flash-loans-1"></a>
-
-* [Flash Loans](flash-loans-1/flash-loans-eip-3156.md)
-* [Flash Loans (deprecated)](flash-loans-1/flash-loans.md)
 
 ## Developer
 
@@ -45,7 +30,7 @@
 * [Testnet](developer/testnet.md)
 * [Data API](https://api.cream.finance/api/documentations/)
 
-## CRETH2 <a href="eth2" id="eth2"></a>
+## CRETH2 <a href="#eth2" id="eth2"></a>
 
 * [What is Ethereum 2.0](eth2/what-is-ethereum-2.0.md)
 * [Why Stake for CRETH2](eth2/why-stake-in-ethereum-2.0.md)
