@@ -5,6 +5,7 @@
 * [Audit Report](audit-report.md)
 * [About](about.md)
 * [Press Kit](press-kit.md)
+* [Terms of Service](tos.md)
 
 ## Lending
 
