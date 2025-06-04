@@ -2,7 +2,7 @@
 
 ## Company and Interface Overview
 
-This website-hosted user interface (this “Interface”) is made available by Majestic Team International CO., Ltd. , a corporation organized and existing under the laws of Samoa (the “Company”).
+This website-hosted user interface (this “Interface”) is made available by Asia Authority International CO., Ltd., a corporation organized and existing under the laws of Samoa (the “Company”).
 
 ## Terms of Use
 
